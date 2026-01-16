@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# VSCode
+.vscode/
+
+# Virtual environments
+.venv
+
+# Project Plan
+obsidian-vault/
+
+# Tailwind
+tailwind.exe
