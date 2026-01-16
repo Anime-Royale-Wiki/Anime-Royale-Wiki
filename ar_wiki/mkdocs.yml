@@ -30,6 +30,7 @@ extra_css:
   - assets/css/tailwind.css
 
 extra_javascript:
+  - assets/js/unit-filter.js
   - https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js
   - https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js
   - https://unpkg.com/@popperjs/core@2

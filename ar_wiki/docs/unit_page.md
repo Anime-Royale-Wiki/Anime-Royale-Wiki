@@ -1,30 +1,66 @@
-<div class="unit-menu">
-  <div class="search-container"></div>
+<div class="unit-menu" x-data="unitFilterSystem">
+  <div class="search-container">
+    <input
+      type="text"
+      class="search-input"
+      placeholder="Search..."
+      x-model="search_term"
+    />
+    <button
+      class="search-clear-btn"
+      x-show="search_term != '' "
+      @click="search_term=''"
+    >
+      X
+    </button>
+  </div>
   <div class="filter-container">
-    <div class="filter-toggle-btn"></div>
-    <div class="filter-content">
+    <button
+      type="button"
+      class="filter-toggle-btn"
+      @click="filter_open = !filter_open"
+    >
+      Filter
+    </button>
+    <div class="filter-content" x-show="filter_open">
       <div class="filter-category">
         <h4 class="filter-category-title">Rarity</h4>
         <ul class="filter-category-list">
-          <li>Royalty</li>
-          <li>Secret</li>
-          <li>Mythic</li>
-          <li>Legendary</li>
-          <li>Epic</li>
-          <li>Rare</li>
+          <template x-for="rarity in rarities" :key="rarity">
+            <li>
+              <button
+                type="button"
+                class="filter-chip"
+                :class="selected_rarities.includes(rarity) ? 'is_active' : ''"
+                @click="toggle_rarity(rarity)"
+                x-text="rarity"
+              ></button>
+            </li>
+          </template>
         </ul>
       </div>
       <div class="filter-category">
         <h4 class="filter-category-title">Element</h4>
         <ul class="filter-category-list">
-          <li>Fire</li>
-          <li>Water</li>
-          <li>Fighting</li>
-          <li></li>
-          <li>Fire</li>
-          <li>Fire</li>
-          <li>Fire</li>
+          <template x-for="element in elements" :key="element">
+            <li>
+              <button
+                type="button"
+                class="filter-chip"
+                :class="selected_elements.includes(element) ? 'is_active' : '' "
+                @click="toggle_element(element)"
+                x-text="element"
+              ></button>
+            </li>
+          </template>
         </ul>
+        <button
+          type="button"
+          @click="clear_filters()"
+          class="clear-filters-btn"
+        >
+          Clear All Filters
+        </button>
       </div>
     </div>
   </div>
