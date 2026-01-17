@@ -1,0 +1,21 @@
+from jinja2 import Environment, FileSystemLoader
+from ar_wiki.src.Components.data_loader import load_data
+from ar_wiki.src.config import PROJECT_ROOT
+
+def update_unit_grid():
+    unit_data = load_data()
+
+    template_dir = PROJECT_ROOT / "Templates"
+    env = Environment(loader=FileSystemLoader(str(template_dir)))
+    template = env.get_template("unit_page_template.html")
+    
+    final_output = template.render(units=unit_data)
+
+    output_path = PROJECT_ROOT / "docs" / "unit_page.md"
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(final_output)
+            
+    print(f"Success: Rebuilt {output_path.name}")
+
+if __name__ == "__main__":
+    update_unit_grid()
