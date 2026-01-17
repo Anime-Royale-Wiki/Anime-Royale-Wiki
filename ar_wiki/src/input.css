@@ -1,3 +1,7 @@
+.md-content h1 {
+    display: none;
+}
+
 @import "tailwindcss";
 @tailwind utilities;
 
