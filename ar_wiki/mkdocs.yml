@@ -13,6 +13,8 @@ theme:
     - navigation.sections
     - search.suggest
     - search.highlight
+    - header.autohide
+
   font:
     text: Inter
     code: Roboto Mono
@@ -26,8 +28,14 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+extra:
+  generator: false
+
+copyright: Copyright &copy; 2026 Anime Royale Wiki
+
 extra_css:
   - assets/css/tailwind.css
+  - assets/css/extra.css
 
 extra_javascript:
   - assets/js/unit-filter.js
