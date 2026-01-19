@@ -1,9 +1,12 @@
 import json
 import re
 
-def clean_and_transform(raw_json_path, output_path):
+def clean_and_transform(raw_json_path, unit_description_path, output_path):
     with open(raw_json_path, 'r', encoding='utf-8') as f:
         raw_data = json.load(f)
+
+    with open(unit_description_path, 'r', encoding='utf-8') as f:
+        unit_description = json.load(f)
 
     cleaned_db = {}
 
@@ -13,11 +16,13 @@ def clean_and_transform(raw_json_path, output_path):
         
         element_match = re.search(r'Type\s*=\s*TypeList\.(\w+)', source)
         element = element_match.group(1) if element_match else "None"
-        
+
         unit_entry = {
             "Name": display_name.group(1) if display_name else unit_id,
             "Rarity": rarity.group(1) if rarity else "N/A",
             "Element": element,
+            "Description": unit_description[unit_id]["Description"],
+            "OptimalTrait": unit_description[unit_id]["OptimalTrait"],
             "Passives": [],
             "Upgrades": []
         }
@@ -69,4 +74,4 @@ def clean_and_transform(raw_json_path, output_path):
     
     print(f"Purge complete. Cleaned {len(cleaned_db)} units into {output_path}")
 
-clean_and_transform('full_raw_data.json', 'units.json')
+clean_and_transform('full_raw_data.json', 'unit_description.json', 'units.json')

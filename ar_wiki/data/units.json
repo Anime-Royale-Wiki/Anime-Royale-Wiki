@@ -3,6 +3,8 @@
         "Name": "Fire Leg",
         "Rarity": "Rare",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -61,6 +63,8 @@
         "Name": "Goko",
         "Rarity": "Rare",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -109,6 +113,8 @@
         "Name": "The Juicebox",
         "Rarity": "Legendary",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -169,6 +175,8 @@
         "Name": "Okuno",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "The Hand",
@@ -230,6 +238,8 @@
         "Name": "Deer Girl",
         "Rarity": "Secret",
         "Element": "Grass",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "The Zoo",
@@ -295,6 +305,8 @@
         "Name": "Sosoke (Kirin)",
         "Rarity": "Legendary",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -363,6 +375,8 @@
         "Name": "The Evil Cup",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -419,6 +433,8 @@
         "Name": "Freeze [Final]",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -483,6 +499,8 @@
         "Name": "Pickle",
         "Rarity": "Epic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -533,6 +551,8 @@
         "Name": "Gotho",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -589,6 +609,8 @@
         "Name": "Sosoke",
         "Rarity": "Rare",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -645,6 +667,8 @@
         "Name": "Game Master",
         "Rarity": "Mythic",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -705,6 +729,8 @@
         "Name": "Eyezen",
         "Rarity": "Secret",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Spiritual Pressure",
@@ -766,6 +792,8 @@
         "Name": "Jogoat",
         "Rarity": "Legendary",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -834,6 +862,8 @@
         "Name": "Gio",
         "Rarity": "Legendary",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -902,6 +932,8 @@
         "Name": "Semi-Perfect Konchu",
         "Rarity": "Mythic",
         "Element": "Poison",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -958,6 +990,8 @@
         "Name": "Virtual Swordmaster [Ultimate]",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1022,6 +1056,8 @@
         "Name": "Game Master [Serious]",
         "Rarity": "Mythic",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1096,6 +1132,8 @@
         "Name": "Zangu",
         "Rarity": "Legendary",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1152,6 +1190,8 @@
         "Name": "Almighty",
         "Rarity": "Secret",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "The One Who Saw The Future",
@@ -1213,6 +1253,8 @@
         "Name": "Freeze",
         "Rarity": "Legendary",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1269,6 +1311,8 @@
         "Name": "Mira [Demon]",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1337,6 +1381,8 @@
         "Name": "Super Boogtenks",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Ghost clones",
@@ -1412,6 +1458,8 @@
         "Name": "Getho",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1468,6 +1516,8 @@
         "Name": "Leafy [Fairy]",
         "Rarity": "Mythic",
         "Element": "Wind",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1532,6 +1582,8 @@
         "Name": "Stabs",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1592,6 +1644,8 @@
         "Name": "Noroto",
         "Rarity": "Rare",
         "Element": "Wind",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1648,6 +1702,8 @@
         "Name": "Geo",
         "Rarity": "Legendary",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1716,6 +1772,8 @@
         "Name": "Virtual Swordgirl",
         "Rarity": "Rare",
         "Element": "Grass",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1764,6 +1822,8 @@
         "Name": "Gobanks",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Ghost Clones",
@@ -1843,6 +1903,8 @@
         "Name": "Goko (End)",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1899,6 +1961,8 @@
         "Name": "Ryko",
         "Rarity": "Rare",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1947,6 +2011,8 @@
         "Name": "Ichiko [Awakened]",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2003,6 +2069,8 @@
         "Name": "Otakurun [Venomous]",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2059,6 +2127,8 @@
         "Name": "Jotero",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2127,6 +2197,8 @@
         "Name": "Yeagar",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2183,6 +2255,8 @@
         "Name": "Otakurun",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2239,6 +2313,8 @@
         "Name": "Goko Dark",
         "Rarity": "Legendary",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2295,6 +2371,8 @@
         "Name": "Goden",
         "Rarity": "Legendary",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2351,6 +2429,8 @@
         "Name": "Aya",
         "Rarity": "Legendary",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2407,6 +2487,8 @@
         "Name": "Misaka",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2467,6 +2549,8 @@
         "Name": "The Drink",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2527,6 +2611,8 @@
         "Name": "Nakuma",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2587,6 +2673,8 @@
         "Name": "Kid Boog",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2651,6 +2739,8 @@
         "Name": "Nightmare XIII",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2719,6 +2809,8 @@
         "Name": "Captain Yama",
         "Rarity": "Mythic",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2787,6 +2879,8 @@
         "Name": "Nemo",
         "Rarity": "Rare",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Cat Burglar",
@@ -2828,6 +2922,8 @@
         "Name": "Nobaro",
         "Rarity": "Legendary",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2896,6 +2992,8 @@
         "Name": "Aligator",
         "Rarity": "Epic",
         "Element": "Ground",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2946,6 +3044,8 @@
         "Name": "Microw",
         "Rarity": "Legendary",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3002,6 +3102,8 @@
         "Name": "Klai",
         "Rarity": "Epic",
         "Element": "Ground",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3050,6 +3152,8 @@
         "Name": "Megu",
         "Rarity": "Legendary",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3110,6 +3214,8 @@
         "Name": "Manara",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3178,6 +3284,8 @@
         "Name": "Alize",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3234,6 +3342,8 @@
         "Name": "Sunny",
         "Rarity": "Mythic",
         "Element": "Grass",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3290,6 +3400,8 @@
         "Name": "Virtual Sniper",
         "Rarity": "Secret",
         "Element": "Water",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Level Up",
@@ -3351,6 +3463,8 @@
         "Name": "Leafy",
         "Rarity": "Mythic",
         "Element": "Wind",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3407,6 +3521,8 @@
         "Name": "Lawlight",
         "Rarity": "Legendary",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "World's Best Detective",
@@ -3469,6 +3585,8 @@
         "Name": "Perfect Konchu",
         "Rarity": "Mythic",
         "Element": "Poison",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3537,6 +3655,8 @@
         "Name": "Gun [Pact]",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Rage",
@@ -3624,6 +3744,8 @@
         "Name": "Teen Gokan (Awakened)",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3688,6 +3810,8 @@
         "Name": "Super Booghan",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3752,6 +3876,8 @@
         "Name": "Virtual Swordman",
         "Rarity": "Rare",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3800,6 +3926,8 @@
         "Name": "Tochito",
         "Rarity": "Mythic",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3868,6 +3996,8 @@
         "Name": "Dracula",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3936,6 +4066,8 @@
         "Name": "Moon Demon",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4004,6 +4136,8 @@
         "Name": "Imperfect Konchu",
         "Rarity": "Legendary",
         "Element": "Poison",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4060,6 +4194,8 @@
         "Name": "Virtual Swordwoman",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4116,6 +4252,8 @@
         "Name": "Shadow",
         "Rarity": "Secret",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Holding Back",
@@ -4177,6 +4315,8 @@
         "Name": "Inusuke",
         "Rarity": "Epic",
         "Element": "Grass",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4225,6 +4365,8 @@
         "Name": "Kaito",
         "Rarity": "Legendary",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4281,6 +4423,8 @@
         "Name": "Friend",
         "Rarity": "Secret",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Teacher of Magic",
@@ -4346,6 +4490,8 @@
         "Name": "Reaper Child",
         "Rarity": "Legendary",
         "Element": "Wind",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4402,6 +4548,8 @@
         "Name": "Gotho [Honored]",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4466,6 +4614,8 @@
         "Name": "Netsu",
         "Rarity": "Legendary",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4534,6 +4684,8 @@
         "Name": "Goko The 3rd",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Power of Friendship",
@@ -4609,6 +4761,8 @@
         "Name": "Keneki",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4677,6 +4831,8 @@
         "Name": "Kekeshi",
         "Rarity": "Epic",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4733,6 +4889,8 @@
         "Name": "Itchy",
         "Rarity": "Legendary",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4801,6 +4959,8 @@
         "Name": "Gogetable (Angel)",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Fusion Duration",
@@ -4870,6 +5030,8 @@
         "Name": "Vile",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4938,6 +5100,8 @@
         "Name": "Jamba",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5006,6 +5170,8 @@
         "Name": "Adult Gokan",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5062,6 +5228,8 @@
         "Name": "Virtual Swordmaster [Awakened]",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5118,6 +5286,8 @@
         "Name": "Getho [Zero]",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5182,6 +5352,8 @@
         "Name": "Ulquorio",
         "Rarity": "Legendary",
         "Element": "Wind",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5238,6 +5410,8 @@
         "Name": "Goko [SSJ]",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5294,6 +5468,8 @@
         "Name": "Lion",
         "Rarity": "Legendary",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5362,6 +5538,8 @@
         "Name": "Vegetable",
         "Rarity": "Rare",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5410,6 +5588,8 @@
         "Name": "Uzi",
         "Rarity": "Secret",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Fireworks",
@@ -5471,6 +5651,8 @@
         "Name": "Thukuna [King]",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5549,6 +5731,8 @@
         "Name": "Flame Master [Ablaze]",
         "Rarity": "Mythic",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Set Your Heart Ablaze",
@@ -5632,6 +5816,8 @@
         "Name": "Bean",
         "Rarity": "Mythic",
         "Element": "Water",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5700,6 +5886,8 @@
         "Name": "Bonkstick",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5756,6 +5944,8 @@
         "Name": "Jolly Eslife",
         "Rarity": "Mythic",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5824,6 +6014,8 @@
         "Name": "Boru [Released]",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5888,6 +6080,8 @@
         "Name": "Super Boog",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5944,6 +6138,8 @@
         "Name": "Dako",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6000,6 +6196,8 @@
         "Name": "Kendo",
         "Rarity": "Legendary",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6056,6 +6254,8 @@
         "Name": "Gui",
         "Rarity": "Mythic",
         "Element": "Water",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6124,6 +6324,8 @@
         "Name": "Fubuu",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6192,6 +6394,8 @@
         "Name": "Yamba",
         "Rarity": "Epic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6216,6 +6420,8 @@
         "Name": "Kill [Angered]",
         "Rarity": "Mythic",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Godspeed",
@@ -6299,6 +6505,8 @@
         "Name": "Emily",
         "Rarity": "Mythic",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6367,6 +6575,8 @@
         "Name": "Boru",
         "Rarity": "Legendary",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6423,6 +6633,8 @@
         "Name": "Ulquioro (Second)",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6487,6 +6699,8 @@
         "Name": "Speedy Sonic",
         "Rarity": "Legendary",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6543,6 +6757,8 @@
         "Name": "Zonitsu",
         "Rarity": "Legendary",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6611,6 +6827,8 @@
         "Name": "Kuzo",
         "Rarity": "Mythic",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6679,6 +6897,8 @@
         "Name": "Killa",
         "Rarity": "Mythic",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6747,6 +6967,8 @@
         "Name": "Demon Lord",
         "Rarity": "Secret",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Father of Demons",
@@ -6820,6 +7042,8 @@
         "Name": "Card Magician",
         "Rarity": "Mythic",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6888,6 +7112,8 @@
         "Name": "Kaiju",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6944,6 +7170,8 @@
         "Name": "Vegitu",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7008,6 +7236,8 @@
         "Name": "Kaillou (Serious)",
         "Rarity": "Secret",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Locking In",
@@ -7077,6 +7307,8 @@
         "Name": "Thukuna",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7145,6 +7377,8 @@
         "Name": "Atomic Warrior",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7213,6 +7447,8 @@
         "Name": "Ichiko",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7269,6 +7505,8 @@
         "Name": "Broccoli",
         "Rarity": "Secret",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Base",
@@ -7386,6 +7624,8 @@
         "Name": "Greg",
         "Rarity": "Epic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7434,6 +7674,8 @@
         "Name": "Yoru",
         "Rarity": "Mythic",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7498,6 +7740,8 @@
         "Name": "Eslife",
         "Rarity": "Mythic",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7566,6 +7810,8 @@
         "Name": "Akatou",
         "Rarity": "Mythic",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7622,6 +7868,8 @@
         "Name": "Gun",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7678,6 +7926,8 @@
         "Name": "Tochi",
         "Rarity": "Secret",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Ambush",
@@ -7739,6 +7989,8 @@
         "Name": "Boru [100% Released]",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Alien Leader",
@@ -7816,6 +8068,8 @@
         "Name": "Kisu",
         "Rarity": "Legendary",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7876,6 +8130,8 @@
         "Name": "Neko",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Chimera Summon",
@@ -7937,6 +8193,8 @@
         "Name": "Zonitsu [Awakened]",
         "Rarity": "Mythic",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Thunderous Clarity",
@@ -8020,6 +8278,8 @@
         "Name": "Ichiko [Gumetsu]",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Darkness Within",
@@ -8103,6 +8363,8 @@
         "Name": "Tojiro",
         "Rarity": "Rare",
         "Element": "Water",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8151,6 +8413,8 @@
         "Name": "Gen Z",
         "Rarity": "Secret",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Everything I've Got",
@@ -8224,6 +8488,8 @@
         "Name": "TestUnitForVolo",
         "Rarity": "Royale",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8292,6 +8558,8 @@
         "Name": "Yabo",
         "Rarity": "Secret",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Frostbite Eruption",
@@ -8353,6 +8621,8 @@
         "Name": "Sunny (Release)",
         "Rarity": "Mythic",
         "Element": "Grass",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Bushogoma",
@@ -8422,6 +8692,8 @@
         "Name": "Nezu",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8478,6 +8750,8 @@
         "Name": "Yutha",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8534,6 +8808,8 @@
         "Name": "Mitsu",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8590,6 +8866,8 @@
         "Name": "Gomu",
         "Rarity": "Mythic",
         "Element": "Rock",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8658,6 +8936,8 @@
         "Name": "Nezu [Demon]",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Blood Legacy",
@@ -8741,6 +9021,8 @@
         "Name": "Guitar",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8809,6 +9091,8 @@
         "Name": "Yoru [Raging Raijin]",
         "Rarity": "Mythic",
         "Element": "Electric",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Shunko",
@@ -8892,6 +9176,8 @@
         "Name": "Sun Tojiro",
         "Rarity": "Mythic",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8960,6 +9246,8 @@
         "Name": "Roro",
         "Rarity": "Rare",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9008,6 +9296,8 @@
         "Name": "Flame Master",
         "Rarity": "Mythic",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9076,6 +9366,8 @@
         "Name": "Hellborn",
         "Rarity": "Mythic",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9144,6 +9436,8 @@
         "Name": "Teen Gokan",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9200,6 +9494,8 @@
         "Name": "Xeke",
         "Rarity": "Mythic",
         "Element": "Rock",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9268,6 +9564,8 @@
         "Name": "Motomoto",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9324,6 +9622,8 @@
         "Name": "Bug Queen",
         "Rarity": "Epic",
         "Element": "Poison",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9382,6 +9682,8 @@
         "Name": "Motomoto [Thin]",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Quick Metabolism",
@@ -9451,6 +9753,8 @@
         "Name": "Donkey",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9519,6 +9823,8 @@
         "Name": "Juno",
         "Rarity": "Legendary",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "B Rank Healer",
@@ -9620,6 +9926,8 @@
         "Name": "Nero",
         "Rarity": "Secret",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Enlightment",
@@ -9681,6 +9989,8 @@
         "Name": "Kokoin",
         "Rarity": "Epic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9729,6 +10039,8 @@
         "Name": "Fanny",
         "Rarity": "Mythic",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Battle Mania",
@@ -9782,6 +10094,8 @@
         "Name": "Chick",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9838,6 +10152,8 @@
         "Name": "Kaillou",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9894,6 +10210,8 @@
         "Name": "Aura Farmer [Purple]",
         "Rarity": "Secret",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Dominator's Touch",
@@ -9963,6 +10281,8 @@
         "Name": "Dreamer",
         "Rarity": "Secret",
         "Element": "Grass",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Golden Wind",
@@ -10040,6 +10360,8 @@
         "Name": "Origiri",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10100,6 +10422,8 @@
         "Name": "Merem",
         "Rarity": "Secret",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Arrival of the King",
@@ -10161,6 +10485,8 @@
         "Name": "Silver Knight",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Silver Chariot",
@@ -10226,6 +10552,8 @@
         "Name": "Ruka",
         "Rarity": "Legendary",
         "Element": "Ice",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10294,6 +10622,8 @@
         "Name": "Aura King [Monarch]",
         "Rarity": "Secret",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Level Up",
@@ -10395,6 +10725,8 @@
         "Name": "Rumika",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10451,6 +10783,8 @@
         "Name": "Urwu (Kwency)",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10515,6 +10849,8 @@
         "Name": "Headless Swordsman",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10583,6 +10919,8 @@
         "Name": "Urwu",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10639,6 +10977,8 @@
         "Name": "Moon Princess",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10695,6 +11035,8 @@
         "Name": "Aura King [Shadow]",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Level Up",
@@ -10782,6 +11124,8 @@
         "Name": "Mahoka",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10842,6 +11186,8 @@
         "Name": "The Weakest Esper",
         "Rarity": "Mythic",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Nullify",
@@ -10903,6 +11249,8 @@
         "Name": "Aura Farmer",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10959,6 +11307,8 @@
         "Name": "Ichigoat [True]",
         "Rarity": "Royalty",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Embodiment of Light",
@@ -11060,6 +11410,8 @@
         "Name": "Weather",
         "Rarity": "Mythic",
         "Element": "Wind",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Today's Forecast",
@@ -11121,6 +11473,8 @@
         "Name": "The Mastermind",
         "Rarity": "Secret",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Geass",
@@ -11186,6 +11540,8 @@
         "Name": "Mims",
         "Rarity": "Mythic",
         "Element": "Grass",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Healing Grimoire",
@@ -11247,6 +11603,8 @@
         "Name": "Orihamis",
         "Rarity": "Mythic",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Bread Muncher",
@@ -11351,6 +11709,8 @@
         "Name": "Kenny",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11407,6 +11767,8 @@
         "Name": "Gio [Over Heaven]",
         "Rarity": "Secret",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Heavenly Embodiment",
@@ -11480,6 +11842,8 @@
         "Name": "Hana",
         "Rarity": "Legendary",
         "Element": "Grass",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11548,6 +11912,8 @@
         "Name": "Loop",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11604,6 +11970,8 @@
         "Name": "Ria",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11660,6 +12028,8 @@
         "Name": "Diablo",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11716,6 +12086,8 @@
         "Name": "Demon Blade",
         "Rarity": "Secret",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Toxikensis",
@@ -11795,6 +12167,8 @@
         "Name": "Maiko",
         "Rarity": "Mythic",
         "Element": "Holy",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Concert",
@@ -11850,6 +12224,8 @@
         "Name": "Toka",
         "Rarity": "Mythic",
         "Element": "Dark",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11906,6 +12282,8 @@
         "Name": "Gems Master",
         "Rarity": "Mythic",
         "Element": "Fire",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11962,6 +12340,8 @@
         "Name": "Beast Hunter",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12030,6 +12410,8 @@
         "Name": "Tatsu",
         "Rarity": "Mythic",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12098,6 +12480,8 @@
         "Name": "Nagu",
         "Rarity": "Secret",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Dice Roll",
@@ -12136,6 +12520,8 @@
         "Name": "Greg [Kurokumo]",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Dark Cloud Blade",
@@ -12209,6 +12595,8 @@
         "Name": "Shine",
         "Rarity": "Secret",
         "Element": "Psychic",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "The Psychic",
@@ -12282,6 +12670,8 @@
         "Name": "Yuka",
         "Rarity": "Mythic",
         "Element": "Wind",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12338,6 +12728,8 @@
         "Name": "Motomoto Bunny [Thin]",
         "Rarity": "Mythic",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "Quick Metabolism",
@@ -12407,6 +12799,8 @@
         "Name": "Kuropi",
         "Rarity": "Legendary",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12463,6 +12857,8 @@
         "Name": "Lollang",
         "Rarity": "Legendary",
         "Element": "Neutral",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12519,6 +12915,8 @@
         "Name": "Haze",
         "Rarity": "Mythic",
         "Element": "Steel",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12575,6 +12973,8 @@
         "Name": "Valentine Delight",
         "Rarity": "Secret",
         "Element": "Fighting",
+        "Description": "",
+        "OptimalTrait": "",
         "Passives": [
             {
                 "Title": "D4C",
