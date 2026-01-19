@@ -1,0 +1,41 @@
+<div class="db-container">
+    <div class="db-title">Unit Page</div>
+
+    <div class="db-content">
+        <div class="unit-individual-container">
+            <div class="unit-introduction-container">
+                <div class="unit-img-container-full">
+                    <img src="https://placeholder.co/200x300" alt="Unit Image">
+                </div>
+                <div class="unit-introduction">
+                    <div class="unit-name">
+                        {{unit.Name}}
+                    </div>
+                    <div class="unit-rarity">
+                        Rarity: <span class="unit-trait-gradient text-{{ unit.Rarity|lower }}"></span>
+                    </div>
+                    {% if unit.OptimalTrait %}
+                    <div class="unit-optimal-trait">
+                        Optimal Trait: 
+                        <img src="https://placeholder.co/20x20" alt="Unit Optimal Trait"> 
+                        <span class="trait-rarity-{{unit.OptimalTrait|lower}}">{{unit.OptimalTrait}}</span>
+                    </div>
+                    {% endif %}
+                </div>
+                <div class="unit-description">
+                    {{unit.description}}
+                </div>
+                <div class="unit-passives">
+                    {% if unit.Passives %}
+                    {% for passive in unit.Passives %}
+                    <div class="unit-passive">
+                        <div class="unit-passive-title">{{passive.Title}}</div>
+                        <div class="unit-passive-description">{{passive.Description}}</div>
+                    </div>
+                    {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
