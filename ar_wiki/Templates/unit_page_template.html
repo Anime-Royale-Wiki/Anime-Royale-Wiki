@@ -1,78 +1,90 @@
-<div class="unit-menu" x-data="unitFilterSystem">
-  <div class="search-container">
-    <input
-      type="text"
-      class="search-input"
-      placeholder="Search..."
-      x-model="search_term"
-    />
-    <button
-      class="search-clear-btn"
-      x-show="search_term != '' "
-      @click="search_term=''"
-    >
-      X
-    </button>
-  </div>
-  <div class="filter-container">
-    <button
-      type="button"
-      class="filter-toggle-btn"
-      @click="filter_open = !filter_open"
-    >
-      Filter
-    </button>
-    <div class="filter-content" x-show="filter_open">
-      <div class="filter-category">
-        <h4 class="filter-category-title">Rarity</h4>
-        <ul class="filter-category-list">
-          <template x-for="rarity in rarities" :key="rarity">
-            <li>
-              <button
-                type="button"
-                class="filter-chip"
-                :class="selected_rarities.includes(rarity) ? 'is_active' : ''"
-                @click="toggle_rarity(rarity)"
-                x-text="rarity"
-              ></button>
-            </li>
-          </template>
-        </ul>
-      </div>
-      <div class="filter-category">
-        <h4 class="filter-category-title">Element</h4>
-        <ul class="filter-category-list">
-          <template x-for="element in elements" :key="element">
-            <li>
-              <button
-                type="button"
-                class="filter-chip"
-                :class="selected_elements.includes(element) ? 'is_active' : '' "
-                @click="toggle_element(element)"
-                x-text="element"
-              ></button>
-            </li>
-          </template>
-        </ul>
-        <button
-          type="button"
-          @click="clear_filters()"
-          class="clear-filters-btn"
-        >
-          Clear All Filters
-        </button>
-      </div>
-    </div>
-  </div>
-</div>
+<div x-data="unitFilterSystem" class="db-container">
 
-<div class="unit-grid">
-    {% for name, data in units.items() %}
-    <div class="unit-item {{ data.Rarity }} {{ data.Element }}" data-name="{{ data.Name|lower }}">
-        <div class="unit-card">
-            <img src="http://placehold.co/100x100" loading="lazy">
-            <span class="unit_name">{{ data.Name }}</span>
+    <div class="db-title">Units</div>
+
+    <div class="db-content">
+        <div class="unit-menu" x-data="unitFilterSystem">
+        <div class="search-container">
+            <input
+            type="text"
+            class="search-input"
+            placeholder="Search..."
+            x-model.debounce.200ms="search_term"
+            />
+            <button
+            class="search-clear-btn"
+            x-show="search_term != '' "
+            @click="search_term=''"
+            >
+            X
+            </button>
+        </div>
+        <div class="filter-container">
+            <button
+            type="button"
+            class="filter-toggle-btn"
+            @click="filter_open = !filter_open"
+            >
+            Filter
+            </button>
+            <div class="filter-content" x-show="filter_open">
+            <div class="filter-category">
+                <h4 class="filter-category-title">Rarity</h4>
+                <ul class="filter-category-list">
+                <template x-for="rarity in rarities" :key="rarity">
+                    <li>
+                    <button
+                        type="button"
+                        class="filter-chip"
+                        :class="selected_rarities.includes(rarity) ? 'is_active' : ''"
+                        @click="toggle_rarity(rarity)"
+                        x-text="rarity"
+                    ></button>
+                    </li>
+                </template>
+                </ul>
+            </div>
+            <div class="filter-category">
+                <h4 class="filter-category-title">Element</h4>
+                <ul class="filter-category-list">
+                <template x-for="element in elements" :key="element">
+                    <li>
+                    <button
+                        type="button"
+                        class="filter-chip"
+                        :class="selected_elements.includes(element) ? 'is_active' : '' "
+                        @click="toggle_element(element)"
+                        x-text="element"
+                    ></button>
+                    </li>
+                </template>
+                </ul>
+                <button
+                type="button"
+                @click="clear_filters()"
+                class="clear-filters-btn"
+                >
+                Clear All Filters
+                </button>
+            </div>
+            </div>
+        </div>
+        </div>
+        <div class="unit-grid">
+            {% for id, unit in units.items() %}
+            <div class="unit-item {{ unit.Rarity }} {{ unit.Element }}" data-name="{{ unit.Name|lower }}">
+                <div class="unit-card">
+                    <div class="unit-img-container-face bg-{{ unit.Rarity|lower }}">
+                        <a href="#" class="unit-link-container">
+                            <img src="{{ unit.Image if unit.Image else 'http://placehold.co/120x120' }}" 
+                                alt="{{ unit.Name }}" 
+                                loading="lazy">
+                        </a>
+                    </div>
+                    <span class="unit_name">{{ unit.Name }}</span>
+                </div>
+            </div>
+            {% endfor %}
         </div>
     </div>
-    {% endfor %}
 </div>
