@@ -9,10 +9,12 @@ theme:
       accent: red
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
-    - navigation.sections
     - search.suggest
     - search.highlight
+    - navigation.sections
+    - content.tabs.link
     - header.autohide
 
   font:
@@ -38,8 +40,7 @@ extra_css:
   - assets/css/extra.css
 
 extra_javascript:
+  - https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js
+  - https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js
   - assets/js/unit-filter.js
   - https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js
-  - https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js
-  - https://unpkg.com/@popperjs/core@2
-  - https://unpkg.com/tippy.js@6
