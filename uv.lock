@@ -8,6 +8,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "ipykernel" },
+    { name = "jinja2" },
     { name = "mkdocs-material" },
     { name = "pandas" },
     { name = "pip" },
@@ -17,6 +18,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "ipykernel", specifier = ">=7.1.0" },
+    { name = "jinja2", specifier = ">=3.1.6" },
     { name = "mkdocs-material", specifier = ">=9.7.1" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "pip", specifier = ">=25.3" },

@@ -1,34 +1,52 @@
 import json
 import os
 
-files = ['EXPORT_PART_1.lua', 'EXPORT_PART_2.lua', 'EXPORT_PART_3.lua'] 
-master_data = {}
+FOLDERS_TO_PROCESS = {
+    "Items": "items.json",
+    "Units": "units.json",
+    "Map": "maps.json"
+}
 
-for f_name in files:
-    if not os.path.exists(f_name):
-        continue
+START_MARKER = '[=['
+END_MARKER = ']=]'
+
+def extract_json_from_lua(file_path):
+    """Extracts the JSON string inside the Roblox [=[ ]=] markers."""
+    try:
+        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+            content = f.read()
+            if START_MARKER in content and END_MARKER in content:
+                raw_json = content.split(START_MARKER)[1].split(END_MARKER)[0]
+                return json.loads(raw_json)
+    except Exception as e:
+        print(f"Error parsing {file_path}: {e}")
+    return None
+
+def process_category(folder_name, output_filename):
+    """Scans a folder for .lua files and merges them into one JSON file."""
+    if not os.path.exists(folder_name):
+        print(f"Skipping {folder_name}: Folder not found.")
+        return
+
+    category_data = {}
+    print(f"Processing {folder_name}...")
+    files = sorted([f for f in os.listdir(folder_name) if f.endswith(".lua")])
+
+    for file in files:
+        file_path = os.path.join(folder_name, file)
+        data = extract_json_from_lua(file_path)
         
-    with open(f_name, 'r', encoding='latin-1') as f:
-        content = f.read()
-        
-        try:
-            start_marker = '[=['
-            end_marker = ']=]'
-            
-            if start_marker in content and end_marker in content:
-                raw_json = content.split(start_marker)[1].split(end_marker)[0]
-                data = json.loads(raw_json)
-                master_data.update(data)
-                print(f"Successfully loaded {f_name}")
-            else:
-                print(f"Skipping {f_name}: Could not find markers.")
-        except Exception as e:
-            print(f"Error parsing {f_name}: {e}")
+        if data:
+            category_data.update(data)
+            print(f"  + Successfully parsed {file}")
 
-with open('full_raw_data.json', 'w', encoding='utf-8') as f:
-    json.dump(master_data, f, indent=4, ensure_ascii=False)
+    with open(output_filename, 'w', encoding='utf-8') as f:
+        json.dump(category_data, f, indent=4, ensure_ascii=False)
+    
+    print(f"--- Saved {len(category_data)} entries to {output_filename} ---\n")
 
-print(f"\n--- SUCCESS ---")
-print(f"Merged {len(master_data)} units into full_raw_data.json!")
-
-print(master_data['Mirajane'])
+if __name__ == "__main__":
+    for folder, output in FOLDERS_TO_PROCESS.items():
+        process_category(folder, output)
+    
+    print("All tasks complete.")

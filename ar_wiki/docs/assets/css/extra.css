@@ -39,7 +39,6 @@
 }
 
 @media screen and (max-width: 1240px) {
-
     .md-header__inner,
     .md-tabs__inner,
     .md-grid {
@@ -67,4 +66,33 @@
 
 .md-content h1 {
     display: none;
+}
+
+:root [data-md-color-scheme="slate"] {
+  --md-default-bg-color:               #0f0f0f;
+  --md-default-bg-color--light:        #141414;
+  --md-default-bg-color--lighter:      #1a1a1a;
+
+  --md-primary-fg-color:               #e63946; 
+  --md-primary-fg-color--dark:         #b91c1c;
+  --md-primary-fg-color--light:        #f87171;
+
+  --md-default-fg-color:               #d1d1d1;
+  --md-default-fg-color--light:        #a3a3a3;
+}
+
+.md-header {
+  background-color: #7a121a !important;
+}
+
+.md-tabs {
+  background-color: #630e15 !important;
+}
+
+.md-search__form {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+[data-md-color-scheme="slate"] .md-header--shadow {
+  background-color: #7a121a !important;
 }

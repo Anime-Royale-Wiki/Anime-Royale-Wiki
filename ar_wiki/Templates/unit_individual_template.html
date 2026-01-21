@@ -1,41 +1,97 @@
 <div class="db-container">
-    <div class="db-title">Unit Page</div>
+  <div class="db-title">Unit Page</div>
 
-    <div class="db-content">
-        <div class="unit-individual-container">
-            <div class="unit-introduction-container">
-                <div class="unit-img-container-full">
-                    <img src="https://placeholder.co/200x300" alt="Unit Image">
-                </div>
-                <div class="unit-introduction">
-                    <div class="unit-name">
-                        {{unit.Name}}
-                    </div>
-                    <div class="unit-rarity">
-                        Rarity: <span class="unit-trait-gradient text-{{ unit.Rarity|lower }}"></span>
-                    </div>
-                    {% if unit.OptimalTrait %}
-                    <div class="unit-optimal-trait">
-                        Optimal Trait: 
-                        <img src="https://placeholder.co/20x20" alt="Unit Optimal Trait"> 
-                        <span class="trait-rarity-{{unit.OptimalTrait|lower}}">{{unit.OptimalTrait}}</span>
-                    </div>
-                    {% endif %}
-                </div>
-                <div class="unit-description">
-                    {{unit.description}}
-                </div>
-                <div class="unit-passives">
-                    {% if unit.Passives %}
-                    {% for passive in unit.Passives %}
-                    <div class="unit-passive">
-                        <div class="unit-passive-title">{{passive.Title}}</div>
-                        <div class="unit-passive-description">{{passive.Description}}</div>
-                    </div>
-                    {% endfor %}
-                    {% endif %}
-                </div>
-            </div>
+  <div class="db-content">
+    <div class="unit-individual-container">
+      <div class="unit-introduction-container">
+        <div class="unit-img-container-full">
+          <img src="https://placeholder.co/200x300" alt="Unit Image" />
         </div>
+        <div class="unit-introduction">
+          <div class="unit-name">{{unit.Name}}</div>
+          <div class="unit-rarity">
+            Rarity:
+            <span class="unit-trait-gradient text-{{ unit.Rarity|lower }}"
+              >{{ unit.Rarity }}</span
+            >
+          </div>
+          {% if unit.OptimalTrait %}
+          <div class="unit-optimal-trait">
+            Optimal Trait:
+            <img src="https://placeholder.co/20x20" alt="Unit Optimal Trait" />
+            <span class="trait-rarity-{{unit.OptimalTrait|lower}}"
+              >{{unit.OptimalTrait}}</span
+            >
+          </div>
+          {% endif %}
+        </div>
+        <div class="unit-description">{{unit.description}}</div>
+        <div class="unit-passives">
+          {% if unit.Passives %} {% for passive in unit.Passives %}
+          <div class="unit-passive">
+            <div class="unit-passive-title">{{passive.Title}}</div>
+            <div class="unit-passive-description">{{passive.Description}}</div>
+          </div>
+          {% endfor %} {% endif %}
+        </div>
+        <div class="unit-obtainment">
+          <p>Unit Obtainment:</p>
+          {% if unit.Obtainment %}
+          <p>{{unit.Obtainment}}</p>
+          {% endif %}
+        </div>
+        <div class="unit-evolution">
+          <!-- Data not available -->
+        </div>
+        <div class="unit-upgrades">
+          {% if unit.Upgrades %} {% for upgrade in unit.Upgrades %}
+          <div class="unit-upgrade-container">
+            <div>
+              <span class="unit-upgrade-title" id="unit-upgrade-level"
+                >Level:
+              </span>
+              {{upgrade['Level']}}
+            </div>
+            <div>
+              <span class="unit-upgrade-title" id="unit-upgrade-cost"
+                >Cost:
+              </span>
+              {{upgrade['Cost']}}
+            </div>
+            <div>
+              <span class="unit-upgrade-title" id="unit-upgrade-damage"
+                >Damage:
+              </span>
+              {{upgrade['Damage']}}
+            </div>
+            <div>
+              <span class="unit-upgrade-title" id="unit-upgrade-range"
+                >Range:
+              </span>
+              {{upgrade['Range']}}
+            </div>
+            <div>
+              <span class="unit-upgrade-title" id="unit-upgrade-spa"
+                >SPA:
+              </span>
+              {{upgrade['SPA']}}
+            </div>
+            {% if upgrade['Status'] %}
+            <div>
+              <span class="unit-upgrade-title" id="unit-upgrade-status"
+                >Status Effect:
+              </span>
+              {% for status in upgrade['Status'] %}
+              <span class="status-chip status-{{ status|lower }}"
+                >{{status}}</span
+              >
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+          {% endfor %} {% endif %}
+        </div>
+      </div>
     </div>
+  </div>
 </div>

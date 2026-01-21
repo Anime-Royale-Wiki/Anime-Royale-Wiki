@@ -1,12 +1,24 @@
-.md-content h1 {
-    display: none;
-}
-
-@import "tailwindcss";
-@tailwind utilities;
-
-@import "tailwindcss";
+@import "tailwindcss/theme";
+@import "tailwindcss/utilities";
+@import "./tailwind_styles/unit_page.css";
 
 @layer components {
+    .db-container {
+        @apply relative flex flex-col items-stretch w-full max-w-7xl mx-auto p-8;
+        @apply bg-white/[0.02] border border-white/20 rounded-2xl;
+        @apply shadow-[0_0_15px_rgba(248,113,113,0.4)];
+    }
 
+    .db-title {
+        @apply absolute -top-4 left-1/2 -translate-x-1/2;
+        @apply px-6 py-1 bg-[#0f0f0f];
+        @apply text-sm font-bold uppercase tracking-widest text-[#f87171];
+        @apply border border-[#f87171]/40 rounded-full whitespace-nowrap;
+        @apply shadow-[0_0_15px_rgba(248,113,113,0.4)];
+        text-shadow: 0 0 8px rgba(248, 113, 113, 0.6);
+    }
+
+    .db-content {
+        @apply w-full;
+    }
 }

@@ -1,0 +1,263 @@
+{
+    "Christmas Village": {
+        "Name": "Christmas Village",
+        "Type": "Map Legend",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Fairy Town Rift": {
+        "Name": "Fairy Town Rift",
+        "Type": "Dungeon",
+        "MapRequired": "Fairy Town",
+        "Acts": []
+    },
+    "Aura Room": {
+        "Name": "Aura Room",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Blue Flower Forest": {
+        "Name": "Blue Flower Forest",
+        "Type": "Map Legend",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "The Underground Tomb": {
+        "Name": "The Underground Tomb",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Haunted Circus": {
+        "Name": "Haunted Circus",
+        "Type": "Map Legend",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Corp City": {
+        "Name": "Corp City",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Buldo's Mind Binds!",
+            "Jest Battle Armor!",
+            "The Blue Hurricane!",
+            "The Red Hair Dancer!",
+            "Leader Gini Takes Over!",
+            "Freeze Seeking For Power!"
+        ]
+    },
+    "Soul World": {
+        "Name": "Soul World",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Soul Muncher",
+            "Soul Muncher but strong",
+            "Soul Muncher but even stronger",
+            "Soul Muncher is super strong",
+            "Soul Muncher is very strong",
+            "Soul Muncher at its prime"
+        ]
+    },
+    "Green Planet Destroyed": {
+        "Name": "Green Planet Destroyed",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Fairy Town": {
+        "Name": "Fairy Town",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Virtual Swordman: The Black Swordsman's Judgment!",
+            "Virtual Swordgirl: The Flash's Final Strike!",
+            "Klai: The Flame's Roar!",
+            "Geo: The Iceblade's Vengeance!",
+            "Alize: The Golden Knight's Wrath!",
+            "Floor Boss: The Demon King's Fury!"
+        ]
+    },
+    "Red Palace": {
+        "Name": "Red Palace",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Sharkman Island": {
+        "Name": "Sharkman Island",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Bul bul bul!",
+            "Ble ble ble!",
+            "Bul bul bul!",
+            "Ble ble ble!",
+            "Bul bul bul!",
+            "Ble ble ble!"
+        ]
+    },
+    "Lookout": {
+        "Name": "Lookout",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Cursed Town": {
+        "Name": "Cursed Town",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Nobaro: Nails of Retribution!",
+            "Megu: Shikigami's Command!",
+            "Mahi: Fleshcraft Chaos!",
+            "Getho: Master of Cursed Spirits!",
+            "Gotho: Six Eyes Unbound!",
+            "Thukuna: The Malevolent Throne!"
+        ]
+    },
+    "Slayers District": {
+        "Name": "Slayers District",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Green Planet": {
+        "Name": "Green Planet",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Buldo's Mind Binds!",
+            "Jest Battle Armor!",
+            "The Blue Hurricane!",
+            "The Red Hair Dancer!",
+            "Leader Gini Takes Over!",
+            "Freeze Seeking For Power!"
+        ]
+    },
+    "Boru's Room": {
+        "Name": "Boru's Room",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Valentine Castle": {
+        "Name": "Valentine Castle",
+        "Type": "Map Legend",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Hell": {
+        "Name": "Hell",
+        "Type": "Map Legend",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Strongest's City": {
+        "Name": "Strongest's City",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Speedy Sonic's Speeding Fate!",
+            "Gen Z's Unyielding Fire!",
+            "The Sea King's Tidal Fury!",
+            "The Lion King's Roar!",
+            "Boru, the Conqueror!",
+            "The Black Alien Emerges!"
+        ]
+    },
+    "Hidden Village Rift": {
+        "Name": "Hidden Village Rift",
+        "Type": "Map Rift",
+        "MapRequired": "Hidden Village",
+        "Acts": []
+    },
+    "Hidden Village": {
+        "Name": "Hidden Village",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Path One: The Judgement's Gaze!",
+            "Path Two: The Soul Snatcher!",
+            "Path Three: The Beast's Roar!",
+            "Path Four: The Shadow's Strike!",
+            "Hurt: Wrath of the Almighty!",
+            "The Nine-Tailed Fury!"
+        ]
+    },
+    "Ant Island": {
+        "Name": "Ant Island",
+        "Type": "Dungeon",
+        "MapRequired": "Fairy Town",
+        "Acts": []
+    },
+    "Ghoul City": {
+        "Name": "Ghoul City",
+        "Type": "Story",
+        "MapRequired": null,
+        "Acts": [
+            "Wing Ghoul: The Silent Reaper!",
+            "Double Tails: The Torturer's Dance!",
+            "Double Wings: The Sky's Fury!",
+            "Worm Ghoul: The Burrowing Menace!",
+            "Keneki: The White-Haired Nightmare!",
+            "Queen Ghoul: The One-Eyed Queen!"
+        ]
+    },
+    "Hollow Desert": {
+        "Name": "Hollow Desert",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "God Statue": {
+        "Name": "God Statue",
+        "Type": "Map Rift",
+        "MapRequired": "Fairy Town",
+        "Acts": []
+    },
+    "Sorcery Academy": {
+        "Name": "Sorcery Academy",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Orc Dungeon": {
+        "Name": "Orc Dungeon",
+        "Type": "Map Rift",
+        "MapRequired": "Fairy Town",
+        "Acts": []
+    },
+    "Green Planet Rift": {
+        "Name": "Green Planet Rift",
+        "Type": "Map Rift",
+        "MapRequired": "Green Planet",
+        "Acts": []
+    },
+    "Sharkman Island Rift": {
+        "Name": "Sharkman Island Rift",
+        "Type": "Map Rift",
+        "MapRequired": "Sharkman Island",
+        "Acts": []
+    },
+    "Candy Park": {
+        "Name": "Candy Park",
+        "Type": "Map Raid",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Shadow City": {
+        "Name": "Shadow City",
+        "Type": "Map Legend",
+        "MapRequired": null,
+        "Acts": []
+    },
+    "Ghoul City Rift": {
+        "Name": "Ghoul City Rift",
+        "Type": "Map Rift",
+        "MapRequired": "Ghoul City",
+        "Acts": []
+    }
+}

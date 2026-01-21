@@ -1,0 +1,1136 @@
+{
+    "LuStaff": {
+        "Name": "LuStaff",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some Unit.",
+        "CanTrade": false
+    },
+    "Dice": {
+        "Name": "Dice",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Nagumo.",
+        "CanTrade": false
+    },
+    "Glass Bow": {
+        "Name": "Glass Bow",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Cloud Cloak": {
+        "Name": "Cloud Cloak",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "The cloak of the tsuki members.",
+        "CanTrade": false
+    },
+    "Ruby": {
+        "Name": "Ruby",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "A gem used for evolutions.",
+        "CanTrade": false
+    },
+    "LuHat": {
+        "Name": "LuHat",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Sakamoto.",
+        "CanTrade": false
+    },
+    "Apple": {
+        "Name": "Apple",
+        "Class": "Food",
+        "Rarity": "Rare",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Gun": {
+        "Name": "Gun",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Nagumo and Shin.",
+        "CanTrade": false
+    },
+    "Soul Candy": {
+        "Name": "Soul Candy",
+        "Class": "Evo",
+        "Rarity": "Epic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Taser": {
+        "Name": "Taser",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Sakamoto.",
+        "CanTrade": false
+    },
+    "Bankai Sword": {
+        "Name": "Bankai Sword",
+        "Class": "Evo",
+        "Rarity": "Secret",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Fairy Wings": {
+        "Name": "Fairy Wings",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Leafy.",
+        "CanTrade": true
+    },
+    "Kill's Shorts": {
+        "Name": "Kill's Shorts",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Dummy Hair": {
+        "Name": "Dummy Hair",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Deafbone": {
+        "Name": "Deafbone",
+        "Class": "Card",
+        "Rarity": "Legendary",
+        "Description": "+24% Damage, -12% Range",
+        "CanTrade": false
+    },
+    "Hollow Warrior Mask": {
+        "Name": "Hollow Warrior Mask",
+        "Class": "Evo",
+        "Rarity": "Rare",
+        "Description": "Used to evolve Ulquiorro.",
+        "CanTrade": false
+    },
+    "Glasses": {
+        "Name": "Glasses",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Cracked Power Core": {
+        "Name": "Cracked Power Core",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Deer": {
+        "Name": "Deer",
+        "Class": "Evo",
+        "Rarity": "Secret",
+        "Description": "DEEEEEEER.",
+        "CanTrade": false
+    },
+    "Dark Elixir": {
+        "Name": "Dark Elixir",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used for smithing.",
+        "CanTrade": false
+    },
+    "Cape": {
+        "Name": "Cape",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Wish Ball": {
+        "Name": "Wish Ball",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Bean": {
+        "Name": "Bean",
+        "Class": "Food",
+        "Rarity": "Rare",
+        "Description": "Used to give exp to units.",
+        "CanTrade": false
+    },
+    "Light Sword": {
+        "Name": "Light Sword",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Christmas Capsule": {
+        "Name": "Christmas Capsule",
+        "Class": "Capsule",
+        "Rarity": "Secret",
+        "Description": "Unlock festive units!",
+        "CanTrade": false
+    },
+    "Cupcake": {
+        "Name": "Cupcake",
+        "Class": "Food",
+        "Rarity": "Mythic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Ripped Bandages": {
+        "Name": "Ripped Bandages",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Candy Cane": {
+        "Name": "Candy Cane",
+        "Class": "Food",
+        "Rarity": "Mythic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Ramen": {
+        "Name": "Ramen",
+        "Class": "Food",
+        "Rarity": "Legendary",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Stat Crystal": {
+        "Name": "Stat Crystal",
+        "Class": "Stat",
+        "Rarity": "Mythic",
+        "Description": "Used to reroll all stats of your unit.",
+        "CanTrade": true
+    },
+    "Grocery Bag": {
+        "Name": "Grocery Bag",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Wind Spirit Crown": {
+        "Name": "Wind Spirit Crown",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "You can hear wispers from it... Sylph.",
+        "CanTrade": false
+    },
+    "Ember": {
+        "Name": "Ember",
+        "Class": "Card",
+        "Rarity": "Mythic",
+        "Description": "-12% SPA, +4% Cost",
+        "CanTrade": false
+    },
+    "TestCard": {
+        "Name": "TestCard",
+        "Class": "Card",
+        "Rarity": "Rare",
+        "Description": "+5% Damage, +3% Range",
+        "CanTrade": false
+    },
+    "Demon Monarch Earings": {
+        "Name": "Demon Monarch Earings",
+        "Class": "Evo",
+        "Rarity": "Rare",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Four Leaf Grimoire": {
+        "Name": "Four Leaf Grimoire",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "You can hear its power, like winds in a forest.",
+        "CanTrade": false
+    },
+    "Game Shield": {
+        "Name": "Game Shield",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Game Master.",
+        "CanTrade": true
+    },
+    "Reaper Badge": {
+        "Name": "Reaper Badge",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Nezu Outfit": {
+        "Name": "Nezu Outfit",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Crystal Ball 7": {
+        "Name": "Crystal Ball 7",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "CanTrade": true
+    },
+    "Dominator's Rune (Purple)": {
+        "Name": "Dominator's Rune (Purple)",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Ecolist": {
+        "Name": "Ecolist",
+        "Class": "Card",
+        "Rarity": "Epic",
+        "Description": "-3% Cost",
+        "CanTrade": false
+    },
+    "Super Lucky": {
+        "Name": "Super Lucky",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Gives 3x Luck for 1 hour in the summon banner.",
+        "CanTrade": false
+    },
+    "Light Crown": {
+        "Name": "Light Crown",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Demon Horn": {
+        "Name": "Demon Horn",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Exchange Ring": {
+        "Name": "Exchange Ring",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Fire Haori": {
+        "Name": "Fire Haori",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Burger": {
+        "Name": "Burger",
+        "Class": "Food",
+        "Rarity": "Epic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": false
+    },
+    "Gogetable Jacket": {
+        "Name": "Gogetable Jacket",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to fuse Goko (End) and Vegetable (Evil).",
+        "CanTrade": true
+    },
+    "Radar": {
+        "Name": "Radar",
+        "Class": "Evo",
+        "Rarity": "Epic",
+        "Description": "Used to evolve Freeze.",
+        "CanTrade": false
+    },
+    "Evil Orb": {
+        "Name": "Evil Orb",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Boo.",
+        "CanTrade": true
+    },
+    "Transformation Paper": {
+        "Name": "Transformation Paper",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Crystal Ball 1": {
+        "Name": "Crystal Ball 1",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "CanTrade": true
+    },
+    "Cyan Sword": {
+        "Name": "Cyan Sword",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Virtual Swordman [Awakened].",
+        "CanTrade": false
+    },
+    "Hollow Spear": {
+        "Name": "Hollow Spear",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Ulquiorro.",
+        "CanTrade": false
+    },
+    "Apron": {
+        "Name": "Apron",
+        "Class": "Evo",
+        "Rarity": "Rare",
+        "Description": "Used to evo Shin.",
+        "CanTrade": false
+    },
+    "Fairy Sword": {
+        "Name": "Fairy Sword",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Leafy.",
+        "CanTrade": true
+    },
+    "Scouter": {
+        "Name": "Scouter",
+        "Class": "Evo",
+        "Rarity": "Rare",
+        "Description": "Used to evolve Freeze.",
+        "CanTrade": false
+    },
+    "Kisu Hat": {
+        "Name": "Kisu Hat",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Crystal Ball 3": {
+        "Name": "Crystal Ball 3",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "CanTrade": true
+    },
+    "Sapphire": {
+        "Name": "Sapphire",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "A gem used for evolutions.",
+        "CanTrade": false
+    },
+    "Aura Sword [Purple]": {
+        "Name": "Aura Sword [Purple]",
+        "Class": "Evo",
+        "Rarity": "Secret",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Black Sword": {
+        "Name": "Black Sword",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Virtual Swordman [Awakened].",
+        "CanTrade": false
+    },
+    "CupNoodle": {
+        "Name": "CupNoodle",
+        "Class": "Food",
+        "Rarity": "Epic",
+        "Description": "Used to give exp to Units.",
+        "CanTrade": false
+    },
+    "Video Game": {
+        "Name": "Video Game",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Pickle Cape": {
+        "Name": "Pickle Cape",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Teen Gokan.",
+        "CanTrade": true
+    },
+    "Oversized Shins": {
+        "Name": "Oversized Shins",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Demon Monarch's Necklace": {
+        "Name": "Demon Monarch's Necklace",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Overit": {
+        "Name": "Overit",
+        "Class": "Card",
+        "Rarity": "Epic",
+        "Description": "Every 10 attacks, this unit gains +25% Damage for 15 seconds.",
+        "CanTrade": false
+    },
+    "Rerolls": {
+        "Name": "Rerolls",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to reroll the trait of your units.",
+        "CanTrade": false
+    },
+    "Sheathe": {
+        "Name": "Sheathe",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Fire Katana": {
+        "Name": "Fire Katana",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Flip Book": {
+        "Name": "Flip Book",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Thukuna Outfit": {
+        "Name": "Thukuna Outfit",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Thukuna.",
+        "CanTrade": false
+    },
+    "Nezu Bamboo": {
+        "Name": "Nezu Bamboo",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Blindfold": {
+        "Name": "Blindfold",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Gotho.",
+        "CanTrade": false
+    },
+    "Dummy Hat": {
+        "Name": "Dummy Hat",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Quincy Cross": {
+        "Name": "Quincy Cross",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Ecoro": {
+        "Name": "Ecoro",
+        "Class": "Card",
+        "Rarity": "Mythic",
+        "Description": "-6% Cost",
+        "CanTrade": false
+    },
+    "Ecolo": {
+        "Name": "Ecolo",
+        "Class": "Card",
+        "Rarity": "Legendary",
+        "Description": "-5% Cost",
+        "CanTrade": false
+    },
+    "Ecoist": {
+        "Name": "Ecoist",
+        "Class": "Card",
+        "Rarity": "Rare",
+        "Description": "-2% Cost",
+        "CanTrade": false
+    },
+    "Halloween Capsule": {
+        "Name": "Halloween Capsule",
+        "Class": "Capsule",
+        "Rarity": "Secret",
+        "Description": "Unlock spooky units!",
+        "CanTrade": false
+    },
+    "Deafone": {
+        "Name": "Deafone",
+        "Class": "Card",
+        "Rarity": "Rare",
+        "Description": "+8% Damage, -4% Range",
+        "CanTrade": false
+    },
+    "Deaftone": {
+        "Name": "Deaftone",
+        "Class": "Card",
+        "Rarity": "Mythic",
+        "Description": "+40% Damage, -20% Range",
+        "CanTrade": false
+    },
+    "Deaffone": {
+        "Name": "Deaffone",
+        "Class": "Card",
+        "Rarity": "Epic",
+        "Description": "+16% Damage, -8% Range",
+        "CanTrade": false
+    },
+    "Straw Hat": {
+        "Name": "Straw Hat",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Drawnup": {
+        "Name": "Drawnup",
+        "Class": "Card",
+        "Rarity": "Rare",
+        "Description": "For every unit not recieving a damage buff in this unit's range, this unit gains +50% Damage.",
+        "CanTrade": false
+    },
+    "Baruka's Dagger": {
+        "Name": "Baruka's Dagger",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Love Cake": {
+        "Name": "Love Cake",
+        "Class": "Food",
+        "Rarity": "Mythic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Power Core": {
+        "Name": "Power Core",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Gobanks Jacket": {
+        "Name": "Gobanks Jacket",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to fuse Goden and The Juicebox.",
+        "CanTrade": true
+    },
+    "Emtan": {
+        "Name": "Emtan",
+        "Class": "Card",
+        "Rarity": "Legendary",
+        "Description": "-6% SPA, +3% Cost",
+        "CanTrade": false
+    },
+    "Crystal Ball 2": {
+        "Name": "Crystal Ball 2",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "CanTrade": true
+    },
+    "Embrew": {
+        "Name": "Embrew",
+        "Class": "Card",
+        "Rarity": "Epic",
+        "Description": "-3% SPA, +2% Cost",
+        "CanTrade": false
+    },
+    "Emburish": {
+        "Name": "Emburish",
+        "Class": "Card",
+        "Rarity": "Rare",
+        "Description": "-1% SPA, +1% Cost",
+        "CanTrade": false
+    },
+    "Starheart": {
+        "Name": "Starheart",
+        "Class": "Card",
+        "Rarity": "Epic",
+        "Description": "+10% Range",
+        "CanTrade": false
+    },
+    "Gun's Top": {
+        "Name": "Gun's Top",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Dominator's Rune (Red)": {
+        "Name": "Dominator's Rune (Red)",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Starkindle": {
+        "Name": "Starkindle",
+        "Class": "Card",
+        "Rarity": "Legendary",
+        "Description": "+15% Range",
+        "CanTrade": false
+    },
+    "Lucky": {
+        "Name": "Lucky",
+        "Class": "Misc",
+        "Rarity": "Legendary",
+        "Description": "Gives 2x Luck for 1 hour in the summon banner.",
+        "CanTrade": false
+    },
+    "Starlight": {
+        "Name": "Starlight",
+        "Class": "Card",
+        "Rarity": "Rare",
+        "Description": "+4% Range",
+        "CanTrade": false
+    },
+    "Starpath": {
+        "Name": "Starpath",
+        "Class": "Card",
+        "Rarity": "Mythic",
+        "Description": "+25% Range",
+        "CanTrade": false
+    },
+    "Aura Sword": {
+        "Name": "Aura Sword",
+        "Class": "Evo",
+        "Rarity": "Secret",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Flask": {
+        "Name": "Flask",
+        "Class": "Food",
+        "Rarity": "Legendary",
+        "Description": "Used to give exp to Units.",
+        "CanTrade": false
+    },
+    "Boru Torso": {
+        "Name": "Boru Torso",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Sandwich": {
+        "Name": "Sandwich",
+        "Class": "Food",
+        "Rarity": "Mythic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Beast Claws": {
+        "Name": "Beast Claws",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Gen Z Core": {
+        "Name": "Gen Z Core",
+        "Class": "Evo",
+        "Rarity": "Secret",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Crystal Ball 4": {
+        "Name": "Crystal Ball 4",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "CanTrade": true
+    },
+    "Light Pickaxe": {
+        "Name": "Light Pickaxe",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Raid Ticket": {
+        "Name": "Raid Ticket",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to enter Raids.",
+        "CanTrade": false
+    },
+    "Beast Belt": {
+        "Name": "Beast Belt",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Eye Patch": {
+        "Name": "Eye Patch",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Crystal Ball 5": {
+        "Name": "Crystal Ball 5",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "CanTrade": true
+    },
+    "Teleportation Stone": {
+        "Name": "Teleportation Stone",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Divine Earing": {
+        "Name": "Divine Earing",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to fuse Vegetable (Evil) and Goko (End).",
+        "CanTrade": true
+    },
+    "Nezu Box": {
+        "Name": "Nezu Box",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Red Knight's Helmet": {
+        "Name": "Red Knight's Helmet",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Divine Stone": {
+        "Name": "Divine Stone",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Evolution Material for some units.",
+        "CanTrade": false
+    },
+    "Six Eyes": {
+        "Name": "Six Eyes",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Gotho.",
+        "CanTrade": false
+    },
+    "Shiny Stone": {
+        "Name": "Shiny Stone",
+        "Class": "Evo",
+        "Rarity": "Secret",
+        "Description": "Can be used to turn an Unit into its Shiny version. (Doesn't work on Secret and above Units)",
+        "CanTrade": false
+    },
+    "Yoyo": {
+        "Name": "Yoyo",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Mana Crystal": {
+        "Name": "Mana Crystal",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Stat Shard": {
+        "Name": "Stat Shard",
+        "Class": "Stat",
+        "Rarity": "Mythic",
+        "Description": "Used to reroll a stat of your unit.",
+        "CanTrade": true
+    },
+    "Soul Cutter": {
+        "Name": "Soul Cutter",
+        "Class": "Food",
+        "Rarity": "Mythic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Knight Killer": {
+        "Name": "Knight Killer",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Thunder Katana": {
+        "Name": "Thunder Katana",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Game Sword": {
+        "Name": "Game Sword",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Game Master.",
+        "CanTrade": true
+    },
+    "Purification Powder": {
+        "Name": "Purification Powder",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to remove curse of an unit.",
+        "CanTrade": true
+    },
+    "Cursed Energy": {
+        "Name": "Cursed Energy",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Hollow Leader Mask": {
+        "Name": "Hollow Leader Mask",
+        "Class": "Evo",
+        "Rarity": "Epic",
+        "Description": "Used to evolve Ulquiorro.",
+        "CanTrade": false
+    },
+    "Cursed Orb": {
+        "Name": "Cursed Orb",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve Getho.",
+        "CanTrade": false
+    },
+    "Demon King Sword": {
+        "Name": "Demon King Sword",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Overme": {
+        "Name": "Overme",
+        "Class": "Card",
+        "Rarity": "Mythic",
+        "Description": "Every 10 attacks, this unit gains +55% Damage for 15 seconds.",
+        "CanTrade": false
+    },
+    "Overyou": {
+        "Name": "Overyou",
+        "Class": "Card",
+        "Rarity": "Legendary",
+        "Description": "Every 10 attacks, this unit gains +35% Damage for 15 seconds.",
+        "CanTrade": false
+    },
+    "Virtual Food": {
+        "Name": "Virtual Food",
+        "Class": "Evo",
+        "Rarity": "Epic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Hair Gel": {
+        "Name": "Hair Gel",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Getho Outfit": {
+        "Name": "Getho Outfit",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Getho.",
+        "CanTrade": false
+    },
+    "Fish": {
+        "Name": "Fish",
+        "Class": "Food",
+        "Rarity": "Epic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": false
+    },
+    "Cursed Head Band": {
+        "Name": "Cursed Head Band",
+        "Class": "Evo",
+        "Rarity": "Epic",
+        "Description": "Head Band of the hidden village traitors.",
+        "CanTrade": false
+    },
+    "Cursed Finger": {
+        "Name": "Cursed Finger",
+        "Class": "Stats",
+        "Rarity": "Mythic",
+        "Description": "Used to give a curse to your units.",
+        "CanTrade": true
+    },
+    "Crystal Ball 6": {
+        "Name": "Crystal Ball 6",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "CanTrade": true
+    },
+    "Kill's Shoe": {
+        "Name": "Kill's Shoe",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Juice": {
+        "Name": "Juice",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Nagumo.",
+        "CanTrade": false
+    },
+    "Holy Cross": {
+        "Name": "Holy Cross",
+        "Class": "Food",
+        "Rarity": "Mythic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Toy Windmill": {
+        "Name": "Toy Windmill",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Multiweapon": {
+        "Name": "Multiweapon",
+        "Class": "Evo",
+        "Rarity": "Epic",
+        "Description": "Used to evolve Nagumo.",
+        "CanTrade": false
+    },
+    "Goko Outfit": {
+        "Name": "Goko Outfit",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Goko SSJ.",
+        "CanTrade": false
+    },
+    "Overnow": {
+        "Name": "Overnow",
+        "Class": "Card",
+        "Rarity": "Rare",
+        "Description": "Every 10 attacks, this unit gains +20% Damage for 15 seconds.",
+        "CanTrade": false
+    },
+    "Assassin's Double Daggers": {
+        "Name": "Assassin's Double Daggers",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Thunder Haori": {
+        "Name": "Thunder Haori",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Candy": {
+        "Name": "Candy",
+        "Class": "Food",
+        "Rarity": "Mythic",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    },
+    "Kill's Shirt": {
+        "Name": "Kill's Shirt",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": false
+    },
+    "Glass Sword": {
+        "Name": "Glass Sword",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Elixir Of Life": {
+        "Name": "Elixir Of Life",
+        "Class": "Misc",
+        "Rarity": "Mythic",
+        "Description": "Used for smithing.",
+        "CanTrade": false
+    },
+    "Shintin": {
+        "Name": "Shintin",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Gokon": {
+        "Name": "Gokon",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "Pink Kimono": {
+        "Name": "Pink Kimono",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve some units.",
+        "CanTrade": true
+    },
+    "LuKey": {
+        "Name": "LuKey",
+        "Class": "Evo",
+        "Rarity": "Mythic",
+        "Description": "Used to evolve Sakamoto.",
+        "CanTrade": false
+    },
+    "Spring Capsule": {
+        "Name": "Spring Capsule",
+        "Class": "Capsule",
+        "Rarity": "Secret",
+        "Description": "Unlock festive units!",
+        "CanTrade": false
+    },
+    "Topaz": {
+        "Name": "Topaz",
+        "Class": "Evo",
+        "Rarity": "Legendary",
+        "Description": "A gem used for evolutions.",
+        "CanTrade": false
+    },
+    "Strawberry Cake": {
+        "Name": "Strawberry Cake",
+        "Class": "Food",
+        "Rarity": "Legendary",
+        "Description": "Used to give exp to units.",
+        "CanTrade": true
+    }
+}
