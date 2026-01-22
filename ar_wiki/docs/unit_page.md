@@ -1,6 +1,5 @@
-<div x-data="unitFilterSystem" class="db-container">
+<div x-data="unitFilterSystem" class="db-container glow-default">
   <div class="db-title">Units</div>
-
   <div class="db-content">
     <div class="unit-menu">
       <div class="search-container">
@@ -3707,6 +3706,348 @@
             </a>
           </div>
           <span class="unit_name">Valentine Delight</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Ground"
+        data-name="hashino"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/hashirama" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Hashino"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Hashino</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Fighting"
+        data-name="motomoto bunny"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/sakamotobundle" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Motomoto Bunny"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Motomoto Bunny</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Legendary Fighting"
+        data-name="dungpoo"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-legendary">
+            <a href="../units/dongsoo" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Dungpoo"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Dungpoo</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Steel"
+        data-name="seven star hunter"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/liu" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Seven Star Hunter"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Seven Star Hunter</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Legendary Water"
+        data-name="himothy"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-legendary">
+            <a href="../units/himmel" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Himothy"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Himothy</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Fire"
+        data-name="s-rank bomber"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/choi" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="S-Rank Bomber"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">S-Rank Bomber</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Water"
+        data-name="aura king"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/sunjinwoo" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Aura King"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Aura King</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Secret Grass"
+        data-name="ant general"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-secret">
+            <a href="../units/beru" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Ant General"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Ant General</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Holy"
+        data-name="light bearer [blessed]"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/chaeevo" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Light Bearer [Blessed]"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Light Bearer [Blessed]</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Fire"
+        data-name="song"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/song" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Song"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Song</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Holy"
+        data-name="light bearer"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/chae" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Light Bearer"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Light Bearer</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Neutral"
+        data-name="beast hunter [wrath]"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/baekevo" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Beast Hunter [Wrath]"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Beast Hunter [Wrath]</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Dark"
+        data-name="lollang (black silence)"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/rolandevo" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Lollang (Black Silence)"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Lollang (Black Silence)</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Wind"
+        data-name="wind mage [spirit ascension]"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/yunoevo" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Wind Mage [Spirit Ascension]"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Wind Mage [Spirit Ascension]</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Wind"
+        data-name="wind mage"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/yuno" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Wind Mage"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Wind Mage</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Fire"
+        data-name="steamed"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/boiled" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Steamed"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Steamed</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Legendary Fighting"
+        data-name="mahi"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-legendary">
+            <a href="../units/mahito" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Mahi"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Mahi</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Mythic Fighting"
+        data-name="thompson anderson"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-mythic">
+            <a href="../units/thomas" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Thompson Anderson"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Thompson Anderson</span>
+        </div>
+      </div>
+      
+      <div
+        class="unit-item Legendary Steel"
+        data-name="rookie assassin"
+      >
+        <div class="unit-card">
+          <div class="unit-img-container-face bg-legendary">
+            <a href="../units/kang" class="unit-link-container">
+              <img
+                src="http://placehold.co/120x120"
+                alt="Rookie Assassin"
+                loading="lazy"
+              />
+            </a>
+          </div>
+          <span class="unit_name">Rookie Assassin</span>
         </div>
       </div>
       

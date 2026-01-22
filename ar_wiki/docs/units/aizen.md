@@ -1,6 +1,5 @@
-<div class="db-container">
-  <div class="db-title">Unit Page</div>
-
+<div class="db-container glow-secret">
+  <div class="db-title"><span>Eyezen</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">

@@ -10,7 +10,16 @@ module.exports = {
     "./ar_wiki/docs/**/*.js" 
   ],
   theme: { 
-    extend: {} 
+    extend: {
+      colors: {
+        'rarity-royalty': '#fac415',
+        'rarity-secret': '#f43f5e',
+        'rarity-mythic': '#a855f7',
+        'rarity-legendary': '#eab308',
+        'rarity-epic': '',
+        'rarity-rare': ''
+      }
+    } 
   },
   plugins: [],
 }

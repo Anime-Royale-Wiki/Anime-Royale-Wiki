@@ -1,6 +1,5 @@
-<div class="db-container">
-  <div class="db-title">Unit Page</div>
-
+<div class="db-container glow-mythic">
+  <div class="db-title"><span>Maiko</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -22,7 +21,7 @@
            
           <div class="unit-passive">
             <div class="unit-passive-title">Concert</div>
-            <div class="unit-passive-description">This unit buffs all allied units in range by (# of towers in range × 0.3 × (Upgrade Level + 1)% extra damage.</div>
+            <div class="unit-passive-description">This unit buffs all allied units in range by (# of towers in range  0.3  (Upgrade Level + 1)% extra damage.</div>
           </div>
            
         </div>

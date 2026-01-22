@@ -1,6 +1,5 @@
-<div class="db-container">
-  <div class="db-title">Unit Page</div>
-
+<div class="db-container glow-mythic">
+  <div class="db-title"><span>Aura King [Shadow]</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">

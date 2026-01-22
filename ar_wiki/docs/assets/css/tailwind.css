@@ -33,6 +33,9 @@
 .block {
   display: block;
 }
+.hidden {
+  display: none;
+}
 .h-4 {
   height: calc(var(--spacing) * 4);
 }
@@ -65,7 +68,6 @@
 }
 @layer components {
   .unit-menu {
-    margin-bottom: calc(var(--spacing) * 8);
     display: flex;
     width: 100%;
     flex-direction: column;
@@ -383,7 +385,7 @@
     }
   }
   .unit-grid {
-    margin-bottom: calc(var(--spacing) * 10);
+    margin-top: calc(var(--spacing) * 6);
     display: flex;
     width: auto;
     flex-wrap: wrap;
@@ -507,6 +509,30 @@
   }
 }
 @layer components {
+  .glow-default {
+    --glow-color: rgba(248, 113, 113, 0.7);
+  }
+  .glow-royalty {
+    --glow-color: rgba(218, 165, 32, 0.558);
+  }
+  .glow-secret {
+    --glow-color: rgba(255, 0, 0, 0.6);
+  }
+  .glow-mythic {
+    --glow-color: rgba(81, 234, 254, 0.6);
+  }
+  .glow-legendary {
+    --glow-color: rgba(255, 217, 0, 0.9);
+  }
+  .glow-epic {
+    --glow-color: rgba(168, 85, 247, 0.5);
+  }
+  .glow-rare {
+    --glow-color: rgba(42, 98, 253, 0.875);
+  }
+  .glow-white {
+    --glow-color: rgba(255, 255, 255, 0.1);
+  }
   .db-container {
     position: relative;
     margin-inline: auto;
@@ -527,8 +553,7 @@
     @supports (color: color-mix(in lab, red, red)) {
       background-color: color-mix(in oklab, var(--color-white) 2%, transparent);
     }
-    --tw-shadow: 0 0 15px var(--tw-shadow-color, rgba(248,113,113,0.4));
-    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+    box-shadow: 0 0 15px var(--glow-color);
   }
   .db-title {
     position: absolute;
@@ -545,16 +570,13 @@
     font-weight: var(--font-weight-bold);
     --tw-tracking: var(--tracking-widest);
     letter-spacing: var(--tracking-widest);
-    color: #f87171;
     text-transform: uppercase;
     border-radius: calc(infinity * 1px);
-    border-style: var(--tw-border-style);
-    border-width: 1px;
-    border-color: color-mix(in oklab, #f87171 40%, transparent);
     white-space: nowrap;
-    --tw-shadow: 0 0 15px var(--tw-shadow-color, rgba(248,113,113,0.4));
-    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-    text-shadow: 0 0 8px rgba(248, 113, 113, 0.6);
+    color: var(--glow-color);
+    border: 1px solid var(--glow-color);
+    box-shadow: 0 0 15px var(--glow-color);
+    text-shadow: 0 0 8px var(--glow-color);
   }
   .db-content {
     width: 100%;

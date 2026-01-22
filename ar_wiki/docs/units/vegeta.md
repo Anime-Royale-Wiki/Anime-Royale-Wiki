@@ -1,6 +1,5 @@
-<div class="db-container">
-  <div class="db-title">Unit Page</div>
-
+<div class="db-container glow-rare">
+  <div class="db-title"><span>Vegetable</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">

@@ -1,6 +1,6 @@
 @layer components {
   .unit-menu {
-    @apply flex flex-col md:flex-row items-center w-full gap-4 mb-8;
+    @apply flex flex-col md:flex-row items-center w-full gap-4;
   }
 
   .search-container {
@@ -88,7 +88,7 @@
   }
   
   .unit-grid {
-    @apply flex flex-wrap justify-start w-auto mb-10;
+    @apply flex flex-wrap justify-start w-auto mt-6;
     margin-right: -8px; 
     margin-left: -8px;
   }

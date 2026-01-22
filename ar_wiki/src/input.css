@@ -3,19 +3,31 @@
 @import "./tailwind_styles/unit_page.css";
 
 @layer components {
+    .glow-default { --glow-color: rgba(248, 113, 113, 0.7); }
+    .glow-royalty { --glow-color: rgba(218, 165, 32, 0.558); }
+    .glow-secret { --glow-color: rgba(255, 0, 0, 0.6); }
+    .glow-mythic { --glow-color: rgba(81, 234, 254, 0.6); }
+    .glow-legendary { --glow-color: rgba(255, 217, 0, 0.9); }
+    .glow-epic { --glow-color: rgba(168, 85, 247, 0.5); }
+    .glow-rare { --glow-color: rgba(42, 98, 253, 0.875); }
+    .glow-white { --glow-color: rgba(255, 255, 255, 0.1); }
+
     .db-container {
         @apply relative flex flex-col items-stretch w-full max-w-7xl mx-auto p-8;
         @apply bg-white/[0.02] border border-white/20 rounded-2xl;
-        @apply shadow-[0_0_15px_rgba(248,113,113,0.4)];
+        box-shadow: 0 0 15px var(--glow-color);
     }
 
     .db-title {
         @apply absolute -top-4 left-1/2 -translate-x-1/2;
         @apply px-6 py-1 bg-[#0f0f0f];
-        @apply text-sm font-bold uppercase tracking-widest text-[#f87171];
-        @apply border border-[#f87171]/40 rounded-full whitespace-nowrap;
-        @apply shadow-[0_0_15px_rgba(248,113,113,0.4)];
-        text-shadow: 0 0 8px rgba(248, 113, 113, 0.6);
+        @apply text-sm font-bold uppercase tracking-widest;
+        @apply rounded-full whitespace-nowrap;
+
+        color: var(--glow-color);
+        border: 1px solid var(--glow-color);
+        box-shadow: 0 0 15px var(--glow-color);
+        text-shadow: 0 0 8px var(--glow-color);
     }
 
     .db-content {
