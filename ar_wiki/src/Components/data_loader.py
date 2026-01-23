@@ -7,7 +7,7 @@ def load_unit_data():
         data = json.load(file)
         return data
     
-def load_item_date():
+def load_item_data():
     file_name = PROJECT_ROOT / "data" / "cleaned_data" / "items.json"
     with open(file_name, "r") as file:
         data = json.load(file)
