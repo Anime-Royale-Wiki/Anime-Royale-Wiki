@@ -18,12 +18,13 @@ theme:
     - header.autohide
 
   font:
-    text: Inter
-    code: Roboto Mono
+    text: Kanit
+    code: Space Mono
 
 nav:
   - Home: index.md
   - Units: unit_page.md
+  - Items: item_page.md
 
 markdown_extensions:
   - admonition
@@ -42,5 +43,6 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js
   - https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js
+  - assets/js/item-filter.js
   - assets/js/unit-filter.js
   - https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js
