@@ -1,9 +1,9 @@
 @import "tailwindcss/theme";
 @import "tailwindcss/utilities";
-@import "./tailwind_styles/unit_page.css";
+@import "./tailwind_styles/filter_layout.css";
 
 @layer components {
-    .glow-default { --glow-color: rgba(248, 113, 113, 0.7); }
+    .glow-units { --glow-color: rgba(248, 113, 113, 0.7); }
     .glow-royalty { --glow-color: rgba(218, 165, 32, 0.558); }
     .glow-secret { --glow-color: rgba(255, 0, 0, 0.6); }
     .glow-mythic { --glow-color: rgba(81, 234, 254, 0.6); }
@@ -11,6 +11,7 @@
     .glow-epic { --glow-color: rgba(168, 85, 247, 0.5); }
     .glow-rare { --glow-color: rgba(42, 98, 253, 0.875); }
     .glow-white { --glow-color: rgba(255, 255, 255, 0.1); }
+    .glow-items { --glow-color: rgba(62, 255, 171, 0.708); }
 
     .db-container {
         @apply relative flex flex-col items-stretch w-full max-w-7xl mx-auto p-8;
