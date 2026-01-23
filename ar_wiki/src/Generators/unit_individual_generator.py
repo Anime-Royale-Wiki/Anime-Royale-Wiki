@@ -1,9 +1,9 @@
 from jinja2 import Environment, FileSystemLoader
-from ar_wiki.src.Components.data_loader import load_data
+from ar_wiki.src.Components.data_loader import load_unit_data
 from ar_wiki.src.config import PROJECT_ROOT
 
 def update_unit_grid():
-    unit_data = load_data()
+    unit_data = load_unit_data()
     template_dir = PROJECT_ROOT / "Templates"
     env = Environment(loader=FileSystemLoader(str(template_dir)))
     template = env.get_template("unit_individual_template.html")

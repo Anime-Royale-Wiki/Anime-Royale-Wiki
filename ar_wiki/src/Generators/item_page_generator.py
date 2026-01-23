@@ -7,11 +7,11 @@ def update_unit_grid():
 
     template_dir = PROJECT_ROOT / "Templates"
     env = Environment(loader=FileSystemLoader(str(template_dir)))
-    template = env.get_template("unit_page_template.html")
+    template = env.get_template("item_page_template.html")
     
     final_output = template.render(units=unit_data)
 
-    output_path = PROJECT_ROOT / "docs" / "unit_page.md"
+    output_path = PROJECT_ROOT / "docs" / "item_page.md"
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(final_output)
             
