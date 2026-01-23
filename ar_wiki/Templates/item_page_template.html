@@ -1,5 +1,5 @@
-<div x-data="unitFilterSystem" class="db-container glow-units">
-  <div class="db-title">Units</div>
+<div x-data="itemFilterSystem" class="db-container glow-items">
+  <div class="db-title">Items</div>
   <div class="db-content">
     <div class="data-menu">
       <div class="search-container">
@@ -78,18 +78,17 @@
               </template>
             </ul>
           </div>
-
           <div class="filter-category">
             <h4 class="filter-category-title">Type</h4>
             <ul class="filter-category-list grid-style">
-              <template x-for="element in elements" :key="element">
+              <template x-for="category in categories" :key="category">
                 <li>
                   <button
                     type="button"
                     class="filter-chip"
-                    :class="selected_elements.includes(element) ? 'is_active' : ''"
-                    @click="toggle_element(element)"
-                    x-text="element"
+                    :class="selected_categories.includes(category) ? 'is_active' : ''"
+                    @click="toggle_category(category)"
+                    x-text="category"
                   ></button>
                 </li>
               </template>
@@ -108,22 +107,20 @@
     </div>
 
     <div class="data-grid">
-      {% for id, unit in units.items() %}
+      {% for id, item in items.items() %}
       <div
-        class="data-item {{ unit.Rarity }} {{ unit.Element }}"
-        data-name="{{ unit.Name|lower }}"
+        class="data-item {{ item.Rarity }} {{ item.Class }}"
+        data-name="{{ item.Name|lower }}"
       >
         <div class="data-card">
-          <div class="data-img-container bg-{{ unit.Rarity|lower }}">
-            <a href="../units/{{ id|lower }}" class="data-link">
-              <img
-                src="{{ unit.Image if unit.Image else 'http://placehold.co/120x120' }}"
-                alt="{{ unit.Name }}"
-                loading="lazy"
-              />
-            </a>
+          <div class="data-img-container bg-{{ item.Rarity|lower }}">
+            <img
+              src="{{ item.Image if item.Image else 'http://placehold.co/120x120' }}"
+              alt="{{ item.Name }}"
+              loading="lazy"
+            />
           </div>
-          <span class="data-name">{{ unit.Name }}</span>
+          <span class="data-name">{{ item.Name }}</span>
         </div>
       </div>
       {% endfor %}
