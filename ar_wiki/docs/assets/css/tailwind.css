@@ -67,7 +67,7 @@
   filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
 }
 @layer components {
-  .unit-menu {
+  .data-menu {
     display: flex;
     width: 100%;
     flex-direction: column;
@@ -172,7 +172,7 @@
     justify-content: center;
     gap: calc(var(--spacing) * 2);
     border-radius: var(--radius-xl);
-    padding-inline: calc(var(--spacing) * 5);
+    padding-inline: calc(var(--spacing) * 5) !important;
     @media (width >= 48rem) {
       width: auto;
     }
@@ -384,7 +384,7 @@
       }
     }
   }
-  .unit-grid {
+  .data-grid {
     margin-top: calc(var(--spacing) * 6);
     display: flex;
     width: auto;
@@ -393,21 +393,21 @@
     margin-right: -8px;
     margin-left: -8px;
   }
-  .unit-item {
+  .data-item {
     flex: none;
     width: 120px;
     margin-left: 8px;
     margin-right: 8px;
     margin-bottom: 8px;
   }
-  .unit-card {
+  .data-card {
     display: flex;
     width: 100%;
     cursor: pointer;
     flex-direction: column;
     align-items: center;
   }
-  .unit-img-container-face {
+  .data-img-container {
     position: relative;
     height: 120px;
     width: 120px;
@@ -428,19 +428,20 @@
     will-change: transform;
     background: #1a1a1a;
   }
-  .unit-card:hover .unit-img-container-face {
+  .data-card:hover .data-img-container {
     --tw-scale-x: 105%;
     --tw-scale-y: 105%;
     --tw-scale-z: 105%;
     scale: var(--tw-scale-x) var(--tw-scale-y);
     border-color: color-mix(in oklab, #f87171 50%, transparent);
   }
-  .unit_name {
-    margin-top: calc(var(--spacing) * 2.5);
+  .data-name {
+    margin-top: calc(var(--spacing) * 1.5);
+    margin-bottom: calc(var(--spacing) * 1);
     width: 100%;
     padding-inline: calc(var(--spacing) * 1);
     text-align: center;
-    font-size: 11px;
+    font-size: 12px;
     --tw-font-weight: var(--font-weight-bold);
     font-weight: var(--font-weight-bold);
     color: color-mix(in srgb, #fff 70%, transparent);
@@ -458,10 +459,10 @@
     transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
     transition-duration: var(--tw-duration, var(--default-transition-duration));
   }
-  .unit-card:hover .unit_name {
+  .data-card:hover .data-name {
     color: #f87171;
   }
-  .unit-img-container-face img {
+  .data-img-container img {
     display: block;
     height: 100%;
     width: 100%;
@@ -509,7 +510,7 @@
   }
 }
 @layer components {
-  .glow-default {
+  .glow-units {
     --glow-color: rgba(248, 113, 113, 0.7);
   }
   .glow-royalty {
@@ -532,6 +533,9 @@
   }
   .glow-white {
     --glow-color: rgba(255, 255, 255, 0.1);
+  }
+  .glow-items {
+    --glow-color: rgba(62, 255, 171, 0.708);
   }
   .db-container {
     position: relative;

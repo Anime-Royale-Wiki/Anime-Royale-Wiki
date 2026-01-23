@@ -82,7 +82,7 @@
 }
 
 .md-header {
-  background-color: #7a121a !important;
+  background-color: #630e15 !important;
 }
 
 .md-tabs {
@@ -94,5 +94,5 @@
 }
 
 [data-md-color-scheme="slate"] .md-header--shadow {
-  background-color: #7a121a !important;
+  background-color: #630e15 !important;
 }
