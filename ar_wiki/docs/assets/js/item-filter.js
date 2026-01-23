@@ -1,13 +1,15 @@
-if (!window.unitFilterRegistered) {
+if (!window.itemFilterRegistered) {
+
     document.addEventListener("alpine:init", () => {
-        Alpine.data("unitFilterSystem", () => ({
+        Alpine.data("itemFilterSystem", () => ({
             search_term: "",
             selected_rarities: [],
-            selected_elements: [],
+            selected_categories: [],
             filter_open: false,
             iso: null,
-            rarities: ["Royalty", "Secret", "Mythic", "Legendary", "Epic", "Rare"],
-            elements: ['Fire', 'Fighting', 'Psychic', 'Grass', 'Electric', 'Dark', 'Poison', 'Steel', 'Holy', 'Wind', 'Ice', 'Neutral', 'Ground', 'Water', 'Rock'],
+
+            rarities: ["Secret", "Mythic", "Legendary", "Epic", "Rare"],
+            categories: ["Evo", "Card", "Misc", "Food", "Capsule", "Stat", "Stats"],
 
             init() {
                 this.$nextTick(() => {
@@ -19,27 +21,33 @@ if (!window.unitFilterRegistered) {
                         });
 
                         if (window.imagesLoaded) {
-                            imagesLoaded(".data-grid", () => this.iso.layout());
+                            imagesLoaded(".data-grid", () => {
+                                this.iso.layout();
+                            });
                         }
                     }
                 });
 
                 this.$watch("search_term", () => this.applyFilters());
                 this.$watch("selected_rarities", () => this.applyFilters());
-                this.$watch("selected_elements", () => this.applyFilters());
+                this.$watch("selected_categories", () => this.applyFilters());
             },
 
             applyFilters() {
                 if (!this.iso) return;
+
                 this.iso.arrange({
                     filter: (el) => {
                         const name = el.getAttribute("data-name") || "";
                         const sMatch = name.includes(this.search_term.toLowerCase());
-                        const rMatch = this.selected_rarities.length === 0 || 
-                                       this.selected_rarities.some(r => el.classList.contains(r));
-                        const eMatch = this.selected_elements.length === 0 || 
-                                       this.selected_elements.some(e => el.classList.contains(e));
-                        return sMatch && rMatch && eMatch;
+
+                        const rMatch = this.selected_rarities.length === 0 ||
+                            this.selected_rarities.some(r => el.classList.contains(r));
+
+                        const cMatch = this.selected_categories.length === 0 ||
+                            this.selected_categories.some(c => el.classList.contains(c));
+
+                        return sMatch && rMatch && cMatch;
                     }
                 });
             },
@@ -50,20 +58,20 @@ if (!window.unitFilterRegistered) {
                     : [...this.selected_rarities, val];
             },
 
-            toggle_element(val) {
-                this.selected_elements = this.selected_elements.includes(val)
-                    ? this.selected_elements.filter(i => i !== val)
-                    : [...this.selected_elements, val];
+            toggle_category(val) {
+                this.selected_categories = this.selected_categories.includes(val)
+                    ? this.selected_categories.filter(i => i !== val)
+                    : [...this.selected_categories, val];
             },
 
             clear_filters() {
                 this.search_term = "";
-                this.selected_elements = [];
                 this.selected_rarities = [];
+                this.selected_categories = [];
             }
         }));
     });
 
-    window.unitFilterRegistered = true;
-    console.log("Unit Filter System Registered.");
+    window.itemFilterRegistered = true;
+    console.log("Item Filter System Successfully Registered.");
 }
