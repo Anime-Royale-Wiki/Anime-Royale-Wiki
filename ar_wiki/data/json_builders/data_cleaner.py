@@ -11,6 +11,15 @@ clean_unit_file = PROJECT_ROOT / "data" / "cleaned_data" / "units.json"
 clean_item_file = PROJECT_ROOT / "data" / "cleaned_data" / "items.json"
 clean_map_file = PROJECT_ROOT / "data" / "cleaned_data" / "maps.json"
 
+RARITY_ORDER = {
+    "Royalty": 0,
+    "Secret": 1,
+    "Mythic": 2,
+    "Legendary": 3,
+    "Epic": 4,
+    "Rare": 5,
+}
+
 def clean_units(raw_json_path, unit_description_path, output_path):
     with open(raw_json_path, 'r', encoding='utf-8') as f:
         raw_data = json.load(f)
@@ -79,8 +88,13 @@ def clean_units(raw_json_path, unit_description_path, output_path):
         unit_entry["Upgrades"] = sorted(unit_entry["Upgrades"], key=lambda x: x['Level'])
         cleaned_db[unit_id] = unit_entry
 
+    sorted_units = dict(sorted(
+        cleaned_db.items(),
+        key=lambda x:(RARITY_ORDER.get(x[1]["Rarity"], 99), x[1]["Name"])
+    ))
+
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(cleaned_db, f, indent=4)
+        json.dump(sorted_units, f, indent=4)
     
     print(f"Unit Data Cleaned. Processed {len(cleaned_db)} units.")
 
@@ -94,18 +108,20 @@ def clean_items(raw_item_path, output_path):
         item_class = re.search(r'Class\s*=\s*"([^"]+)"', source)
         rarity = re.search(r'Rarity\s*=\s*"([^"]+)"', source)
         description = re.search(r'Description\s*=\s*"([^"]+)"', source)
-        can_trade = re.search(r'CanTrade\s*=\s*(\w+)', source)
 
         cleaned_items[item_id] = {
             "Name": item_id,
             "Class": item_class.group(1) if item_class else "N/A",
-            "Rarity": rarity.group(1) if rarity else "Common",
+            "Rarity": rarity.group(1) if rarity else "",
             "Description": description.group(1) if description else "",
-            "CanTrade": True if can_trade and can_trade.group(1) == "true" else False
         }
+    sorted_items = dict(sorted(
+        cleaned_items.items(),
+        key=lambda x: (RARITY_ORDER.get(x[1]["Rarity"], 99), x[1]["Name"])
+    ))
 
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(cleaned_items, f, indent=4)
+        json.dump(sorted_items, f, indent=4)
     
     print(f"Item Clean Complete. Processed {len(cleaned_items)} items.")
 
