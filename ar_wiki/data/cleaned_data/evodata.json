@@ -1,0 +1,1146 @@
+{
+    "Geto": {
+        "EvolvesTo": "GetoEvo",
+        "Requirements": [
+            {
+                "Item": "Getho Outfit",
+                "Amount": 1
+            },
+            {
+                "Item": "Cursed Energy",
+                "Amount": 10
+            },
+            {
+                "Item": "Cursed Orb",
+                "Amount": 3
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 10
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Goku [SSJ]": {
+        "EvolvesTo": "Goku (SSJ3)",
+        "Requirements": [
+            {
+                "Item": "Goko Outfit",
+                "Amount": 1
+            },
+            {
+                "Item": "Bean",
+                "Amount": 20
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 20
+            },
+            {
+                "Item": "Wish Ball",
+                "Amount": 4
+            },
+            {
+                "Item": "Scouter",
+                "Amount": 8
+            },
+            {
+                "Item": "Radar",
+                "Amount": 4
+            },
+            {
+                "Item": "Apple",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Vegeta": {
+        "EvolvesTo": "MajinVegeta",
+        "Requirements": [
+            {
+                "Item": "Topaz",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Bean",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Gon": {
+        "EvolvesTo": "GonEvo",
+        "Requirements": [
+            {
+                "Item": "Hair Gel",
+                "Amount": 1
+            },
+            {
+                "Item": "Gun's Top",
+                "Amount": 5
+            },
+            {
+                "Item": "Dummy Hat",
+                "Amount": 15
+            },
+            {
+                "Item": "Dummy Hair",
+                "Amount": 30
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Goku": {
+        "EvolvesTo": "Goku [SSJ]",
+        "Requirements": [
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Bean",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Asuna": {
+        "EvolvesTo": "AsunaOA",
+        "Requirements": [
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 10
+            },
+            {
+                "Item": "Virtual Food",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "SuperBuu": {
+        "EvolvesTo": "KidBuu",
+        "Requirements": [
+            {
+                "Item": "Evil Orb",
+                "Amount": 20
+            },
+            {
+                "Item": "Bean",
+                "Amount": 20
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Wish Ball",
+                "Amount": 4
+            },
+            {
+                "Item": "Scouter",
+                "Amount": 8
+            },
+            {
+                "Item": "Radar",
+                "Amount": 4
+            },
+            {
+                "Item": "Apple",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Yuno": {
+        "EvolvesTo": "YunoEvo",
+        "Requirements": [
+            {
+                "Item": "Wind Spirit Crown",
+                "Amount": 1
+            },
+            {
+                "Item": "Four Leaf Grimoire",
+                "Amount": 1
+            },
+            {
+                "Item": "Apple",
+                "Amount": 60
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Saitama": {
+        "EvolvesTo": "SaitamaEvo",
+        "Requirements": [
+            {
+                "Item": "Gen Z Core",
+                "Amount": 1
+            },
+            {
+                "Item": "Cape",
+                "Amount": 5
+            },
+            {
+                "Item": "Video Game",
+                "Amount": 30
+            },
+            {
+                "Item": "Grocery Bag",
+                "Amount": 60
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 10
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Zenitsu": {
+        "EvolvesTo": "EOSZenitsu",
+        "Requirements": [
+            {
+                "Item": "Thunder Katana",
+                "Amount": 3
+            },
+            {
+                "Item": "Divine Stone",
+                "Amount": 1
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 20
+            },
+            {
+                "Item": "Thunder Haori",
+                "Amount": 15
+            },
+            {
+                "Item": "Apple",
+                "Amount": 30
+            },
+            {
+                "Item": "Nezuko",
+                "Amount": 1
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "TeenGohan": {
+        "EvolvesTo": "GohanTeenSSJ2",
+        "Requirements": [
+            {
+                "Item": "Pickle Cape",
+                "Amount": 10
+            },
+            {
+                "Item": "Bean",
+                "Amount": 20
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 20
+            },
+            {
+                "Item": "Wish Ball",
+                "Amount": 4
+            },
+            {
+                "Item": "Scouter",
+                "Amount": 8
+            },
+            {
+                "Item": "Radar",
+                "Amount": 4
+            },
+            {
+                "Item": "Apple",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Gojo": {
+        "EvolvesTo": "GojoEvo",
+        "Requirements": [
+            {
+                "Item": "Six Eyes",
+                "Amount": 2
+            },
+            {
+                "Item": "Cursed Energy",
+                "Amount": 10
+            },
+            {
+                "Item": "Blindfold",
+                "Amount": 7
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 20
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Boros": {
+        "EvolvesTo": "BorosEvo",
+        "Requirements": [
+            {
+                "Item": "Boru Torso",
+                "Amount": 1
+            },
+            {
+                "Item": "Power Core",
+                "Amount": 1
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 10
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "SunJinWooEvo": {
+        "EvolvesTo": "SunJinWooEvo2",
+        "Requirements": [
+            {
+                "Item": "Teleportation Stone",
+                "Amount": 20
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 20
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Mana Crystal",
+                "Amount": 15
+            },
+            {
+                "Item": "Elixir Of Life",
+                "Amount": 1
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Uryu": {
+        "EvolvesTo": "UryuEvo",
+        "Requirements": [
+            {
+                "Item": "Quincy Cross",
+                "Amount": 3
+            },
+            {
+                "Item": "Divine Stone",
+                "Amount": 1
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 20
+            },
+            {
+                "Item": "Glass Bow",
+                "Amount": 1
+            },
+            {
+                "Item": "Glass Sword",
+                "Amount": 1
+            },
+            {
+                "Item": "Glasses",
+                "Amount": 15
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Sukuna": {
+        "EvolvesTo": "SukunaEvo",
+        "Requirements": [
+            {
+                "Item": "Thukuna Outfit",
+                "Amount": 1
+            },
+            {
+                "Item": "Cursed Energy",
+                "Amount": 15
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 40
+            },
+            {
+                "Item": "Apple",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            },
+            {
+                "Item": "Cursed Finger",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Ichigo": {
+        "EvolvesTo": "IchigoBankai",
+        "Requirements": [
+            {
+                "Item": "Shintin",
+                "Amount": 3
+            },
+            {
+                "Item": "Reaper Badge",
+                "Amount": 10
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Gokon",
+                "Amount": 15
+            },
+            {
+                "Item": "Soul Candy",
+                "Amount": 30
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Heathcliff": {
+        "EvolvesTo": "Heathcliff [Serious]",
+        "Requirements": [
+            {
+                "Item": "Game Shield",
+                "Amount": 3
+            },
+            {
+                "Item": "Game Sword",
+                "Amount": 5
+            },
+            {
+                "Item": "Divine Stone",
+                "Amount": 1
+            },
+            {
+                "Item": "Wish Ball",
+                "Amount": 3
+            },
+            {
+                "Item": "Virtual Food",
+                "Amount": 20
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Yoruichi": {
+        "EvolvesTo": "YoruichiEvo",
+        "Requirements": [
+            {
+                "Item": "Transformation Paper",
+                "Amount": 1
+            },
+            {
+                "Item": "Kisu Hat",
+                "Amount": 10
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 20
+            },
+            {
+                "Item": "Fish",
+                "Amount": 15
+            },
+            {
+                "Item": "Flip Book",
+                "Amount": 30
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Leafa": {
+        "EvolvesTo": "Leafa [Serious]",
+        "Requirements": [
+            {
+                "Item": "Fairy Wings",
+                "Amount": 3
+            },
+            {
+                "Item": "Fairy Sword",
+                "Amount": 5
+            },
+            {
+                "Item": "Divine Stone",
+                "Amount": 1
+            },
+            {
+                "Item": "Virtual Food",
+                "Amount": 20
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "SunJinWoo": {
+        "EvolvesTo": "SunJinWooEvo",
+        "Requirements": [
+            {
+                "Item": "Demon Monarch's Necklace",
+                "Amount": 1
+            },
+            {
+                "Item": "Teleportation Stone",
+                "Amount": 20
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 20
+            },
+            {
+                "Item": "Baruka's Dagger",
+                "Amount": 1
+            },
+            {
+                "Item": "Mana Crystal",
+                "Amount": 10
+            },
+            {
+                "Item": "Assassin's Double Daggers",
+                "Amount": 1
+            },
+            {
+                "Item": "Exchange Ring",
+                "Amount": 1
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Tanjiro": {
+        "EvolvesTo": "SunTanjiro",
+        "Requirements": [
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 10
+            },
+            {
+                "Item": "Apple",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Kirito": {
+        "EvolvesTo": "KiritoOA",
+        "Requirements": [
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Virtual Food",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Shunsui": {
+        "EvolvesTo": "ShunsuiEvo",
+        "Requirements": [
+            {
+                "Item": "Pink Kimono",
+                "Amount": 1
+            },
+            {
+                "Item": "Kisu Hat",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 20
+            },
+            {
+                "Item": "Eye Patch",
+                "Amount": 15
+            },
+            {
+                "Item": "Straw Hat",
+                "Amount": 15
+            },
+            {
+                "Item": "Toy Windmill",
+                "Amount": 30
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Rengoku": {
+        "EvolvesTo": "RengokuEvo",
+        "Requirements": [
+            {
+                "Item": "Fire Katana",
+                "Amount": 3
+            },
+            {
+                "Item": "Divine Stone",
+                "Amount": 3
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Fire Haori",
+                "Amount": 15
+            },
+            {
+                "Item": "Apple",
+                "Amount": 30
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Frieza 1st Form": {
+        "EvolvesTo": "Frieza",
+        "Requirements": [
+            {
+                "Item": "Wish Ball",
+                "Amount": 7
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 20
+            },
+            {
+                "Item": "Bean",
+                "Amount": 10
+            },
+            {
+                "Item": "Scouter",
+                "Amount": 3
+            },
+            {
+                "Item": "Radar",
+                "Amount": 3
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Ulquiorra": {
+        "EvolvesTo": "Ulquiorra (Segunda)",
+        "Requirements": [
+            {
+                "Item": "Hollow Spear",
+                "Amount": 3
+            },
+            {
+                "Item": "Soul Candy",
+                "Amount": 10
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Hollow Leader Mask",
+                "Amount": 7
+            },
+            {
+                "Item": "Hollow Warrior Mask",
+                "Amount": 10
+            },
+            {
+                "Item": "Apple",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "SakamotoBundle": {
+        "EvolvesTo": "SakamotoEvoBundle",
+        "Requirements": [
+            {
+                "Item": "LuStaff",
+                "Amount": 5
+            },
+            {
+                "Item": "CupNoodle",
+                "Amount": 10
+            },
+            {
+                "Item": "Juice",
+                "Amount": 5
+            },
+            {
+                "Item": "Taser",
+                "Amount": 5
+            },
+            {
+                "Item": "LuKey",
+                "Amount": 1
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Baek": {
+        "EvolvesTo": "BaekEvo",
+        "Requirements": [
+            {
+                "Item": "Beast Claws",
+                "Amount": 1
+            },
+            {
+                "Item": "Mana Crystal",
+                "Amount": 15
+            },
+            {
+                "Item": "Beast Belt",
+                "Amount": 1
+            },
+            {
+                "Item": "Oversized Shins",
+                "Amount": 1
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Fish",
+                "Amount": 5
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Chae": {
+        "EvolvesTo": "ChaeEvo",
+        "Requirements": [
+            {
+                "Item": "Light Sword",
+                "Amount": 1
+            },
+            {
+                "Item": "Mana Crystal",
+                "Amount": 15
+            },
+            {
+                "Item": "Light Crown",
+                "Amount": 1
+            },
+            {
+                "Item": "Light Pickaxe",
+                "Amount": 1
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 30
+            },
+            {
+                "Item": "Apple",
+                "Amount": 20
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Killua": {
+        "EvolvesTo": "KilluaEvo",
+        "Requirements": [
+            {
+                "Item": "Yoyo",
+                "Amount": 1
+            },
+            {
+                "Item": "Kill's Shorts",
+                "Amount": 5
+            },
+            {
+                "Item": "Kill's Shoe",
+                "Amount": 15
+            },
+            {
+                "Item": "Kill's Shirt",
+                "Amount": 30
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 10
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Igris": {
+        "EvolvesTo": "IgrisEvo",
+        "Requirements": [
+            {
+                "Item": "Aura Sword [Purple]",
+                "Amount": 1
+            },
+            {
+                "Item": "Knight Killer",
+                "Amount": 1
+            },
+            {
+                "Item": "Dominator's Rune (Red)",
+                "Amount": 20
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Red Knight's Helmet",
+                "Amount": 1
+            },
+            {
+                "Item": "Dominator's Rune (Purple)",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "BorosEvo": {
+        "EvolvesTo": "BorosDoubleEvo",
+        "Requirements": [
+            {
+                "Item": "Cracked Power Core",
+                "Amount": 1
+            },
+            {
+                "Item": "Boru Torso",
+                "Amount": 1
+            },
+            {
+                "Item": "Topaz",
+                "Amount": 20
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Sapphire",
+                "Amount": 20
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Sakamoto": {
+        "EvolvesTo": "SakamotoEvo",
+        "Requirements": [
+            {
+                "Item": "LuStaff",
+                "Amount": 5
+            },
+            {
+                "Item": "CupNoodle",
+                "Amount": 10
+            },
+            {
+                "Item": "Juice",
+                "Amount": 5
+            },
+            {
+                "Item": "Taser",
+                "Amount": 5
+            },
+            {
+                "Item": "LuKey",
+                "Amount": 1
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "KiritoOA": {
+        "EvolvesTo": "KiritoOAEvo",
+        "Requirements": [
+            {
+                "Item": "Cyan Sword",
+                "Amount": 3
+            },
+            {
+                "Item": "Black Sword",
+                "Amount": 8
+            },
+            {
+                "Item": "Divine Stone",
+                "Amount": 1
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Virtual Food",
+                "Amount": 15
+            },
+            {
+                "Item": "Apple",
+                "Amount": 10
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    },
+    "Nezuko": {
+        "EvolvesTo": "NezukoEvo",
+        "Requirements": [
+            {
+                "Item": "Demon Horn",
+                "Amount": 20
+            },
+            {
+                "Item": "Nezu Bamboo",
+                "Amount": 10
+            },
+            {
+                "Item": "Ruby",
+                "Amount": 20
+            },
+            {
+                "Item": "Nezu Outfit",
+                "Amount": 1
+            },
+            {
+                "Item": "Nezu Box",
+                "Amount": 3
+            },
+            {
+                "Item": "Divine Stone",
+                "Amount": 1
+            },
+            {
+                "Item": "Fish",
+                "Amount": 15
+            },
+            {
+                "Item": "SunTanjiro",
+                "Amount": 1
+            },
+            {
+                "Item": "Stat Crystal",
+                "Amount": 3
+            }
+        ],
+        "Rewards": []
+    }
+}
