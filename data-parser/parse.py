@@ -2,51 +2,72 @@ import json
 import os
 
 FOLDERS_TO_PROCESS = {
-    "Items": "items.json",
     "Units": "units.json",
-    "Map": "maps.json"
+    "Items": "items.json",
+    "Map": "maps.json",
+    "EvoData": "evodata.json",
+    "DropData": "dropdata.json"
 }
 
 START_MARKER = '[=['
 END_MARKER = ']=]'
 
 def extract_json_from_lua(file_path):
-    """Extracts the JSON string inside the Roblox [=[ ]=] markers."""
+    """Extracts and parses the JSON string inside Roblox [=[ ]=] markers."""
     try:
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
             if START_MARKER in content and END_MARKER in content:
                 raw_json = content.split(START_MARKER)[1].split(END_MARKER)[0]
                 return json.loads(raw_json)
+    except json.JSONDecodeError as e:
+        print(f"  ! JSON Error in {file_path}: {e}")
     except Exception as e:
-        print(f"Error parsing {file_path}: {e}")
+        print(f"  ! General Error in {file_path}: {e}")
     return None
 
-def process_category(folder_name, output_filename):
-    """Scans a folder for .lua files and merges them into one JSON file."""
-    if not os.path.exists(folder_name):
-        print(f"Skipping {folder_name}: Folder not found.")
+def process_category(root_folder, output_filename):
+    """Walks through the folder and subfolders to merge all data."""
+    if not os.path.exists(root_folder):
+        print(f"Skipping {root_folder}: Folder not found.")
         return
 
     category_data = {}
-    print(f"Processing {folder_name}...")
-    files = sorted([f for f in os.listdir(folder_name) if f.endswith(".lua")])
+    print(f"Processing folder: {root_folder}...")
 
-    for file in files:
-        file_path = os.path.join(folder_name, file)
-        data = extract_json_from_lua(file_path)
-        
-        if data:
-            category_data.update(data)
-            print(f"  + Successfully parsed {file}")
+    for root, dirs, files in os.walk(root_folder):
+        for file in files:
+            if file.endswith(".lua"):
+                file_path = os.path.join(root, file)
+                data = extract_json_from_lua(file_path)
+                
+                if data:
+                    relative_path = os.path.relpath(root, root_folder)
+                    
+                    if relative_path == ".":
+                        category_data.update(data)
+                    else:
+                        current_dict = category_data
+                        path_parts = relative_path.split(os.sep)
+                        
+                        for part in path_parts:
+                            if part not in current_dict:
+                                current_dict[part] = {}
+                            current_dict = current_dict[part]
+                        
+                        current_dict.update(data)
+                    
+                    print(f"  + Merged {file}")
 
-    with open(output_filename, 'w', encoding='utf-8') as f:
-        json.dump(category_data, f, indent=4, ensure_ascii=False)
-    
-    print(f"--- Saved {len(category_data)} entries to {output_filename} ---\n")
+    if category_data:
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            json.dump(category_data, f, indent=4, ensure_ascii=False)
+        print(f"--- Saved {output_filename} successfully ---\n")
+    else:
+        print(f"--- No data found in {root_folder} ---\n")
 
 if __name__ == "__main__":
+    print("--- Starting Data Merge ---\n")
     for folder, output in FOLDERS_TO_PROCESS.items():
         process_category(folder, output)
-    
     print("All tasks complete.")
