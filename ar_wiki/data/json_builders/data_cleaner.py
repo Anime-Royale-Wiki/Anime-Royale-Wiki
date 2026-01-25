@@ -5,11 +5,15 @@ from ar_wiki.src.config import PROJECT_ROOT
 raw_unit_file = PROJECT_ROOT / "data" / "raw_data" / "raw_units.json"
 raw_item_file = PROJECT_ROOT / "data" / "raw_data" / "raw_items.json"
 raw_map_file = PROJECT_ROOT / "data" / "raw_data" / "raw_maps.json"
+raw_drop_file = PROJECT_ROOT / "data" / "raw_data" / "raw_dropdata.json"
+raw_evo_file = PROJECT_ROOT / "data" / "raw_data" / "raw_evodata.json"
 unit_descriptions_file = PROJECT_ROOT / "data" / "cleaned_data" / "unit_description.json"
 
 clean_unit_file = PROJECT_ROOT / "data" / "cleaned_data" / "units.json"
 clean_item_file = PROJECT_ROOT / "data" / "cleaned_data" / "items.json"
 clean_map_file = PROJECT_ROOT / "data" / "cleaned_data" / "maps.json"
+clean_drop_file = PROJECT_ROOT / "data" / "cleaned_data" / "dropdata.json"
+clean_evo_file = PROJECT_ROOT / "data" / "cleaned_data" / "evodata.json"
 
 RARITY_ORDER = {
     "Royalty": 0,
@@ -19,6 +23,34 @@ RARITY_ORDER = {
     "Epic": 4,
     "Rare": 5,
 }
+
+def parse_lua_table_to_dict(content):
+    """Parses a chunk of Lua text for Items and Units."""
+    data = {"Items": {}, "Units": {}}
+
+    item_blocks = re.findall(r'\["([^"]+)"\]\s*=\s*\{(.*?Chance\s*=\s*[\d\.]+.*?Amount\s*=\s*\{.*?\}.*?)\}', content, re.DOTALL)
+    
+    for name, body in item_blocks:
+        chance_match = re.search(r'Chance\s*=\s*([\d\.]+)', body)
+        amount_match = re.search(r'Amount\s*=\s*\{(.*?)\}', body, re.DOTALL)
+        
+        amounts = {}
+        if amount_match:
+            raw_amounts = re.findall(r'\[(\d+)\]\s*=\s*([\d\.]+)', amount_match.group(1))
+            amounts = {int(k): float(v) for k, v in raw_amounts}
+        
+        data["Items"][name] = {
+            "Chance": float(chance_match.group(1)) if chance_match else 0.0,
+            "Amounts": amounts
+        }
+
+    units_block = re.search(r'Units\s*=\s*\{(.*?)\}', content, re.DOTALL)
+    if units_block:
+        unit_entries = re.findall(r'\["([^"]+)"\]\s*=\s*\{\s*Chance\s*=\s*([\d\.]+)\s*\}', units_block.group(1))
+        for name, chance in unit_entries:
+            data["Units"][name] = float(chance)
+            
+    return data
 
 def clean_units(raw_json_path, unit_description_path, output_path):
     with open(raw_json_path, 'r', encoding='utf-8') as f:
@@ -151,6 +183,46 @@ def clean_maps(raw_map_path, output_path):
     
     print(f"Map Clean Complete. Processed {len(cleaned_maps)} maps.")
 
-clean_units(raw_unit_file, unit_descriptions_file, clean_unit_file)
-clean_items(raw_item_file, clean_item_file)
-clean_maps(raw_map_file, clean_map_file)
+def clean_dropdata(raw_path, out_path):
+    with open(raw_path, 'r', encoding='utf-8') as f:
+        raw_data = json.load(f)
+    db = {}
+    for map_name, lua_src in raw_data.items():
+        if "Difficulty" in lua_src:
+            db[map_name] = {"Type": "DifficultyBased", "Difficulties": {}}
+            parts = re.split(r'\["(Easy|Normal|Hard)"\]\s*=\s*\{', lua_src)
+            for i in range(1, len(parts), 2):
+                diff_name, diff_content = parts[i], parts[i+1]
+                db[map_name]["Difficulties"][diff_name] = parse_lua_table_to_dict(diff_content)
+        else:
+            db[map_name] = parse_lua_table_to_dict(lua_src)
+            db[map_name]["Type"] = "Static"
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(db, f, indent=4)
+    print(f"Drop Data Clean Complete. Processed {len(db)} maps.")
+
+def clean_evodata(raw_path, out_path):
+    with open(raw_path, 'r', encoding='utf-8') as f:
+        raw_data = json.load(f)
+    db = {}
+    for uid, src in raw_data.items():
+        evo = re.search(r'EvoName\s*=\s*Evolutions\["([^"]+)"\]', src)
+        items = re.findall(r'\{"([^"]+)"\,\s*(\d+)\}', src)
+        rew_s = re.search(r'Rewards\s*=\s*\{(.*?)\}', src, re.DOTALL)
+        rews = re.findall(r'\{"([^"]+)"\,\s*(\d+)\}', rew_s.group(1)) if rew_s else []
+        db[uid] = {
+            "EvolvesTo": evo.group(1) if evo else "Unknown",
+            "Requirements": [{"Item": i[0], "Amount": int(i[1])} for i in items],
+            "Rewards": [{"Item": r[0], "Amount": int(r[1])} for r in rews]
+        }
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(db, f, indent=4)
+    print(f"Evo Data Clean Complete. Processed {len(db)} entries.")
+
+
+if __name__ == "__main__":
+    clean_units(raw_unit_file, unit_descriptions_file, clean_unit_file)
+    clean_items(raw_item_file, clean_item_file)
+    clean_maps(raw_map_file, clean_map_file)
+    clean_dropdata(raw_drop_file, clean_drop_file)
+    clean_evodata(raw_evo_file, clean_evo_file)
