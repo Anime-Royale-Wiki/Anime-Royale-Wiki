@@ -27,7 +27,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Getho [Zero]"
     },
     "Goku [SSJ]": {
         "EvolvesTo": "Goku (SSJ3)",
@@ -65,7 +66,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Goko The 3rd"
     },
     "Vegeta": {
         "EvolvesTo": "MajinVegeta",
@@ -87,7 +89,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "The Evil Cup"
     },
     "Gon": {
         "EvolvesTo": "GonEvo",
@@ -121,7 +124,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Gun [Pact]"
     },
     "Goku": {
         "EvolvesTo": "Goku [SSJ]",
@@ -143,7 +147,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Goko [SSJ]"
     },
     "Asuna": {
         "EvolvesTo": "AsunaOA",
@@ -165,7 +170,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Virtual Swordwoman"
     },
     "SuperBuu": {
         "EvolvesTo": "KidBuu",
@@ -203,7 +209,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Kid Boog"
     },
     "Yuno": {
         "EvolvesTo": "YunoEvo",
@@ -233,7 +240,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Wind Mage [Spirit Ascension]"
     },
     "Saitama": {
         "EvolvesTo": "SaitamaEvo",
@@ -267,7 +275,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Kaillou (Serious)"
     },
     "Zenitsu": {
         "EvolvesTo": "EOSZenitsu",
@@ -301,7 +310,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Zonitsu [Awakened]"
     },
     "TeenGohan": {
         "EvolvesTo": "GohanTeenSSJ2",
@@ -339,7 +349,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Teen Gokan (Awakened)"
     },
     "Gojo": {
         "EvolvesTo": "GojoEvo",
@@ -369,7 +380,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Gotho [Honored]"
     },
     "Boros": {
         "EvolvesTo": "BorosEvo",
@@ -399,7 +411,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Boru [Released]"
     },
     "SunJinWooEvo": {
         "EvolvesTo": "SunJinWooEvo2",
@@ -429,7 +442,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Aura King [Monarch]"
     },
     "Uryu": {
         "EvolvesTo": "UryuEvo",
@@ -463,7 +477,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Urwu (Kwency)"
     },
     "Sukuna": {
         "EvolvesTo": "SukunaEvo",
@@ -493,7 +508,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Thukuna [King]"
     },
     "Ichigo": {
         "EvolvesTo": "IchigoBankai",
@@ -523,7 +539,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Ichiko [Awakened]"
     },
     "Heathcliff": {
         "EvolvesTo": "Heathcliff [Serious]",
@@ -557,7 +574,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Game Master [Serious]"
     },
     "Yoruichi": {
         "EvolvesTo": "YoruichiEvo",
@@ -587,7 +605,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Yoru [Raging Raijin]"
     },
     "Leafa": {
         "EvolvesTo": "Leafa [Serious]",
@@ -621,7 +640,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Leafy [Fairy]"
     },
     "SunJinWoo": {
         "EvolvesTo": "SunJinWooEvo",
@@ -659,7 +679,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Aura King [Shadow]"
     },
     "Tanjiro": {
         "EvolvesTo": "SunTanjiro",
@@ -685,7 +706,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Sun Tojiro"
     },
     "Kirito": {
         "EvolvesTo": "KiritoOA",
@@ -707,7 +729,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Virtual Swordmaster [Awakened]"
     },
     "Shunsui": {
         "EvolvesTo": "ShunsuiEvo",
@@ -741,7 +764,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Sunny (Release)"
     },
     "Rengoku": {
         "EvolvesTo": "RengokuEvo",
@@ -771,7 +795,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Flame Master [Ablaze]"
     },
     "Frieza 1st Form": {
         "EvolvesTo": "Frieza",
@@ -801,7 +826,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Freeze [Final]"
     },
     "Ulquiorra": {
         "EvolvesTo": "Ulquiorra (Segunda)",
@@ -835,7 +861,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Ulquioro (Second)"
     },
     "SakamotoBundle": {
         "EvolvesTo": "SakamotoEvoBundle",
@@ -865,7 +892,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Motomoto Bunny [Thin]"
     },
     "Baek": {
         "EvolvesTo": "BaekEvo",
@@ -903,7 +931,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Beast Hunter [Wrath]"
     },
     "Chae": {
         "EvolvesTo": "ChaeEvo",
@@ -937,7 +966,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Light Bearer [Blessed]"
     },
     "Killua": {
         "EvolvesTo": "KilluaEvo",
@@ -971,7 +1001,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Kill [Angered]"
     },
     "Igris": {
         "EvolvesTo": "IgrisEvo",
@@ -1005,7 +1036,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Aura Farmer [Purple]"
     },
     "BorosEvo": {
         "EvolvesTo": "BorosDoubleEvo",
@@ -1035,7 +1067,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Boru [100% Released]"
     },
     "Sakamoto": {
         "EvolvesTo": "SakamotoEvo",
@@ -1065,7 +1098,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Motomoto [Thin]"
     },
     "KiritoOA": {
         "EvolvesTo": "KiritoOAEvo",
@@ -1099,7 +1133,8 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Virtual Swordmaster [Ultimate]"
     },
     "Nezuko": {
         "EvolvesTo": "NezukoEvo",
@@ -1141,6 +1176,7 @@
                 "Amount": 3
             }
         ],
-        "Rewards": []
+        "Rewards": [],
+        "EvolutionName": "Nezu [Demon]"
     }
 }

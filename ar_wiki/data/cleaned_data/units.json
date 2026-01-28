@@ -5,6 +5,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Embodiment of Light",
@@ -100,7 +101,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Yhwach": {
         "Name": "Almighty",
@@ -108,6 +110,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "The One Who Saw The Future",
@@ -163,7 +166,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Beru": {
         "Name": "Ant General",
@@ -171,6 +175,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Bloodlust",
@@ -238,7 +243,8 @@
                     "Poison"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "IgrisEvo": {
         "Name": "Aura Farmer [Purple]",
@@ -246,6 +252,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Dominator's Touch",
@@ -309,7 +316,8 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "SunJinWooEvo2": {
         "Name": "Aura King [Monarch]",
@@ -317,6 +325,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Level Up",
@@ -412,7 +421,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "ZBroly": {
         "Name": "Broccoli",
@@ -420,6 +430,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Base",
@@ -531,7 +542,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Nokotan": {
         "Name": "Deer Girl",
@@ -539,6 +551,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "The Zoo",
@@ -598,7 +611,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Akame": {
         "Name": "Demon Blade",
@@ -606,6 +620,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Toxikensis",
@@ -679,7 +694,8 @@
                     "Poison"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Muzan": {
         "Name": "Demon Lord",
@@ -687,6 +703,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Father of Demons",
@@ -754,7 +771,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Giorno": {
         "Name": "Dreamer",
@@ -762,6 +780,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Golden Wind",
@@ -833,7 +852,8 @@
                     "Overgrowth"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Aizen": {
         "Name": "Eyezen",
@@ -841,6 +861,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Spiritual Pressure",
@@ -896,7 +917,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Frieren": {
         "Name": "Friend",
@@ -904,6 +926,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Teacher of Magic",
@@ -963,7 +986,8 @@
                     "Slow"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Genos": {
         "Name": "Gen Z",
@@ -971,6 +995,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Everything I've Got",
@@ -1038,7 +1063,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Dio[OH]": {
         "Name": "Gio [Over Heaven]",
@@ -1046,6 +1072,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Heavenly Embodiment",
@@ -1113,7 +1140,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "SaitamaEvo": {
         "Name": "Kaillou (Serious)",
@@ -1121,6 +1149,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Locking In",
@@ -1184,7 +1213,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Meruem": {
         "Name": "Merem",
@@ -1192,6 +1222,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Arrival of the King",
@@ -1247,7 +1278,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Nagumo": {
         "Name": "Nagu",
@@ -1255,6 +1287,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Dice Roll",
@@ -1287,7 +1320,8 @@
                 "Cost": 30000,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Netero": {
         "Name": "Nero",
@@ -1295,6 +1329,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Enlightment",
@@ -1350,7 +1385,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Cid": {
         "Name": "Shadow",
@@ -1358,6 +1394,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Holding Back",
@@ -1413,7 +1450,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Shin": {
         "Name": "Shine",
@@ -1421,6 +1459,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "The Psychic",
@@ -1488,7 +1527,8 @@
                     "Tether"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "LeLouch": {
         "Name": "The Mastermind",
@@ -1496,6 +1536,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Geass",
@@ -1555,7 +1596,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Toji": {
         "Name": "Tochi",
@@ -1563,6 +1605,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Ambush",
@@ -1618,7 +1661,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Tengen": {
         "Name": "Uzi",
@@ -1626,6 +1670,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Fireworks",
@@ -1681,7 +1726,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "FunnyValentine": {
         "Name": "Valentine Delight",
@@ -1689,6 +1735,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "D4C",
@@ -1744,7 +1791,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Shino": {
         "Name": "Virtual Sniper",
@@ -1752,6 +1800,7 @@
         "Element": "Water",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Level Up",
@@ -1807,7 +1856,8 @@
                 "SPA": 10,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Yato": {
         "Name": "Yabo",
@@ -1815,6 +1865,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Frostbite Eruption",
@@ -1870,7 +1921,8 @@
                 "SPA": 9,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "AdultGohan": {
         "Name": "Adult Gokan",
@@ -1878,6 +1930,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1928,7 +1981,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Akaza": {
         "Name": "Akatou",
@@ -1936,6 +1990,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -1986,7 +2041,8 @@
                 "SPA": 2,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Alice": {
         "Name": "Alize",
@@ -1994,6 +2050,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2044,7 +2101,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "AtomicSamurai": {
         "Name": "Atomic Warrior",
@@ -2052,6 +2110,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2114,7 +2173,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Igris": {
         "Name": "Aura Farmer",
@@ -2122,6 +2182,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2172,7 +2233,42 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "IgrisEvo",
+            "Requirements": [
+                {
+                    "Item": "Aura Sword [Purple]",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Knight Killer",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Dominator's Rune (Red)",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Red Knight's Helmet",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Dominator's Rune (Purple)",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Aura Farmer [Purple]"
+        }
     },
     "SunJinWoo": {
         "Name": "Aura King",
@@ -2180,6 +2276,7 @@
         "Element": "Water",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2242,7 +2339,46 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "SunJinWooEvo",
+            "Requirements": [
+                {
+                    "Item": "Demon Monarch's Necklace",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Teleportation Stone",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Baruka's Dagger",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Mana Crystal",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Assassin's Double Daggers",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Exchange Ring",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Aura King [Shadow]"
+        }
     },
     "SunJinWooEvo": {
         "Name": "Aura King [Shadow]",
@@ -2250,6 +2386,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Level Up",
@@ -2331,7 +2468,38 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "SunJinWooEvo2",
+            "Requirements": [
+                {
+                    "Item": "Teleportation Stone",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Mana Crystal",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Elixir Of Life",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Aura King [Monarch]"
+        }
     },
     "Bang": {
         "Name": "Bean",
@@ -2339,6 +2507,7 @@
         "Element": "Water",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2401,14 +2570,16 @@
                     "Slow"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Baek": {
         "Name": "Beast Hunter",
         "Rarity": "Mythic",
         "Element": "Fighting",
-        "Description": "",
-        "OptimalTrait": "",
+        "Description": "Testing this out",
+        "OptimalTrait": "Monarch",
+        "Obtainment": "Banner",
         "Passives": [],
         "Upgrades": [
             {
@@ -2471,7 +2642,46 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "BaekEvo",
+            "Requirements": [
+                {
+                    "Item": "Beast Claws",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Mana Crystal",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Beast Belt",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Oversized Shins",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Fish",
+                    "Amount": 5
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Beast Hunter [Wrath]"
+        }
     },
     "BaekEvo": {
         "Name": "Beast Hunter [Wrath]",
@@ -2479,6 +2689,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Instinct",
@@ -2546,7 +2757,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "MetalBat": {
         "Name": "Bonkstick",
@@ -2554,6 +2766,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2604,7 +2817,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "BorosDoubleEvo": {
         "Name": "Boru [100% Released]",
@@ -2612,6 +2826,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Alien Leader",
@@ -2683,7 +2898,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "BorosEvo": {
         "Name": "Boru [Released]",
@@ -2691,6 +2907,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2749,7 +2966,38 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "BorosDoubleEvo",
+            "Requirements": [
+                {
+                    "Item": "Cracked Power Core",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Boru Torso",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Boru [100% Released]"
+        }
     },
     "Yamamoto": {
         "Name": "Captain Yama",
@@ -2757,6 +3005,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2819,7 +3068,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Hisoka": {
         "Name": "Card Magician",
@@ -2827,6 +3077,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2889,7 +3140,8 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Chika": {
         "Name": "Chick",
@@ -2897,6 +3149,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -2947,7 +3200,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Daki": {
         "Name": "Dako",
@@ -2955,6 +3209,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3005,7 +3260,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Diavolo": {
         "Name": "Diablo",
@@ -3013,6 +3269,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3063,7 +3320,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Madong": {
         "Name": "Donkey",
@@ -3071,6 +3329,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3133,7 +3392,8 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Alucard": {
         "Name": "Dracula",
@@ -3141,6 +3401,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3203,7 +3464,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Emilia": {
         "Name": "Emily",
@@ -3211,6 +3473,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3273,7 +3536,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Esdeath": {
         "Name": "Eslife",
@@ -3281,6 +3545,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3343,7 +3608,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Fran": {
         "Name": "Fanny",
@@ -3351,6 +3617,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Battle Mania",
@@ -3398,7 +3665,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Rengoku": {
         "Name": "Flame Master",
@@ -3406,6 +3674,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3468,7 +3737,38 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "RengokuEvo",
+            "Requirements": [
+                {
+                    "Item": "Fire Katana",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Divine Stone",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Fire Haori",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Flame Master [Ablaze]"
+        }
     },
     "RengokuEvo": {
         "Name": "Flame Master [Ablaze]",
@@ -3476,6 +3776,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Set Your Heart Ablaze",
@@ -3553,7 +3854,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Frieza": {
         "Name": "Freeze [Final]",
@@ -3561,6 +3863,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3619,7 +3922,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Fubuki": {
         "Name": "Fubuu",
@@ -3627,6 +3931,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3689,7 +3994,8 @@
                     "Slow"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Heathcliff": {
         "Name": "Game Master",
@@ -3697,6 +4003,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3751,7 +4058,42 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "Heathcliff [Serious]",
+            "Requirements": [
+                {
+                    "Item": "Game Shield",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Game Sword",
+                    "Amount": 5
+                },
+                {
+                    "Item": "Divine Stone",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Wish Ball",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Virtual Food",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Game Master [Serious]"
+        }
     },
     "Heathcliff [Serious]": {
         "Name": "Game Master [Serious]",
@@ -3759,6 +4101,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3827,7 +4170,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Rin Tohsaka": {
         "Name": "Gems Master",
@@ -3835,6 +4179,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3885,7 +4230,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Geto": {
         "Name": "Getho",
@@ -3893,6 +4239,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -3943,7 +4290,38 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "GetoEvo",
+            "Requirements": [
+                {
+                    "Item": "Getho Outfit",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Cursed Energy",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Cursed Orb",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Getho [Zero]"
+        }
     },
     "GetoEvo": {
         "Name": "Getho [Zero]",
@@ -3951,6 +4329,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4009,7 +4388,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Gotenks": {
         "Name": "Gobanks",
@@ -4017,6 +4397,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Ghost Clones",
@@ -4090,7 +4471,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Gogeta": {
         "Name": "Gogetable (Angel)",
@@ -4098,6 +4480,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Fusion Duration",
@@ -4161,7 +4544,8 @@
                 "SPA": 2.5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "GokuZEnd": {
         "Name": "Goko (End)",
@@ -4169,6 +4553,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4219,7 +4604,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Goku (SSJ3)": {
         "Name": "Goko The 3rd",
@@ -4227,6 +4613,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Power of Friendship",
@@ -4296,7 +4683,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Goku [SSJ]": {
         "Name": "Goko [SSJ]",
@@ -4304,6 +4692,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4354,7 +4743,46 @@
                 "SPA": 7,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "Goku (SSJ3)",
+            "Requirements": [
+                {
+                    "Item": "Goko Outfit",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Bean",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Wish Ball",
+                    "Amount": 4
+                },
+                {
+                    "Item": "Scouter",
+                    "Amount": 8
+                },
+                {
+                    "Item": "Radar",
+                    "Amount": 4
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Goko The 3rd"
+        }
     },
     "Gyomei": {
         "Name": "Gomu",
@@ -4362,6 +4790,7 @@
         "Element": "Rock",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4424,7 +4853,8 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Gojo": {
         "Name": "Gotho",
@@ -4432,6 +4862,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4482,7 +4913,38 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "GojoEvo",
+            "Requirements": [
+                {
+                    "Item": "Six Eyes",
+                    "Amount": 2
+                },
+                {
+                    "Item": "Cursed Energy",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Blindfold",
+                    "Amount": 7
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Gotho [Honored]"
+        }
     },
     "GojoEvo": {
         "Name": "Gotho [Honored]",
@@ -4490,6 +4952,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4548,7 +5011,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "GregorEvo": {
         "Name": "Greg [Kurokumo]",
@@ -4556,6 +5020,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Dark Cloud Blade",
@@ -4623,7 +5088,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Giyu": {
         "Name": "Gui",
@@ -4631,6 +5097,7 @@
         "Element": "Water",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4693,7 +5160,8 @@
                     "Slow"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Gyutaro": {
         "Name": "Guitar",
@@ -4701,6 +5169,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4763,7 +5232,8 @@
                     "Poison"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Gon": {
         "Name": "Gun",
@@ -4771,6 +5241,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -4821,7 +5292,42 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "GonEvo",
+            "Requirements": [
+                {
+                    "Item": "Hair Gel",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Gun's Top",
+                    "Amount": 5
+                },
+                {
+                    "Item": "Dummy Hat",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Dummy Hair",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Gun [Pact]"
+        }
     },
     "GonEvo": {
         "Name": "Gun [Pact]",
@@ -4829,6 +5335,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Rage",
@@ -4910,7 +5417,8 @@
                     "Tremor"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Hashirama": {
         "Name": "Hashino",
@@ -4918,6 +5426,7 @@
         "Element": "Ground",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Wood Release",
@@ -4973,7 +5482,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Heisuke": {
         "Name": "Haze",
@@ -4981,6 +5491,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5031,7 +5542,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Goto": {
         "Name": "Headless Swordsman",
@@ -5039,6 +5551,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5101,7 +5614,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Rin": {
         "Name": "Hellborn",
@@ -5109,6 +5623,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5171,7 +5686,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Ichigo": {
         "Name": "Ichiko",
@@ -5179,6 +5695,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5229,7 +5746,38 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "IchigoBankai",
+            "Requirements": [
+                {
+                    "Item": "Shintin",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Reaper Badge",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Gokon",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Soul Candy",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Ichiko [Awakened]"
+        }
     },
     "IchigoBankai": {
         "Name": "Ichiko [Awakened]",
@@ -5237,6 +5785,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5287,7 +5836,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Mugetsu": {
         "Name": "Ichiko [Gumetsu]",
@@ -5295,6 +5845,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Darkness Within",
@@ -5372,7 +5923,8 @@
                     "BlackFlame"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Janemba": {
         "Name": "Jamba",
@@ -5380,6 +5932,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5442,7 +5995,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "EsdeathBundle": {
         "Name": "Jolly Eslife",
@@ -5450,6 +6004,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5512,7 +6067,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Jotaro": {
         "Name": "Jotero",
@@ -5520,6 +6076,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5582,7 +6139,8 @@
                     "Timestop"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kaiju": {
         "Name": "Kaiju",
@@ -5590,6 +6148,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5640,7 +6199,8 @@
                 "SPA": 7,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Saitama": {
         "Name": "Kaillou",
@@ -5648,6 +6208,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5698,7 +6259,42 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "SaitamaEvo",
+            "Requirements": [
+                {
+                    "Item": "Gen Z Core",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Cape",
+                    "Amount": 5
+                },
+                {
+                    "Item": "Video Game",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Grocery Bag",
+                    "Amount": 60
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Kaillou (Serious)"
+        }
     },
     "Kaneki": {
         "Name": "Keneki",
@@ -5706,6 +6302,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5768,7 +6365,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kenpachi": {
         "Name": "Kenny",
@@ -5776,6 +6374,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5826,7 +6425,8 @@
                 "SPA": 9,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "KidBuu": {
         "Name": "Kid Boog",
@@ -5834,6 +6434,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -5892,7 +6493,8 @@
                 "SPA": 7,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "KilluaEvo": {
         "Name": "Kill [Angered]",
@@ -5900,6 +6502,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Godspeed",
@@ -5977,7 +6580,8 @@
                     "Paralysis"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Killua": {
         "Name": "Killa",
@@ -5985,6 +6589,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6047,7 +6652,42 @@
                     "Paralysis"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "KilluaEvo",
+            "Requirements": [
+                {
+                    "Item": "Yoyo",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Kill's Shorts",
+                    "Amount": 5
+                },
+                {
+                    "Item": "Kill's Shoe",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Kill's Shirt",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Kill [Angered]"
+        }
     },
     "Kuzan": {
         "Name": "Kuzo",
@@ -6055,6 +6695,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6117,7 +6758,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Leafa": {
         "Name": "Leafy",
@@ -6125,6 +6767,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6175,7 +6818,42 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "Leafa [Serious]",
+            "Requirements": [
+                {
+                    "Item": "Fairy Wings",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Fairy Sword",
+                    "Amount": 5
+                },
+                {
+                    "Item": "Divine Stone",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Virtual Food",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Leafy [Fairy]"
+        }
     },
     "Leafa [Serious]": {
         "Name": "Leafy [Fairy]",
@@ -6183,6 +6861,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6241,7 +6920,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Chae": {
         "Name": "Light Bearer",
@@ -6249,6 +6929,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6299,7 +6980,42 @@
                 "SPA": 3,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "ChaeEvo",
+            "Requirements": [
+                {
+                    "Item": "Light Sword",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Mana Crystal",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Light Crown",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Light Pickaxe",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Light Bearer [Blessed]"
+        }
     },
     "ChaeEvo": {
         "Name": "Light Bearer [Blessed]",
@@ -6307,6 +7023,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Blade Dancer",
@@ -6378,7 +7095,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "RolandEvo": {
         "Name": "Lollang (Black Silence)",
@@ -6386,6 +7104,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "This is This, and That is That.",
@@ -6441,7 +7160,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Lu": {
         "Name": "Loop",
@@ -6449,6 +7169,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6499,7 +7220,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Madoka": {
         "Name": "Mahoka",
@@ -6507,6 +7229,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6561,7 +7284,8 @@
                     "Slow"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Bocchi": {
         "Name": "Maiko",
@@ -6569,6 +7293,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Concert",
@@ -6618,7 +7343,8 @@
                 "SPA": 3,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Madara": {
         "Name": "Manara",
@@ -6626,6 +7352,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6688,7 +7415,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Mimosa": {
         "Name": "Mims",
@@ -6696,6 +7424,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Healing Grimoire",
@@ -6751,7 +7480,8 @@
                 "Healing": 121500,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Mirajane": {
         "Name": "Mira [Demon]",
@@ -6759,6 +7489,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6821,7 +7552,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Mikasa": {
         "Name": "Misaka",
@@ -6829,6 +7561,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6883,7 +7616,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Mitsuri": {
         "Name": "Mitsu",
@@ -6891,6 +7625,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -6941,7 +7676,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kokushibo": {
         "Name": "Moon Demon",
@@ -6949,6 +7685,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7011,7 +7748,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "SailorMoon": {
         "Name": "Moon Princess",
@@ -7019,6 +7757,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7069,7 +7808,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Sakamoto": {
         "Name": "Motomoto",
@@ -7077,6 +7817,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7127,7 +7868,38 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "SakamotoEvo",
+            "Requirements": [
+                {
+                    "Item": "LuStaff",
+                    "Amount": 5
+                },
+                {
+                    "Item": "CupNoodle",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Juice",
+                    "Amount": 5
+                },
+                {
+                    "Item": "Taser",
+                    "Amount": 5
+                },
+                {
+                    "Item": "LuKey",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Motomoto [Thin]"
+        }
     },
     "SakamotoBundle": {
         "Name": "Motomoto Bunny",
@@ -7135,6 +7907,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7185,7 +7958,38 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "SakamotoEvoBundle",
+            "Requirements": [
+                {
+                    "Item": "LuStaff",
+                    "Amount": 5
+                },
+                {
+                    "Item": "CupNoodle",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Juice",
+                    "Amount": 5
+                },
+                {
+                    "Item": "Taser",
+                    "Amount": 5
+                },
+                {
+                    "Item": "LuKey",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Motomoto Bunny [Thin]"
+        }
     },
     "SakamotoEvoBundle": {
         "Name": "Motomoto Bunny [Thin]",
@@ -7193,6 +7997,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Quick Metabolism",
@@ -7256,7 +8061,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "SakamotoEvo": {
         "Name": "Motomoto [Thin]",
@@ -7264,6 +8070,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Quick Metabolism",
@@ -7327,7 +8134,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Nazuna": {
         "Name": "Nakuma",
@@ -7335,6 +8143,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7389,7 +8198,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Neferpitou": {
         "Name": "Neko",
@@ -7397,6 +8207,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Chimera Summon",
@@ -7452,7 +8263,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Nezuko": {
         "Name": "Nezu",
@@ -7460,6 +8272,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7510,7 +8323,50 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "NezukoEvo",
+            "Requirements": [
+                {
+                    "Item": "Demon Horn",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Nezu Bamboo",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Nezu Outfit",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Nezu Box",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Divine Stone",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Fish",
+                    "Amount": 15
+                },
+                {
+                    "Item": "SunTanjiro",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Nezu [Demon]"
+        }
     },
     "NezukoEvo": {
         "Name": "Nezu [Demon]",
@@ -7518,6 +8374,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Blood Legacy",
@@ -7595,7 +8452,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Death13": {
         "Name": "Nightmare XIII",
@@ -7603,6 +8461,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7665,7 +8524,8 @@
                     "Sleep"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Okuyasu": {
         "Name": "Okuno",
@@ -7673,6 +8533,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "The Hand",
@@ -7728,7 +8589,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Origami": {
         "Name": "Origiri",
@@ -7736,6 +8598,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7790,7 +8653,8 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Orihime": {
         "Name": "Orihamis",
@@ -7798,6 +8662,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Bread Muncher",
@@ -7896,7 +8761,8 @@
                 "SPA": 3,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Okarun": {
         "Name": "Otakurun",
@@ -7904,6 +8770,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -7954,7 +8821,8 @@
                 "SPA": 2,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "OkarunBundle": {
         "Name": "Otakurun [Venomous]",
@@ -7962,6 +8830,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8012,7 +8881,8 @@
                 "SPA": 2,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "CellEvo2": {
         "Name": "Perfect Konchu",
@@ -8020,6 +8890,7 @@
         "Element": "Poison",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8082,7 +8953,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Rikka": {
         "Name": "Ria",
@@ -8090,6 +8962,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8140,7 +9013,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Riruka": {
         "Name": "Rumika",
@@ -8148,6 +9022,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8198,7 +9073,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Choi": {
         "Name": "S-Rank Bomber",
@@ -8206,6 +9082,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8268,7 +9145,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "CellEvo": {
         "Name": "Semi-Perfect Konchu",
@@ -8276,6 +9154,7 @@
         "Element": "Poison",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8326,7 +9205,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Liu": {
         "Name": "Seven Star Hunter",
@@ -8334,6 +9214,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8396,7 +9277,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Polnareff": {
         "Name": "Silver Knight",
@@ -8404,6 +9286,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Silver Chariot",
@@ -8463,7 +9346,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Song": {
         "Name": "Song",
@@ -8471,6 +9355,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8533,7 +9418,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Shanks": {
         "Name": "Stabs",
@@ -8541,6 +9427,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8595,7 +9482,8 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Boiled": {
         "Name": "Steamed",
@@ -8603,6 +9491,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8653,7 +9542,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "SunTanjiro": {
         "Name": "Sun Tojiro",
@@ -8661,6 +9551,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8723,7 +9614,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Shunsui": {
         "Name": "Sunny",
@@ -8731,6 +9623,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8781,7 +9674,42 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "ShunsuiEvo",
+            "Requirements": [
+                {
+                    "Item": "Pink Kimono",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Kisu Hat",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Eye Patch",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Straw Hat",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Toy Windmill",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Sunny (Release)"
+        }
     },
     "ShunsuiEvo": {
         "Name": "Sunny (Release)",
@@ -8789,6 +9717,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Bushogoma",
@@ -8852,7 +9781,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "SuperBuu": {
         "Name": "Super Boog",
@@ -8860,6 +9790,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8910,7 +9841,46 @@
                 "SPA": 7.5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "KidBuu",
+            "Requirements": [
+                {
+                    "Item": "Evil Orb",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Bean",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Wish Ball",
+                    "Amount": 4
+                },
+                {
+                    "Item": "Scouter",
+                    "Amount": 8
+                },
+                {
+                    "Item": "Radar",
+                    "Amount": 4
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Kid Boog"
+        }
     },
     "Buuhan": {
         "Name": "Super Booghan",
@@ -8918,6 +9888,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -8976,7 +9947,8 @@
                 "SPA": 7,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Buutenks": {
         "Name": "Super Boogtenks",
@@ -8984,6 +9956,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Ghost clones",
@@ -9053,7 +10026,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Tatsumaki": {
         "Name": "Tatsu",
@@ -9061,6 +10035,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9123,7 +10098,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "TeenGohan": {
         "Name": "Teen Gokan",
@@ -9131,6 +10107,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9181,7 +10158,46 @@
                 "SPA": 6.25,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "GohanTeenSSJ2",
+            "Requirements": [
+                {
+                    "Item": "Pickle Cape",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Bean",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Wish Ball",
+                    "Amount": 4
+                },
+                {
+                    "Item": "Scouter",
+                    "Amount": 8
+                },
+                {
+                    "Item": "Radar",
+                    "Amount": 4
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Teen Gokan (Awakened)"
+        }
     },
     "GohanTeenSSJ2": {
         "Name": "Teen Gokan (Awakened)",
@@ -9189,6 +10205,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9247,7 +10264,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "FutureTrunks": {
         "Name": "The Drink",
@@ -9255,6 +10273,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9309,7 +10328,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "MajinVegeta": {
         "Name": "The Evil Cup",
@@ -9317,6 +10337,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9367,7 +10388,8 @@
                 "SPA": 60,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Touma": {
         "Name": "The Weakest Esper",
@@ -9375,6 +10397,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Nullify",
@@ -9430,7 +10453,8 @@
                 "SPA": 3,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Thomas": {
         "Name": "Thompson Anderson",
@@ -9438,6 +10462,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9488,7 +10513,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Sukuna": {
         "Name": "Thukuna",
@@ -9496,6 +10522,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9558,7 +10585,38 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "SukunaEvo",
+            "Requirements": [
+                {
+                    "Item": "Thukuna Outfit",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Cursed Energy",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 40
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Cursed Finger",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Thukuna [King]"
+        }
     },
     "SukunaEvo": {
         "Name": "Thukuna [King]",
@@ -9566,6 +10624,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9638,7 +10697,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Toshiro": {
         "Name": "Tochito",
@@ -9646,6 +10706,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9708,7 +10769,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Tohka": {
         "Name": "Toka",
@@ -9716,6 +10778,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9766,7 +10829,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Ulquiorra (Segunda)": {
         "Name": "Ulquioro (Second)",
@@ -9774,6 +10838,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9832,7 +10897,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Uryu": {
         "Name": "Urwu",
@@ -9840,6 +10906,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9890,7 +10957,42 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "UryuEvo",
+            "Requirements": [
+                {
+                    "Item": "Quincy Cross",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Divine Stone",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Glass Bow",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Glass Sword",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Glasses",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Urwu (Kwency)"
+        }
     },
     "UryuEvo": {
         "Name": "Urwu (Kwency)",
@@ -9898,6 +11000,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -9956,7 +11059,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Vegito": {
         "Name": "Vegitu",
@@ -9964,6 +11068,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10022,7 +11127,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Levi": {
         "Name": "Vile",
@@ -10030,6 +11136,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10092,7 +11199,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "KiritoOA": {
         "Name": "Virtual Swordmaster [Awakened]",
@@ -10100,6 +11208,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10150,7 +11259,42 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "KiritoOAEvo",
+            "Requirements": [
+                {
+                    "Item": "Cyan Sword",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Black Sword",
+                    "Amount": 8
+                },
+                {
+                    "Item": "Divine Stone",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Virtual Food",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Virtual Swordmaster [Ultimate]"
+        }
     },
     "KiritoOAEvo": {
         "Name": "Virtual Swordmaster [Ultimate]",
@@ -10158,6 +11302,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10216,7 +11361,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "AsunaOA": {
         "Name": "Virtual Swordwoman",
@@ -10224,6 +11370,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10274,7 +11421,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "WeatherReport": {
         "Name": "Weather",
@@ -10282,6 +11430,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Today's Forecast",
@@ -10337,7 +11486,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Yuno": {
         "Name": "Wind Mage",
@@ -10345,6 +11495,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Sylph's Push",
@@ -10400,7 +11551,38 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "YunoEvo",
+            "Requirements": [
+                {
+                    "Item": "Wind Spirit Crown",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Four Leaf Grimoire",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 60
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Wind Mage [Spirit Ascension]"
+        }
     },
     "YunoEvo": {
         "Name": "Wind Mage [Spirit Ascension]",
@@ -10408,6 +11590,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Raging Wind",
@@ -10467,7 +11650,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Zeke": {
         "Name": "Xeke",
@@ -10475,6 +11659,7 @@
         "Element": "Rock",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10537,7 +11722,8 @@
                     "Slow"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Eren": {
         "Name": "Yeagar",
@@ -10545,6 +11731,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10595,7 +11782,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Yoruichi": {
         "Name": "Yoru",
@@ -10603,6 +11791,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10661,7 +11850,38 @@
                     "Paralysis"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "YoruichiEvo",
+            "Requirements": [
+                {
+                    "Item": "Transformation Paper",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Kisu Hat",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Fish",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Flip Book",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Yoru [Raging Raijin]"
+        }
     },
     "YoruichiEvo": {
         "Name": "Yoru [Raging Raijin]",
@@ -10669,6 +11889,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Shunko",
@@ -10746,7 +11967,8 @@
                     "Paralysis"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Yukari": {
         "Name": "Yuka",
@@ -10754,6 +11976,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10804,7 +12027,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Yuta": {
         "Name": "Yutha",
@@ -10812,6 +12036,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -10862,7 +12087,8 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "EOSZenitsu": {
         "Name": "Zonitsu [Awakened]",
@@ -10870,6 +12096,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Thunderous Clarity",
@@ -10947,7 +12174,8 @@
                     "Paralysis"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Ayase": {
         "Name": "Aya",
@@ -10955,6 +12183,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11005,7 +12234,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Boros": {
         "Name": "Boru",
@@ -11013,6 +12243,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11063,7 +12294,38 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "BorosEvo",
+            "Requirements": [
+                {
+                    "Item": "Boru Torso",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Power Core",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Boru [Released]"
+        }
     },
     "Dongsoo": {
         "Name": "Dungpoo",
@@ -11071,6 +12333,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11121,7 +12384,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Frieza 1st Form": {
         "Name": "Freeze",
@@ -11129,6 +12393,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11179,7 +12444,38 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "Frieza",
+            "Requirements": [
+                {
+                    "Item": "Wish Ball",
+                    "Amount": 7
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Bean",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Scouter",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Radar",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Freeze [Final]"
+        }
     },
     "Eugeo": {
         "Name": "Geo",
@@ -11187,6 +12483,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11249,7 +12546,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Dio": {
         "Name": "Gio",
@@ -11257,6 +12555,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11319,7 +12618,8 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Goten": {
         "Name": "Goden",
@@ -11327,6 +12627,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11377,7 +12678,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Goku Black": {
         "Name": "Goko Dark",
@@ -11385,6 +12687,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11435,7 +12738,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Hanami": {
         "Name": "Hana",
@@ -11443,6 +12747,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11505,7 +12810,8 @@
                     "Overgrowth"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Himmel": {
         "Name": "Himothy",
@@ -11513,6 +12819,7 @@
         "Element": "Water",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11563,7 +12870,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Cell": {
         "Name": "Imperfect Konchu",
@@ -11571,6 +12879,7 @@
         "Element": "Poison",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11621,7 +12930,8 @@
                 "SPA": 7,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Itachi": {
         "Name": "Itchy",
@@ -11629,6 +12939,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11691,7 +13002,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Jogo": {
         "Name": "Jogoat",
@@ -11699,6 +13011,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11761,7 +13074,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Joohee": {
         "Name": "Juno",
@@ -11769,6 +13083,7 @@
         "Element": "Holy",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "B Rank Healer",
@@ -11864,7 +13179,8 @@
                 "Healing": 100798,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kite": {
         "Name": "Kaito",
@@ -11872,6 +13188,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11922,7 +13239,8 @@
                 "SPA": 2,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kenshin": {
         "Name": "Kendo",
@@ -11930,6 +13248,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -11980,7 +13299,8 @@
                 "SPA": 3.5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kisuke": {
         "Name": "Kisu",
@@ -11988,6 +13308,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12042,7 +13363,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kurapika": {
         "Name": "Kuropi",
@@ -12050,6 +13372,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12100,7 +13423,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "L Lawliet": {
         "Name": "Lawlight",
@@ -12108,6 +13432,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "World's Best Detective",
@@ -12164,7 +13489,8 @@
                 "SPA": 3,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Lyon": {
         "Name": "Lion",
@@ -12172,6 +13498,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12234,7 +13561,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Roland": {
         "Name": "Lollang",
@@ -12242,6 +13570,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12292,7 +13621,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Mahito": {
         "Name": "Mahi",
@@ -12300,6 +13630,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12362,7 +13693,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Megumi": {
         "Name": "Megu",
@@ -12370,6 +13702,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12424,7 +13757,8 @@
                     "Slow"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Mihawk": {
         "Name": "Microw",
@@ -12432,6 +13766,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12482,7 +13817,8 @@
                 "SPA": 9,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Natsu": {
         "Name": "Netsu",
@@ -12490,6 +13826,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12552,7 +13889,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Nobara": {
         "Name": "Nobaro",
@@ -12560,6 +13898,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12622,7 +13961,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "DeathKid": {
         "Name": "Reaper Child",
@@ -12630,6 +13970,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12680,7 +14021,8 @@
                 "SPA": 2,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kang": {
         "Name": "Rookie Assassin",
@@ -12688,6 +14030,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12738,7 +14081,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Rukia": {
         "Name": "Ruka",
@@ -12746,6 +14090,7 @@
         "Element": "Ice",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12808,7 +14153,8 @@
                     "Frostbite"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Sasuke[Kirin]": {
         "Name": "Sosoke (Kirin)",
@@ -12816,6 +14162,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12878,7 +14225,8 @@
                     "Paralysis"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Sonic": {
         "Name": "Speedy Sonic",
@@ -12886,6 +14234,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12936,7 +14285,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kid Trunks": {
         "Name": "The Juicebox",
@@ -12944,6 +14294,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -12998,7 +14349,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Ulquiorra": {
         "Name": "Ulquorio",
@@ -13006,6 +14358,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13056,7 +14409,42 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "Ulquiorra (Segunda)",
+            "Requirements": [
+                {
+                    "Item": "Hollow Spear",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Soul Candy",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Ruby",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Hollow Leader Mask",
+                    "Amount": 7
+                },
+                {
+                    "Item": "Hollow Warrior Mask",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Ulquioro (Second)"
+        }
     },
     "Zangetsu": {
         "Name": "Zangu",
@@ -13064,6 +14452,7 @@
         "Element": "Dark",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13114,7 +14503,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Zenitsu": {
         "Name": "Zonitsu",
@@ -13122,6 +14512,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13184,7 +14575,42 @@
                     "Paralysis"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "EOSZenitsu",
+            "Requirements": [
+                {
+                    "Item": "Thunder Katana",
+                    "Amount": 3
+                },
+                {
+                    "Item": "Divine Stone",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 20
+                },
+                {
+                    "Item": "Thunder Haori",
+                    "Amount": 15
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 30
+                },
+                {
+                    "Item": "Nezuko",
+                    "Amount": 1
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Zonitsu [Awakened]"
+        }
     },
     "Crocodile": {
         "Name": "Aligator",
@@ -13192,6 +14618,7 @@
         "Element": "Ground",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13236,7 +14663,8 @@
                     "Slow"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "MosquitoGirl": {
         "Name": "Bug Queen",
@@ -13244,6 +14672,7 @@
         "Element": "Poison",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13296,7 +14725,8 @@
                     "Bloodloss"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Gregor": {
         "Name": "Greg",
@@ -13304,6 +14734,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13346,7 +14777,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Inosuke": {
         "Name": "Inusuke",
@@ -13354,6 +14786,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13396,7 +14829,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kakashi": {
         "Name": "Kekeshi",
@@ -13404,6 +14838,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13454,7 +14889,8 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Klein": {
         "Name": "Klai",
@@ -13462,6 +14898,7 @@
         "Element": "Ground",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13504,7 +14941,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Kakyoin": {
         "Name": "Kokoin",
@@ -13512,6 +14950,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13554,7 +14993,8 @@
                 "SPA": 6,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Piccolo": {
         "Name": "Pickle",
@@ -13562,6 +15002,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13606,7 +15047,8 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Yamcha": {
         "Name": "Yamba",
@@ -13614,6 +15056,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13632,7 +15075,8 @@
                 "SPA": 6.5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Sanji": {
         "Name": "Fire Leg",
@@ -13640,6 +15084,7 @@
         "Element": "Fire",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13692,7 +15137,8 @@
                     "Burn"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Goku": {
         "Name": "Goko",
@@ -13700,6 +15146,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13742,7 +15189,30 @@
                 "SPA": 8,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "Goku [SSJ]",
+            "Requirements": [
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Bean",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Goko [SSJ]"
+        }
     },
     "Nami": {
         "Name": "Nemo",
@@ -13750,6 +15220,7 @@
         "Element": "Neutral",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [
             {
                 "Title": "Cat Burglar",
@@ -13785,7 +15256,8 @@
                 "SPA": 3,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Naruto": {
         "Name": "Noroto",
@@ -13793,6 +15265,7 @@
         "Element": "Wind",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13843,7 +15316,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Zoro": {
         "Name": "Roro",
@@ -13851,6 +15325,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13893,7 +15368,8 @@
                 "SPA": 3,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Ryuko": {
         "Name": "Ryko",
@@ -13901,6 +15377,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -13943,7 +15420,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Sasuke": {
         "Name": "Sosoke",
@@ -13951,6 +15429,7 @@
         "Element": "Electric",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -14001,7 +15480,8 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     },
     "Tanjiro": {
         "Name": "Tojiro",
@@ -14009,6 +15489,7 @@
         "Element": "Water",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -14051,7 +15532,34 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "SunTanjiro",
+            "Requirements": [
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Apple",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Sun Tojiro"
+        }
     },
     "Vegeta": {
         "Name": "Vegetable",
@@ -14059,6 +15567,7 @@
         "Element": "Psychic",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -14101,7 +15610,30 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "MajinVegeta",
+            "Requirements": [
+                {
+                    "Item": "Topaz",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Bean",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "The Evil Cup"
+        }
     },
     "Asuna": {
         "Name": "Virtual Swordgirl",
@@ -14109,6 +15641,7 @@
         "Element": "Grass",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -14151,7 +15684,30 @@
                 "SPA": 5,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "AsunaOA",
+            "Requirements": [
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Topaz",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Virtual Food",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Virtual Swordwoman"
+        }
     },
     "Kirito": {
         "Name": "Virtual Swordman",
@@ -14159,6 +15715,7 @@
         "Element": "Steel",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -14201,7 +15758,30 @@
                 "SPA": 4,
                 "Status": []
             }
-        ]
+        ],
+        "EvolutionRequirements": {
+            "EvolvesTo": "KiritoOA",
+            "Requirements": [
+                {
+                    "Item": "Ruby",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Sapphire",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Virtual Food",
+                    "Amount": 10
+                },
+                {
+                    "Item": "Stat Crystal",
+                    "Amount": 3
+                }
+            ],
+            "Rewards": [],
+            "EvolutionName": "Virtual Swordmaster [Awakened]"
+        }
     },
     "TestUnitForVolo": {
         "Name": "TestUnitForVolo",
@@ -14209,6 +15789,7 @@
         "Element": "Fighting",
         "Description": "",
         "OptimalTrait": "",
+        "Obtainment": "",
         "Passives": [],
         "Upgrades": [
             {
@@ -14271,6 +15852,7 @@
                     "Stun"
                 ]
             }
-        ]
+        ],
+        "EvolutionRequirements": {}
     }
 }
