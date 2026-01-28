@@ -8,6 +8,7 @@ raw_map_file = PROJECT_ROOT / "data" / "raw_data" / "raw_maps.json"
 raw_drop_file = PROJECT_ROOT / "data" / "raw_data" / "raw_dropdata.json"
 raw_evo_file = PROJECT_ROOT / "data" / "raw_data" / "raw_evodata.json"
 unit_descriptions_file = PROJECT_ROOT / "data" / "cleaned_data" / "unit_description.json"
+evolution_requirement_file = PROJECT_ROOT / "data" / "cleaned_data" / "evodata.json"
 
 clean_unit_file = PROJECT_ROOT / "data" / "cleaned_data" / "units.json"
 clean_item_file = PROJECT_ROOT / "data" / "cleaned_data" / "items.json"
@@ -52,12 +53,15 @@ def parse_lua_table_to_dict(content):
             
     return data
 
-def clean_units(raw_json_path, unit_description_path, output_path):
+def clean_units(raw_json_path, unit_description_path, evolution_requirements_path, output_path):
     with open(raw_json_path, 'r', encoding='utf-8') as f:
         raw_data = json.load(f)
 
     with open(unit_description_path, 'r', encoding='utf-8') as f:
         unit_description = json.load(f)
+
+    with open(evolution_requirements_path, 'r', encoding='utf-8') as f:
+        evolution_requirement = json.load(f)
 
     cleaned_db = {}
 
@@ -74,8 +78,10 @@ def clean_units(raw_json_path, unit_description_path, output_path):
             "Element": element,
             "Description": unit_description[unit_id]["Description"],
             "OptimalTrait": unit_description[unit_id]["OptimalTrait"],
+            "Obtainment": unit_description[unit_id]["Obtainment"],
             "Passives": [],
-            "Upgrades": []
+            "Upgrades": [],
+            "EvolutionRequirements": evolution_requirement[unit_id] if unit_id in evolution_requirement else {}
         }
 
         passives_section = re.search(r'PassivesData\s*=\s*\{(.*?)\n\t\},', source, re.DOTALL)
@@ -221,8 +227,8 @@ def clean_evodata(raw_path, out_path):
 
 
 if __name__ == "__main__":
-    clean_units(raw_unit_file, unit_descriptions_file, clean_unit_file)
+    clean_units(raw_unit_file, unit_descriptions_file, evolution_requirement_file, clean_unit_file)
     clean_items(raw_item_file, clean_item_file)
     clean_maps(raw_map_file, clean_map_file)
     clean_dropdata(raw_drop_file, clean_drop_file)
-    clean_evodata(raw_evo_file, clean_evo_file)
+    # clean_evodata(raw_evo_file, clean_evo_file)
