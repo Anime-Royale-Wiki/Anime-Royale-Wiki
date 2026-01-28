@@ -115,7 +115,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-{{ unit.Rarity|lower }}">
-            <a href="../units/{{ id|lower }}" class="data-link">
+            <a
+              href="../units/{{ unit.Name|lower|replace(' ', '-')|replace('[', '')|replace(']', '') }}"
+              class="data-link"
+            >
               <img
                 src="{{ unit.Image if unit.Image else 'http://placehold.co/120x120' }}"
                 alt="{{ unit.Name }}"
