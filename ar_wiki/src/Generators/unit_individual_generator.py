@@ -1,6 +1,7 @@
 from jinja2 import Environment, FileSystemLoader
 from ar_wiki.src.Components.data_loader import load_unit_data
 from ar_wiki.src.config import PROJECT_ROOT
+import re
 
 def update_unit_grid():
     unit_data = load_unit_data()
@@ -11,7 +12,10 @@ def update_unit_grid():
     for unit_id, unit_info in unit_data.items():
         final_output = template.render(unit=unit_info)
 
-        filename = f"{unit_id.lower()}.md"
+        clean_name = unit_info["Name"].lower().replace(" ", "-")
+        clean_name = re.sub(r'[^a-z0-9\-]', '', clean_name)
+        filename = f"{clean_name}.md"
+
         output_path = PROJECT_ROOT / "docs" / "units" / filename
 
         output_path.parent.mkdir(parents=True, exist_ok=True)
