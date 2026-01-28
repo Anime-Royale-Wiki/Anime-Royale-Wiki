@@ -1,5 +1,5 @@
 <div class="db-container glow-mythic">
-  <div class="db-title"><span>Kaiju</span></div>
+  <div class="db-title"><span>Light Bearer</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,7 +8,7 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Kaiju</div>
+            <div class="unit-name">Light Bearer</div>
             <div class="unit-rarity">
               Rarity:
               <span> Mythic</span>
@@ -22,6 +22,128 @@
         </div>
 
         
+        <div class="unit-evolution db-container glow-unit-description">
+          <div class="db-title">Unit Evolution</div>
+          <div class="unit-evolution-next">
+            <span>
+              Unit Evolves into
+              <a
+                href="../light-bearer-blessed"
+              >
+                Light Bearer [Blessed]
+              </a>
+            </span>
+          </div>
+          <div class="data-grid">
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Light Sword"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Light Sword - 1</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Mana Crystal"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Mana Crystal - 15</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Light Crown"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Light Crown - 1</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Light Pickaxe"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Light Pickaxe - 1</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Topaz"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Topaz - 30</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Apple"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Apple - 20</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Stat Crystal"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Stat Crystal - 3</span
+                >
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        
         <div class="db-container glow-unit-description">
           <div class="db-title">Upgrades</div>
           <div class="unit-upgrades">
@@ -33,19 +155,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                40000
+                400
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                80000
+                1100
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                40
+                20
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                5
               </div>
               
             </div>
@@ -57,19 +179,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                60000
+                800
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                120000
+                2200
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                50
+                22
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                5
               </div>
               
             </div>
@@ -81,15 +203,15 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                80000
+                1600
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                160000
+                4400
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                60
+                26
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
@@ -105,15 +227,15 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                100000
+                3200
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                200000
+                8801
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                70
+                28
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
@@ -129,19 +251,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                120000
+                9000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                300000
+                14202
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                80
+                32
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                6
+                3
               </div>
               
             </div>
@@ -153,19 +275,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                140000
+                18000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                400000
+                28404
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                90
+                34
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                7
+                3
               </div>
               
             </div>

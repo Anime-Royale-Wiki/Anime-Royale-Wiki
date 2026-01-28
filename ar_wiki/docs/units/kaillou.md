@@ -1,5 +1,5 @@
 <div class="db-container glow-mythic">
-  <div class="db-title"><span>Kaiju</span></div>
+  <div class="db-title"><span>Kaillou</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,7 +8,7 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Kaiju</div>
+            <div class="unit-name">Kaillou</div>
             <div class="unit-rarity">
               Rarity:
               <span> Mythic</span>
@@ -22,6 +22,128 @@
         </div>
 
         
+        <div class="unit-evolution db-container glow-unit-description">
+          <div class="db-title">Unit Evolution</div>
+          <div class="unit-evolution-next">
+            <span>
+              Unit Evolves into
+              <a
+                href="../kaillou-(serious)"
+              >
+                Kaillou (Serious)
+              </a>
+            </span>
+          </div>
+          <div class="data-grid">
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Gen Z Core"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Gen Z Core - 1</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Cape"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Cape - 5</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Video Game"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Video Game - 30</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Grocery Bag"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Grocery Bag - 60</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Topaz"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Topaz - 10</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Ruby"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Ruby - 10</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Stat Crystal"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Stat Crystal - 3</span
+                >
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        
         <div class="db-container glow-unit-description">
           <div class="db-title">Upgrades</div>
           <div class="unit-upgrades">
@@ -33,11 +155,11 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                40000
+                5000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                80000
+                20000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
@@ -45,7 +167,7 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                9
               </div>
               
             </div>
@@ -57,19 +179,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                60000
+                7500
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                120000
+                30000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                50
+                42
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                9
               </div>
               
             </div>
@@ -81,19 +203,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                80000
+                12000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                160000
+                45000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                60
+                42
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                8.5
               </div>
               
             </div>
@@ -105,19 +227,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                100000
+                18000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                200000
+                70000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                70
+                42
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                8.5
               </div>
               
             </div>
@@ -129,19 +251,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                120000
+                24000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                300000
+                85000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                80
+                48
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                6
+                8
               </div>
               
             </div>
@@ -153,19 +275,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                140000
+                48000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                400000
+                150000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                90
+                50
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                7
+                8
               </div>
               
             </div>

@@ -1,5 +1,5 @@
 <div class="db-container glow-mythic">
-  <div class="db-title"><span>Kaiju</span></div>
+  <div class="db-title"><span>Super Booghan</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,7 +8,7 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Kaiju</div>
+            <div class="unit-name">Super Booghan</div>
             <div class="unit-rarity">
               Rarity:
               <span> Mythic</span>
@@ -33,19 +33,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                40000
+                700
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                80000
+                700
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                40
+                35
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                2.5
               </div>
               
             </div>
@@ -57,19 +57,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                60000
+                2400
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                120000
+                2200
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                50
+                37
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                2.25
               </div>
               
             </div>
@@ -81,19 +81,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                80000
+                3500
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                160000
+                5700
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                60
+                39
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                4
               </div>
               
             </div>
@@ -105,19 +105,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                100000
+                5200
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                200000
+                7500
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                70
+                42
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                3.5
               </div>
               
             </div>
@@ -129,19 +129,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                120000
+                12000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                300000
+                34000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                80
+                45
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                6
+                7
               </div>
               
             </div>
@@ -153,15 +153,39 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                140000
+                23000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                400000
+                65000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                90
+                50
+              </div>
+              <div>
+                <span class="unit-upgrade-title">SPA:</span>
+                7
+              </div>
+              
+            </div>
+            
+            <div class="unit-upgrade-container">
+              <div>
+                <span class="unit-upgrade-title">Level:</span>
+                6
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Cost:</span>
+                50000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Damage:</span>
+                140000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Range:</span>
+                65
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>

@@ -1,5 +1,5 @@
-<div class="db-container glow-mythic">
-  <div class="db-title"><span>Song</span></div>
+<div class="db-container glow-legendary">
+  <div class="db-title"><span>Zonitsu</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,10 +8,10 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Song</div>
+            <div class="unit-name">Zonitsu</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Mythic</span>
+              <span> Legendary</span>
             </div>
              
           </div>
@@ -21,6 +21,128 @@
           
         </div>
 
+        
+        <div class="unit-evolution db-container glow-unit-description">
+          <div class="db-title">Unit Evolution</div>
+          <div class="unit-evolution-next">
+            <span>
+              Unit Evolves into
+              <a
+                href="../zonitsu-awakened"
+              >
+                Zonitsu [Awakened]
+              </a>
+            </span>
+          </div>
+          <div class="data-grid">
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Thunder Katana"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Thunder Katana - 3</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Divine Stone"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Divine Stone - 1</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Topaz"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Topaz - 20</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Thunder Haori"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Thunder Haori - 15</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Apple"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Apple - 30</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Nezuko"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Nezuko - 1</span
+                >
+              </div>
+            </div>
+            
+            <div class="data-item">
+              <div class="data-card">
+                <div class="data-img-container">
+                  <img
+                    src="http://placehold.co/60x60"
+                    alt="Stat Crystal"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="data-name"
+                  >Stat Crystal - 3</span
+                >
+              </div>
+            </div>
+            
+          </div>
+        </div>
         
         <div class="db-container glow-unit-description">
           <div class="db-title">Upgrades</div>
@@ -33,26 +155,26 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                500
+                1200
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                1600
+                400
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                26
+                25
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                7
               </div>
               
               <div class="col-span-2 md:col-span-1">
                 <span class="unit-upgrade-title">Status Effect:</span>
                 
-                <span class="status-chip status-burn"
-                  >Burn</span
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
                 >
                 
               </div>
@@ -66,26 +188,26 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                1200
+                1600
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                3300
+                550
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                28
+                25
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                7
               </div>
               
               <div class="col-span-2 md:col-span-1">
                 <span class="unit-upgrade-title">Status Effect:</span>
                 
-                <span class="status-chip status-burn"
-                  >Burn</span
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
                 >
                 
               </div>
@@ -99,26 +221,26 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                4400
+                2400
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                13200
+                800
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                32
+                27
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                7
               </div>
               
               <div class="col-span-2 md:col-span-1">
                 <span class="unit-upgrade-title">Status Effect:</span>
                 
-                <span class="status-chip status-burn"
-                  >Burn</span
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
                 >
                 
               </div>
@@ -132,26 +254,26 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                6000
+                3200
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                19500
+                1000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                34
+                28
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                7
               </div>
               
               <div class="col-span-2 md:col-span-1">
                 <span class="unit-upgrade-title">Status Effect:</span>
                 
-                <span class="status-chip status-burn"
-                  >Burn</span
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
                 >
                 
               </div>
@@ -165,26 +287,26 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                12000
+                4400
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                32000
+                1250
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                38
+                30
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                7
               </div>
               
               <div class="col-span-2 md:col-span-1">
                 <span class="unit-upgrade-title">Status Effect:</span>
                 
-                <span class="status-chip status-burn"
-                  >Burn</span
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
                 >
                 
               </div>
@@ -198,26 +320,26 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                18000
+                5200
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                58000
+                1800
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                40
+                35
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                7
               </div>
               
               <div class="col-span-2 md:col-span-1">
                 <span class="unit-upgrade-title">Status Effect:</span>
                 
-                <span class="status-chip status-burn"
-                  >Burn</span
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
                 >
                 
               </div>

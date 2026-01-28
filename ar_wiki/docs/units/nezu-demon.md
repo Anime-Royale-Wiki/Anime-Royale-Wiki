@@ -1,5 +1,5 @@
 <div class="db-container glow-mythic">
-  <div class="db-title"><span>Kaiju</span></div>
+  <div class="db-title"><span>Nezu [Demon]</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,7 +8,7 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Kaiju</div>
+            <div class="unit-name">Nezu [Demon]</div>
             <div class="unit-rarity">
               Rarity:
               <span> Mythic</span>
@@ -18,7 +18,12 @@
         </div>
         
         <div class="unit-passives">
-          
+           
+          <div class="unit-passive">
+            <div class="unit-passive-title">Blood Legacy</div>
+            <div class="unit-passive-description">When no enemies are within 10% of this unit's range, apply 1 stack of bloodloss to every enemy in range every 2 seconds. If there are enemies within 10% of her range, apply 2 stacks of bloodloss to every enemy in range every 2 second.</div>
+          </div>
+           
         </div>
 
         
@@ -33,19 +38,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                40000
+                1000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                80000
+                3000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                40
+                25
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                5
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
               </div>
               
             </div>
@@ -57,19 +71,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                60000
+                1900
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                120000
+                5700
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                50
+                27
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                5
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
               </div>
               
             </div>
@@ -81,19 +104,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                80000
+                2700
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                160000
+                8000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                60
+                34
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                6
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
               </div>
               
             </div>
@@ -105,19 +137,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                100000
+                4100
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                200000
+                12500
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                70
+                36
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                6
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
               </div>
               
             </div>
@@ -129,19 +170,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                120000
+                6000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                300000
+                21000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                80
+                43
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                6
+                7
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
               </div>
               
             </div>
@@ -153,19 +203,61 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                140000
+                12000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                400000
+                36000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                90
+                45
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                7
+                6
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
+              </div>
+              
+            </div>
+            
+            <div class="unit-upgrade-container">
+              <div>
+                <span class="unit-upgrade-title">Level:</span>
+                6
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Cost:</span>
+                24000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Damage:</span>
+                60000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Range:</span>
+                60
+              </div>
+              <div>
+                <span class="unit-upgrade-title">SPA:</span>
+                5
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
               </div>
               
             </div>

@@ -1,5 +1,5 @@
 <div class="db-container glow-mythic">
-  <div class="db-title"><span>Kaiju</span></div>
+  <div class="db-title"><span>Yoru [Raging Raijin]</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,7 +8,7 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Kaiju</div>
+            <div class="unit-name">Yoru [Raging Raijin]</div>
             <div class="unit-rarity">
               Rarity:
               <span> Mythic</span>
@@ -18,7 +18,12 @@
         </div>
         
         <div class="unit-passives">
-          
+           
+          <div class="unit-passive">
+            <div class="unit-passive-title">Shunko</div>
+            <div class="unit-passive-description">Anytime this unit hits an enemy with Paralysis and Burn applied, this unit will gain one stack of Charging and instantly proc the damage from the Paralysis and Burn, Upon reaching 10 stacks of Charging this unit will deal 1000% of her attack stat as damage to all units in range. Afterwhich, the Charging count will reset to 0 and Yoruichi will gain a permament -5% SPA buff (capping out at -30%).</div>
+          </div>
+           
         </div>
 
         
@@ -33,19 +38,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                40000
+                2500
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                80000
+                5000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                40
+                30
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
                 4
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
+                >
+                
               </div>
               
             </div>
@@ -57,19 +71,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                60000
+                2200
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                120000
+                6200
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                50
+                34
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
                 4
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
+                >
+                
               </div>
               
             </div>
@@ -81,19 +104,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                80000
+                3400
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                160000
+                7000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                60
+                38
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                3
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
+                >
+                
               </div>
               
             </div>
@@ -105,19 +137,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                100000
+                5600
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                200000
+                10000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                70
+                42
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                3
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
+                >
+                
               </div>
               
             </div>
@@ -129,19 +170,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                120000
+                8500
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                300000
+                10500
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                80
+                46
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                6
+                2
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
+                >
+                
               </div>
               
             </div>
@@ -153,19 +203,61 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                140000
+                14000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                400000
+                14500
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                90
+                50
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                7
+                2
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
+                >
+                
+              </div>
+              
+            </div>
+            
+            <div class="unit-upgrade-container">
+              <div>
+                <span class="unit-upgrade-title">Level:</span>
+                6
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Cost:</span>
+                32000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Damage:</span>
+                34000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Range:</span>
+                55
+              </div>
+              <div>
+                <span class="unit-upgrade-title">SPA:</span>
+                2
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-paralysis"
+                  >Paralysis</span
+                >
+                
               </div>
               
             </div>

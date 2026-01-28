@@ -1,5 +1,5 @@
 <div class="db-container glow-mythic">
-  <div class="db-title"><span>Kaiju</span></div>
+  <div class="db-title"><span>Flame Master [Ablaze]</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,7 +8,7 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Kaiju</div>
+            <div class="unit-name">Flame Master [Ablaze]</div>
             <div class="unit-rarity">
               Rarity:
               <span> Mythic</span>
@@ -18,7 +18,12 @@
         </div>
         
         <div class="unit-passives">
-          
+           
+          <div class="unit-passive">
+            <div class="unit-passive-title">Set Your Heart Ablaze</div>
+            <div class="unit-passive-description">Every fire element unit in this unit's range will gain a 25% damage buff (units can only be affected by this passive once).</div>
+          </div>
+           
         </div>
 
         
@@ -33,19 +38,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                40000
+                1200
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                80000
+                4200
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                40
+                23
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                5
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-burn"
+                  >Burn</span
+                >
+                
               </div>
               
             </div>
@@ -57,19 +71,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                60000
+                3000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                120000
+                10500
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                50
+                26
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                5
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-burn"
+                  >Burn</span
+                >
+                
               </div>
               
             </div>
@@ -81,19 +104,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                80000
+                6000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                160000
+                18000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                60
+                29
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                6
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-burn"
+                  >Burn</span
+                >
+                
               </div>
               
             </div>
@@ -105,19 +137,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                100000
+                10000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                200000
+                30000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                70
+                32
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                6
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-burn"
+                  >Burn</span
+                >
+                
               </div>
               
             </div>
@@ -129,19 +170,28 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                120000
+                16000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                300000
+                40000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                80
+                35
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                6
+                5
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-burn"
+                  >Burn</span
+                >
+                
               </div>
               
             </div>
@@ -153,19 +203,61 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                140000
+                24000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                400000
+                60000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                90
+                45
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                7
+                5
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-burn"
+                  >Burn</span
+                >
+                
+              </div>
+              
+            </div>
+            
+            <div class="unit-upgrade-container">
+              <div>
+                <span class="unit-upgrade-title">Level:</span>
+                6
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Cost:</span>
+                48000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Damage:</span>
+                120000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Range:</span>
+                45
+              </div>
+              <div>
+                <span class="unit-upgrade-title">SPA:</span>
+                5
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-burn"
+                  >Burn</span
+                >
+                
               </div>
               
             </div>

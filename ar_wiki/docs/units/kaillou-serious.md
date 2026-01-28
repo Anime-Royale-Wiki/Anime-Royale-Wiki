@@ -1,5 +1,5 @@
-<div class="db-container glow-mythic">
-  <div class="db-title"><span>Kaiju</span></div>
+<div class="db-container glow-secret">
+  <div class="db-title"><span>Kaillou (Serious)</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,17 +8,22 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Kaiju</div>
+            <div class="unit-name">Kaillou (Serious)</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Mythic</span>
+              <span> Secret</span>
             </div>
              
           </div>
         </div>
         
         <div class="unit-passives">
-          
+           
+          <div class="unit-passive">
+            <div class="unit-passive-title">Locking In</div>
+            <div class="unit-passive-description">This unit starts with -50% damage. If any Gen Z unit is sold or destroyed, gain +20% damage and remove the -50% damage nerf. This passive's stat amount is increased by +20% more damage for every upgrade the Gen Z had gained before being sold/deleted. Can only apply once</div>
+          </div>
+           
         </div>
 
         
@@ -33,11 +38,11 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                40000
+                5000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                80000
+                41000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
@@ -45,7 +50,7 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                9
               </div>
               
             </div>
@@ -57,19 +62,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                60000
+                7500
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                120000
+                65000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                50
+                42
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                9
               </div>
               
             </div>
@@ -81,19 +86,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                80000
+                12000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                160000
+                92000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                60
+                44
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                8.5
               </div>
               
             </div>
@@ -105,19 +110,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                100000
+                18000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                200000
+                140000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                70
+                46
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                8.5
               </div>
               
             </div>
@@ -129,19 +134,19 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                120000
+                24000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                300000
+                175000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                80
+                48
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                6
+                8
               </div>
               
             </div>
@@ -153,19 +158,43 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                140000
+                48000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                400000
+                350000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                90
+                50
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                7
+                8
+              </div>
+              
+            </div>
+            
+            <div class="unit-upgrade-container">
+              <div>
+                <span class="unit-upgrade-title">Level:</span>
+                6
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Cost:</span>
+                96000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Damage:</span>
+                700000
+              </div>
+              <div>
+                <span class="unit-upgrade-title">Range:</span>
+                50
+              </div>
+              <div>
+                <span class="unit-upgrade-title">SPA:</span>
+                8
               </div>
               
             </div>

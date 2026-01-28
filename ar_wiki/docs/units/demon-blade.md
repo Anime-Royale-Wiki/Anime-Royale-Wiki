@@ -1,5 +1,5 @@
-<div class="db-container glow-mythic">
-  <div class="db-title"><span>Kaiju</span></div>
+<div class="db-container glow-secret">
+  <div class="db-title"><span>Demon Blade</span></div>
   <div class="db-content">
     <div class="unit-individual-container">
       <div class="unit-introduction-container">
@@ -8,17 +8,22 @@
             <img src="https://placehold.co/240x240" alt="Unit Image" />
           </div>
           <div class="unit-introduction-text">
-            <div class="unit-name">Kaiju</div>
+            <div class="unit-name">Demon Blade</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Mythic</span>
+              <span> Secret</span>
             </div>
              
           </div>
         </div>
         
         <div class="unit-passives">
-          
+           
+          <div class="unit-passive">
+            <div class="unit-passive-title">Toxikensis</div>
+            <div class="unit-passive-description">Enemies in range can have Poison stack up to 50 times. Anytime this unit attacks an enemy with 50 stacks of Poison they will instead apply a stack of Bloodloss. For every stack of Poison an enemy in range has Akame gains 5% extra damage.</div>
+          </div>
+           
         </div>
 
         
@@ -33,19 +38,32 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                40000
+                1200
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                80000
+                4400
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                40
+                30
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                8
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
+                <span class="status-chip status-poison"
+                  >Poison</span
+                >
+                
               </div>
               
             </div>
@@ -57,19 +75,32 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                60000
+                2000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                120000
+                7200
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                50
+                37
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                4
+                8
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
+                <span class="status-chip status-poison"
+                  >Poison</span
+                >
+                
               </div>
               
             </div>
@@ -81,19 +112,32 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                80000
+                4000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                160000
+                15500
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                60
+                44
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                8
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
+                <span class="status-chip status-poison"
+                  >Poison</span
+                >
+                
               </div>
               
             </div>
@@ -105,19 +149,32 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                100000
+                6000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                200000
+                21000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                70
+                51
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                5
+                8
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
+                <span class="status-chip status-poison"
+                  >Poison</span
+                >
+                
               </div>
               
             </div>
@@ -129,19 +186,32 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                120000
+                14000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                300000
+                52000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                80
+                58
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                6
+                8
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
+                <span class="status-chip status-poison"
+                  >Poison</span
+                >
+                
               </div>
               
             </div>
@@ -153,19 +223,32 @@
               </div>
               <div>
                 <span class="unit-upgrade-title">Cost:</span>
-                140000
+                28000
               </div>
               <div>
                 <span class="unit-upgrade-title">Damage:</span>
-                400000
+                104000
               </div>
               <div>
                 <span class="unit-upgrade-title">Range:</span>
-                90
+                65
               </div>
               <div>
                 <span class="unit-upgrade-title">SPA:</span>
-                7
+                8
+              </div>
+              
+              <div class="col-span-2 md:col-span-1">
+                <span class="unit-upgrade-title">Status Effect:</span>
+                
+                <span class="status-chip status-bloodloss"
+                  >Bloodloss</span
+                >
+                
+                <span class="status-chip status-poison"
+                  >Poison</span
+                >
+                
               </div>
               
             </div>
