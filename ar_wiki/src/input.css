@@ -2,30 +2,9 @@
 @import "tailwindcss/utilities";
 @import "./tailwind_styles/filter_layout.css";
 @import "./tailwind_styles/unit_individual.css";
+@import "./tailwind_styles/color_styles.css";
 
 @layer components {
-    .glow-units { --glow-color: rgba(248, 113, 113, 0.4); }
-    .glow-royalty { --glow-color: rgba(218, 165, 32, 0.35); }
-    .glow-secret { --glow-color: rgba(255, 0, 0, 0.4); }
-    .glow-mythic { --glow-color: rgba(81, 234, 254, 0.4); }
-    .glow-legendary { --glow-color: rgba(255, 217, 0, 0.5); }
-    .glow-epic { --glow-color: rgba(168, 85, 247, 0.3); }
-    .glow-rare { --glow-color: rgba(42, 98, 253, 0.5); }
-    .glow-white { --glow-color: rgba(255, 255, 255, 0.05); }
-    .glow-items { --glow-color: rgba(62, 255, 171, 0.4); }
-    .glow-unit-description { 
-        --glow-color: rgba(230, 57, 70, 0.6);
-        border-color: rgba(230, 57, 70, 0.3);
-        box-shadow: 0 0 8px rgba(230, 57, 70, 0.15), inset 0 0 4px rgba(230, 57, 70, 0.1);
-    }
-
-    .text-royalty { color: rgba(218, 165, 32, 0.9); text-shadow: 0 0 4px rgba(218, 165, 32, 0.2); }
-    .text-secret { color: rgba(255, 0, 0, 0.9); text-shadow: 0 0 4px rgba(255, 0, 0, 0.2); }
-    .text-mythic { color: rgba(81, 234, 254, 1); text-shadow: 0 0 4px rgba(81, 234, 254, 0.3); }
-    .text-legendary { color: rgba(255, 217, 0, 1); text-shadow: 0 0 4px rgba(255, 217, 0, 0.3); }
-    .text-epic { color: rgba(168, 85, 247, 1); text-shadow: 0 0 4px rgba(168, 85, 247, 0.2); }
-    .text-rare { color: rgba(42, 98, 253, 1); text-shadow: 0 0 4px rgba(42, 98, 253, 0.2); }
-
     .db-container {
         @apply relative flex flex-col items-stretch w-full max-w-7xl mx-auto p-8;
         @apply bg-white/[0.02] border border-white/10 rounded-2xl mb-10;
