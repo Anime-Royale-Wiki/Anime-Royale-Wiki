@@ -14,6 +14,10 @@
               Rarity:
               <span> Secret</span>
             </div>
+            <div class="unit-placement">
+              Placement Limit:
+              <span> 1 </span>
+            </div>
              
           </div>
         </div>
@@ -26,7 +30,7 @@
 
 <!-- Unit Passives -->
 
-<div class="db-container">
+<div class="db-container glow-secret">
   <div class="db-title">Passives</div>
   <div class="unit-passives">
     
@@ -40,206 +44,139 @@
 
 <!-- Unit Upgrades -->
 
-<div class="db-container glow-unit-description">
+<div class="db-container glow-secret">
   <div class="db-title">Upgrades</div>
+
   <div class="unit-upgrades">
+    <div class="upgrade-header">
+      <span>Level</span>
+      <span>Cost</span>
+      <span>Damage</span>
+      <span>Range</span>
+      <span>SPA</span>
+      <span>AOE</span>
+      <span>Status</span>
+    </div>
+
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        0
+    <div class="unit-upgrade-row">
+      <div class="unit-level">0</div>
+      <div class="unit-cost">
+        ¥ 1,200
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        1200
+      <div class="unit-damage">
+        4,400
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        4400
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        30
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">30</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-bloodloss">Bloodloss</span>
         
         <span class="status-chip status-poison">Poison</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        1
+    <div class="unit-upgrade-row">
+      <div class="unit-level">1</div>
+      <div class="unit-cost">
+        ¥ 2,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        2000
+      <div class="unit-damage">
+        7,200
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        7200
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        37
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">37</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-bloodloss">Bloodloss</span>
         
         <span class="status-chip status-poison">Poison</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        2
+    <div class="unit-upgrade-row">
+      <div class="unit-level">2</div>
+      <div class="unit-cost">
+        ¥ 4,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        4000
+      <div class="unit-damage">
+        15,500
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        15500
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        44
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">44</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-bloodloss">Bloodloss</span>
         
         <span class="status-chip status-poison">Poison</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        3
+    <div class="unit-upgrade-row">
+      <div class="unit-level">3</div>
+      <div class="unit-cost">
+        ¥ 6,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        6000
+      <div class="unit-damage">
+        21,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        21000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        51
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">51</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-bloodloss">Bloodloss</span>
         
         <span class="status-chip status-poison">Poison</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        4
+    <div class="unit-upgrade-row">
+      <div class="unit-level">4</div>
+      <div class="unit-cost">
+        ¥ 14,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        14000
+      <div class="unit-damage">
+        52,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        52000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        58
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">58</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Full</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-bloodloss">Bloodloss</span>
         
         <span class="status-chip status-poison">Poison</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        5
+    <div class="unit-upgrade-row">
+      <div class="unit-level">5</div>
+      <div class="unit-cost">
+        ¥ 28,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        28000
+      <div class="unit-damage">
+        104,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        104000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        65
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">65</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Full</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-bloodloss">Bloodloss</span>
         
         <span class="status-chip status-poison">Poison</span>
-        
+         
       </div>
-      
     </div>
     
   </div>

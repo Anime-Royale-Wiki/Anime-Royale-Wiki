@@ -14,6 +14,10 @@
               Rarity:
               <span> Legendary</span>
             </div>
+            <div class="unit-placement">
+              Placement Limit:
+              <span> 0 </span>
+            </div>
              
           </div>
         </div>
@@ -28,194 +32,127 @@
 
 <!-- Unit Upgrades -->
 
-<div class="db-container glow-unit-description">
+<div class="db-container glow-legendary">
   <div class="db-title">Upgrades</div>
+
   <div class="unit-upgrades">
+    <div class="upgrade-header">
+      <span>Level</span>
+      <span>Cost</span>
+      <span>Damage</span>
+      <span>Range</span>
+      <span>SPA</span>
+      <span>AOE</span>
+      <span>Status</span>
+    </div>
+
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        0
+    <div class="unit-upgrade-row">
+      <div class="unit-level">0</div>
+      <div class="unit-cost">
+        ¥ 350
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        350
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
+      <div class="unit-damage">
         260
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        20
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        7
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">20</div>
+      <div class="unit-spa">7</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-burn">Burn</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        1
+    <div class="unit-upgrade-row">
+      <div class="unit-level">1</div>
+      <div class="unit-cost">
+        ¥ 400
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        400
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
+      <div class="unit-damage">
         300
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        20
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        7
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">20</div>
+      <div class="unit-spa">7</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-burn">Burn</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        2
+    <div class="unit-upgrade-row">
+      <div class="unit-level">2</div>
+      <div class="unit-cost">
+        ¥ 800
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        800
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
+      <div class="unit-damage">
         600
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        23
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        7
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">23</div>
+      <div class="unit-spa">7</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-burn">Burn</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        3
+    <div class="unit-upgrade-row">
+      <div class="unit-level">3</div>
+      <div class="unit-cost">
+        ¥ 1,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        1000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
+      <div class="unit-damage">
         750
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        25
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        7
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">25</div>
+      <div class="unit-spa">7</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-burn">Burn</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        4
+    <div class="unit-upgrade-row">
+      <div class="unit-level">4</div>
+      <div class="unit-cost">
+        ¥ 1,250
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        1250
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
+      <div class="unit-damage">
         950
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        25
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        7
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">25</div>
+      <div class="unit-spa">7</div>
+      <div class="unit-aoe">Cone</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-burn">Burn</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        5
+    <div class="unit-upgrade-row">
+      <div class="unit-level">5</div>
+      <div class="unit-cost">
+        ¥ 1,600
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        1600
+      <div class="unit-damage">
+        1,400
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        1400
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        25
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        7
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">25</div>
+      <div class="unit-spa">7</div>
+      <div class="unit-aoe">Cone</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-burn">Burn</span>
-        
+         
       </div>
-      
     </div>
     
   </div>

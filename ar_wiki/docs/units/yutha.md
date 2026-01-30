@@ -14,6 +14,10 @@
               Rarity:
               <span> Mythic</span>
             </div>
+            <div class="unit-placement">
+              Placement Limit:
+              <span> 0 </span>
+            </div>
              
           </div>
         </div>
@@ -28,152 +32,127 @@
 
 <!-- Unit Upgrades -->
 
-<div class="db-container glow-unit-description">
+<div class="db-container glow-mythic">
   <div class="db-title">Upgrades</div>
+
   <div class="unit-upgrades">
+    <div class="upgrade-header">
+      <span>Level</span>
+      <span>Cost</span>
+      <span>Damage</span>
+      <span>Range</span>
+      <span>SPA</span>
+      <span>AOE</span>
+      <span>Status</span>
+    </div>
+
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        0
+    <div class="unit-upgrade-row">
+      <div class="unit-level">0</div>
+      <div class="unit-cost">
+        ¥ 1,300
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        1300
+      <div class="unit-damage">
+        2,800
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        2800
+      <div class="unit-range">20</div>
+      <div class="unit-spa">4</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+        
+        <span class="text-slate-600">-</span>
+        
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        20
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        4
-      </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        1
+    <div class="unit-upgrade-row">
+      <div class="unit-level">1</div>
+      <div class="unit-cost">
+        ¥ 1,900
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        1900
+      <div class="unit-damage">
+        3,900
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        3900
+      <div class="unit-range">25</div>
+      <div class="unit-spa">4</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+        
+        <span class="text-slate-600">-</span>
+        
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        25
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        4
-      </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        2
+    <div class="unit-upgrade-row">
+      <div class="unit-level">2</div>
+      <div class="unit-cost">
+        ¥ 2,600
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        2600
+      <div class="unit-damage">
+        4,200
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        4200
+      <div class="unit-range">30</div>
+      <div class="unit-spa">3</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+        
+        <span class="text-slate-600">-</span>
+        
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        30
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        3
-      </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        3
+    <div class="unit-upgrade-row">
+      <div class="unit-level">3</div>
+      <div class="unit-cost">
+        ¥ 3,800
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        3800
+      <div class="unit-damage">
+        5,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        5000
+      <div class="unit-range">35</div>
+      <div class="unit-spa">3</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+        
+        <span class="text-slate-600">-</span>
+        
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        35
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        3
-      </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        4
+    <div class="unit-upgrade-row">
+      <div class="unit-level">4</div>
+      <div class="unit-cost">
+        ¥ 7,500
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        7500
+      <div class="unit-damage">
+        33,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        33000
+      <div class="unit-range">50</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+        
+        <span class="text-slate-600">-</span>
+        
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        50
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        5
+    <div class="unit-upgrade-row">
+      <div class="unit-level">5</div>
+      <div class="unit-cost">
+        ¥ 11,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        11000
+      <div class="unit-damage">
+        50,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        50000
+      <div class="unit-range">60</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+        
+        <span class="text-slate-600">-</span>
+        
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        60
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
     </div>
     
   </div>

@@ -14,6 +14,10 @@
               Rarity:
               <span> Mythic</span>
             </div>
+            <div class="unit-placement">
+              Placement Limit:
+              <span> 1 </span>
+            </div>
              
           </div>
         </div>
@@ -26,7 +30,7 @@
 
 <!-- Unit Passives -->
 
-<div class="db-container">
+<div class="db-container glow-mythic">
   <div class="db-title">Passives</div>
   <div class="unit-passives">
     
@@ -45,225 +49,145 @@
 
 <!-- Unit Upgrades -->
 
-<div class="db-container glow-unit-description">
+<div class="db-container glow-mythic">
   <div class="db-title">Upgrades</div>
+
   <div class="unit-upgrades">
+    <div class="upgrade-header">
+      <span>Level</span>
+      <span>Cost</span>
+      <span>Damage</span>
+      <span>Range</span>
+      <span>SPA</span>
+      <span>AOE</span>
+      <span>Status</span>
+    </div>
+
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        0
+    <div class="unit-upgrade-row">
+      <div class="unit-level">0</div>
+      <div class="unit-cost">
+        ¥ 2,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        2000
+      <div class="unit-damage">
+        20,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        20000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        30
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        9
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">30</div>
+      <div class="unit-spa">9</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-tremor">Tremor</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        1
+    <div class="unit-upgrade-row">
+      <div class="unit-level">1</div>
+      <div class="unit-cost">
+        ¥ 3,200
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        3200
+      <div class="unit-damage">
+        29,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        29000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        35
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        9
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">35</div>
+      <div class="unit-spa">9</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-tremor">Tremor</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        2
+    <div class="unit-upgrade-row">
+      <div class="unit-level">2</div>
+      <div class="unit-cost">
+        ¥ 5,200
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        5200
+      <div class="unit-damage">
+        40,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        40000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        40
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8.5
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">40</div>
+      <div class="unit-spa">8.5</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-tremor">Tremor</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        3
+    <div class="unit-upgrade-row">
+      <div class="unit-level">3</div>
+      <div class="unit-cost">
+        ¥ 7,800
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        7800
+      <div class="unit-damage">
+        66,400
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        66400
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        43
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8.5
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">43</div>
+      <div class="unit-spa">8.5</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-tremor">Tremor</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        4
+    <div class="unit-upgrade-row">
+      <div class="unit-level">4</div>
+      <div class="unit-cost">
+        ¥ 13,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        13000
+      <div class="unit-damage">
+        104,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        104000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        46
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">46</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-tremor">Tremor</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        5
+    <div class="unit-upgrade-row">
+      <div class="unit-level">5</div>
+      <div class="unit-cost">
+        ¥ 20,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        20000
+      <div class="unit-damage">
+        160,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        160000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        50
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">50</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-tremor">Tremor</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        6
+    <div class="unit-upgrade-row">
+      <div class="unit-level">6</div>
+      <div class="unit-cost">
+        ¥ 65,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        65000
+      <div class="unit-damage">
+        520,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        520000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        55
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">55</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Line</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-tremor">Tremor</span>
-        
+         
       </div>
-      
     </div>
     
   </div>

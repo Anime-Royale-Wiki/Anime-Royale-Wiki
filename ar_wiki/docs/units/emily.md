@@ -14,6 +14,10 @@
               Rarity:
               <span> Mythic</span>
             </div>
+            <div class="unit-placement">
+              Placement Limit:
+              <span> 2 </span>
+            </div>
              
           </div>
         </div>
@@ -28,194 +32,127 @@
 
 <!-- Unit Upgrades -->
 
-<div class="db-container glow-unit-description">
+<div class="db-container glow-mythic">
   <div class="db-title">Upgrades</div>
+
   <div class="unit-upgrades">
+    <div class="upgrade-header">
+      <span>Level</span>
+      <span>Cost</span>
+      <span>Damage</span>
+      <span>Range</span>
+      <span>SPA</span>
+      <span>AOE</span>
+      <span>Status</span>
+    </div>
+
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        0
+    <div class="unit-upgrade-row">
+      <div class="unit-level">0</div>
+      <div class="unit-cost">
+        ¥ 1,200
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        1200
+      <div class="unit-damage">
+        3,400
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        3400
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        25
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        7
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">25</div>
+      <div class="unit-spa">7</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-frostbite">Frostbite</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        1
+    <div class="unit-upgrade-row">
+      <div class="unit-level">1</div>
+      <div class="unit-cost">
+        ¥ 1,900
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        1900
+      <div class="unit-damage">
+        5,400
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        5400
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        28
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        7
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">28</div>
+      <div class="unit-spa">7</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-frostbite">Frostbite</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        2
+    <div class="unit-upgrade-row">
+      <div class="unit-level">2</div>
+      <div class="unit-cost">
+        ¥ 2,400
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        2400
+      <div class="unit-damage">
+        5,900
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        5900
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        35
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        6
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">35</div>
+      <div class="unit-spa">6</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-frostbite">Frostbite</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        3
+    <div class="unit-upgrade-row">
+      <div class="unit-level">3</div>
+      <div class="unit-cost">
+        ¥ 3,800
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        3800
+      <div class="unit-damage">
+        9,200
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        9200
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        38
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        6
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">38</div>
+      <div class="unit-spa">6</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-frostbite">Frostbite</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        4
+    <div class="unit-upgrade-row">
+      <div class="unit-level">4</div>
+      <div class="unit-cost">
+        ¥ 6,200
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        6200
+      <div class="unit-damage">
+        20,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        20000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        43
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">43</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-frostbite">Frostbite</span>
-        
+         
       </div>
-      
     </div>
     
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        5
+    <div class="unit-upgrade-row">
+      <div class="unit-level">5</div>
+      <div class="unit-cost">
+        ¥ 14,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        14000
+      <div class="unit-damage">
+        45,000
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        45000
-      </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        46
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        8
-      </div>
-      
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        
+      <div class="unit-range">46</div>
+      <div class="unit-spa">8</div>
+      <div class="unit-aoe">Circle</div>
+      <div class="unit-status">
+         
         <span class="status-chip status-frostbite">Frostbite</span>
-        
+         
       </div>
-      
     </div>
     
   </div>
