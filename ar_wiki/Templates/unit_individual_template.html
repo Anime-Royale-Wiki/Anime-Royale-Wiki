@@ -34,7 +34,7 @@
 </div>
 <!-- Unit Evolution Requirements -->
 {% if unit.EvolutionRequirements %}
-<div class="db-container glow-unit-description">
+<div class="db-container glow-{{ unit.Rarity|lower }}">
   <div class="db-title">Unit Evolution</div>
   <div class="unit-evolution-next">
     <span>
@@ -68,7 +68,7 @@
 {% endif %}
 <!-- Unit Passives -->
 {% if unit.Passives %}
-<div class="db-container">
+<div class="db-container glow-{{ unit.Rarity|lower }}">
   <div class="db-title">Passives</div>
   <div class="unit-passives">
     {% for passive in unit.Passives %}
@@ -82,7 +82,7 @@
 {% endif %}
 <!-- Unit Upgrades -->
 {% if unit.Upgrades %}
-<div class="db-container glow-unit-description">
+<div class="db-container glow-{{ unit.Rarity|lower }}">
   <div class="db-title">Upgrades</div>
   <div class="unit-upgrades">
     {% for upgrade in unit.Upgrades %}
