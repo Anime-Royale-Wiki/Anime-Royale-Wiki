@@ -1,13 +1,15 @@
 @layer components {
     .unit-rarity, 
     .unit-optimal-trait, 
-    .unit-obtainment {
+    .unit-obtainment,
+    .unit-placement {
         @apply text-sm uppercase tracking-tight text-slate-500 flex items-center;
     }
 
     .unit-rarity span,
     .unit-optimal-trait span,
-    .unit-obtainment span {
+    .unit-obtainment span,
+    .unit-placement span {
         @apply text-slate-200 text-sm normal-case tracking-normal ml-1;
     }
 
@@ -86,25 +88,51 @@
     }
 
     .unit-upgrades {
-        @apply flex flex-col gap-3 w-full max-w-5xl mt-4;
+        @apply w-full max-w-5xl flex flex-col gap-2;
     }
 
-    .unit-upgrade-container {
-        @apply grid grid-cols-2 md:grid-cols-5 gap-4 md:gap-8 p-5 rounded-xl transition-all duration-200;
-        @apply bg-white/[0.02] border border-white/5 items-center;
-        @apply hover:bg-white/[0.05] hover:border-white/20;
+    .upgrade-header {
+        @apply hidden md:grid grid-cols-7 gap-4 px-6 py-1;
+        @apply text-[12px] uppercase text-white font-black tracking-[0.2em];
     }
 
-    .unit-upgrade-title {
-        @apply text-[10px] uppercase text-slate-500 font-black block mb-1 tracking-[0.15em];
+    .unit-upgrade-row {
+        @apply grid grid-cols-2 md:grid-cols-7 gap-y-6 gap-x-4 px-6 py-5 md:py-2 items-center;
+        @apply bg-gradient-to-r from-white/[0.03] to-transparent;
+        @apply border-l-2 border-white/10 transition-all duration-200;
+        @apply hover:border-l-cyan-500 hover:from-white/[0.06];
     }
 
-    .unit-upgrade-container div {
-        @apply text-white font-mono text-base md:text-lg;
+    .unit-upgrade-row div {
+        @apply font-mono text-[13px] md:text-base flex flex-col md:block;
+    }
+
+    @media (max-width: 767px) {
+        .unit-upgrade-row div::before {
+            @apply text-[9px] uppercase text-slate-500 font-black tracking-wider mb-1;
+            content: attr(class); 
+        }
+        
+        .unit-level::before   { content: "LEVEL"; }
+        .unit-cost::before    { content: "COST"; }
+        .unit-damage::before  { content: "DAMAGE"; }
+        .unit-range::before   { content: "RANGE"; }
+        .unit-spa::before     { content: "SPA"; }
+        .unit-aoe::before     { content: "AOE"; }
+        .unit-status::before  { content: "STATUS"; }
+
+        .unit-status {
+            @apply col-span-2 mt-2;
+        }
+    }
+
+    .unit-level { 
+        @apply font-black italic text-slate-400; 
     }
 
     .status-chip {
-        @apply inline-block px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-tighter;
-        @apply bg-white/10 border border-white/20 text-white shadow-sm;
+        @apply inline-block px-2 py-0 border-l-2 border-r border-white/20;
+        @apply text-[12px] md:text-[14px] font-bold uppercase tracking-widest bg-white/5;
+        clip-path: polygon(0 0, 90% 0, 100% 30%, 100% 100%, 10% 100%, 0 70%);
     }
 }
