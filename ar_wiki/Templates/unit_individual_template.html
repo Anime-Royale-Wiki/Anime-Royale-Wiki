@@ -14,6 +14,10 @@
               Rarity:
               <span> {{ unit.Rarity }}</span>
             </div>
+            <div class="unit-placement">
+              Placement Limit:
+              <span> {{ unit.PlacementLimit }} </span>
+            </div>
             {% if unit.OptimalTrait %}
             <div class="unit-optimal-trait">
               Optimal Trait: <span>{{unit.OptimalTrait}}</span>
@@ -84,37 +88,37 @@
 {% if unit.Upgrades %}
 <div class="db-container glow-{{ unit.Rarity|lower }}">
   <div class="db-title">Upgrades</div>
+
   <div class="unit-upgrades">
+    <div class="upgrade-header">
+      <span>Level</span>
+      <span>Cost</span>
+      <span>Damage</span>
+      <span>Range</span>
+      <span>SPA</span>
+      <span>AOE</span>
+      <span>Status</span>
+    </div>
+
     {% for upgrade in unit.Upgrades %}
-    <div class="unit-upgrade-container">
-      <div>
-        <span class="unit-upgrade-title">Level:</span>
-        {{upgrade['Level']}}
+    <div class="unit-upgrade-row">
+      <div class="unit-level">{{upgrade['Level']}}</div>
+      <div class="unit-cost">
+        ¥ {{ "{:,.0f}".format(upgrade['Cost'] | default(0) | int) }}
       </div>
-      <div>
-        <span class="unit-upgrade-title">Cost:</span>
-        {{upgrade['Cost']}}
+      <div class="unit-damage">
+        {{ "{:,.0f}".format(upgrade['Damage'] | default(0) | int) }}
       </div>
-      <div>
-        <span class="unit-upgrade-title">Damage:</span>
-        {{upgrade['Damage']}}
+      <div class="unit-range">{{upgrade['Range']}}</div>
+      <div class="unit-spa">{{upgrade['SPA']}}</div>
+      <div class="unit-aoe">{{ upgrade['AOEType'] }}</div>
+      <div class="unit-status">
+        {% if upgrade['Status'] %} {% for status in upgrade['Status'] %}
+        <span class="status-chip status-{{status|lower}}">{{status}}</span>
+        {% endfor %} {% else %}
+        <span class="text-slate-600">-</span>
+        {% endif %}
       </div>
-      <div>
-        <span class="unit-upgrade-title">Range:</span>
-        {{upgrade['Range']}}
-      </div>
-      <div>
-        <span class="unit-upgrade-title">SPA:</span>
-        {{upgrade['SPA']}}
-      </div>
-      {% if upgrade['Status'] %}
-      <div class="col-span-2 md:col-span-1">
-        <span class="unit-upgrade-title">Status Effect:</span>
-        {% for status in upgrade['Status'] %}
-        <span class="status-chip status-{{ status|lower }}">{{status}}</span>
-        {% endfor %}
-      </div>
-      {% endif %}
     </div>
     {% endfor %}
   </div>

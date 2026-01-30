@@ -72,10 +72,13 @@ def clean_units(raw_json_path, unit_description_path, evolution_requirements_pat
         element_match = re.search(r'Type\s*=\s*TypeList\.(\w+)', source)
         element = element_match.group(1) if element_match else "None"
 
+        placement_limit_match = re.search(r'PlacementLimit\s*=\s*(\d+)', source)
+
         unit_entry = {
             "Name": display_name.group(1) if display_name else unit_id,
             "Rarity": rarity.group(1) if rarity else "N/A",
             "Element": element,
+            "PlacementLimit": int(placement_limit_match.group(1)) if placement_limit_match else 0,
             "Description": unit_description[unit_id]["Description"],
             "OptimalTrait": unit_description[unit_id]["OptimalTrait"],
             "Obtainment": unit_description[unit_id]["Obtainment"],
@@ -97,30 +100,42 @@ def clean_units(raw_json_path, unit_description_path, evolution_requirements_pat
                         "Description": p_desc.group(1).replace('\\n', ' ').replace('<i>', '').replace('</i>', '').strip()
                     })
 
-        anchor_match = re.search(r'PlacementLimit\s*=\s*\d+', source)
-        stat_source = source[anchor_match.end():] if anchor_match else source
+        upgrade_matches = re.finditer(r'\[(\d+)\]\s*=\s*\{(.*?)\n\t\}', source, re.DOTALL)
+        
+        for match in upgrade_matches:
+            level_index = int(match.group(1))
+            content = match.group(2)
+            
+            if "Title =" in content or "Keywords =" in content:
+                continue
 
-        parts = re.split(r'\[(\d+)\]\s*=\s*\{', stat_source)
-        for i in range(1, len(parts), 2):
-            level_index = int(parts[i])
-            content = parts[i+1]
             stats = {"Level": level_index}
             found_any = False
             
             for s in ["Cost", "Damage", "Range", "SPA", "Healing"]:
                 pattern = fr'{s}\s*=\s*([\d\.]+|math\.huge)'
-                match = re.search(pattern, content)
-                if match:
-                    val = match.group(1)
+                m = re.search(pattern, content)
+                if m:
+                    val = m.group(1)
                     stats[s] = "∞" if val == "math.huge" else (float(val) if '.' in val else int(val))
                     found_any = True
+
+            aoe_type_match = re.search(r'AOEType\s*=\s*"([^"]+)"', content)
+            if aoe_type_match:
+                stats["AOEType"] = aoe_type_match.group(1)
+
+            aoe_size_match = re.search(r'AOESize\s*=\s*Vector3\.one\s*\*\s*([\d\.]+)', content)
+            if aoe_size_match:
+                val = aoe_size_match.group(1)
+                stats["AOESize"] = float(val) if '.' in val else int(val)
 
             status_match = re.search(r'StatusList\s*=\s*\{(.*?)\}', content)
             if status_match:
                 raw_statuses = re.findall(r'"([^"]+)"', status_match.group(1))
-                stats["Status"] = raw_statuses
+                if raw_statuses:
+                    stats["Status"] = raw_statuses
             
-            if found_any and any(k in stats for k in ["Cost", "Damage", "Healing"]):
+            if found_any:
                 unit_entry["Upgrades"].append(stats)
 
         unit_entry["Upgrades"] = sorted(unit_entry["Upgrades"], key=lambda x: x['Level'])
