@@ -17,3 +17,6 @@ obsidian-vault/
 
 # Tailwind
 tailwind.exe
+
+# MkDocs Site
+site/
