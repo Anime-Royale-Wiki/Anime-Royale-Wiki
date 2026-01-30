@@ -1,0 +1,98 @@
+:root {
+    --site-max-width: 1200px;
+}
+
+.md-header__inner,
+.md-tabs__inner,
+.md-grid {
+    max-width: var(--site-max-width) !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    padding: 0 1rem !important;
+}
+
+.md-main__inner {
+    margin-top: 2rem;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.md-content {
+    width: 100%;
+    max-width: var(--site-max-width);
+}
+
+.md-content__inner {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.md-sidebar--primary,
+.md-sidebar--secondary {
+    display: none !important;
+}
+
+@media screen and (min-width: 76.25em) {
+    .md-header__button[for="__drawer"] {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1240px) {
+    .md-header__inner,
+    .md-tabs__inner,
+    .md-grid {
+        max-width: 100% !important;
+        padding: 0 5% !important;
+    }
+}
+
+@media screen and (max-width: 76.24em) {
+    .md-header__button[for="__drawer"] {
+        display: block !important;
+    }
+
+    .md-sidebar--primary {
+        display: block !important;
+        position: fixed;
+    }
+
+    .md-header__inner,
+    .md-tabs__inner,
+    .md-grid {
+        padding: 0 1rem !important;
+    }
+}
+
+.md-content h1 {
+    display: none;
+}
+
+:root [data-md-color-scheme="slate"] {
+  --md-default-bg-color:               #0f0f0f;
+  --md-default-bg-color--light:        #141414;
+  --md-default-bg-color--lighter:      #1a1a1a;
+
+  --md-primary-fg-color:               #e63946; 
+  --md-primary-fg-color--dark:         #b91c1c;
+  --md-primary-fg-color--light:        #f87171;
+
+  --md-default-fg-color:               #d1d1d1;
+  --md-default-fg-color--light:        #a3a3a3;
+}
+
+.md-header {
+  background-color: #630e15 !important;
+}
+
+.md-tabs {
+  background-color: #630e15 !important;
+}
+
+.md-search__form {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+[data-md-color-scheme="slate"] .md-header--shadow {
+  background-color: #630e15 !important;
+}
