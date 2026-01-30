@@ -115,7 +115,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-royalty">
-            <a href="../units/trueichigo" class="data-link">
+            <a
+              href="../units/ichigoat-true"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ichigoat [True]"
@@ -133,7 +136,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/yhwach" class="data-link">
+            <a
+              href="../units/almighty"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Almighty"
@@ -151,7 +157,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/beru" class="data-link">
+            <a
+              href="../units/ant-general"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ant General"
@@ -169,7 +178,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/igrisevo" class="data-link">
+            <a
+              href="../units/aura-farmer-purple"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Aura Farmer [Purple]"
@@ -187,7 +199,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/sunjinwooevo2" class="data-link">
+            <a
+              href="../units/aura-king-monarch"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Aura King [Monarch]"
@@ -205,7 +220,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/zbroly" class="data-link">
+            <a
+              href="../units/broccoli"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Broccoli"
@@ -223,7 +241,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/nokotan" class="data-link">
+            <a
+              href="../units/deer-girl"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Deer Girl"
@@ -241,7 +262,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/akame" class="data-link">
+            <a
+              href="../units/demon-blade"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Demon Blade"
@@ -259,7 +283,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/muzan" class="data-link">
+            <a
+              href="../units/demon-lord"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Demon Lord"
@@ -277,7 +304,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/giorno" class="data-link">
+            <a
+              href="../units/dreamer"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Dreamer"
@@ -295,7 +325,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/aizen" class="data-link">
+            <a
+              href="../units/eyezen"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Eyezen"
@@ -313,7 +346,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/frieren" class="data-link">
+            <a
+              href="../units/friend"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Friend"
@@ -331,7 +367,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/genos" class="data-link">
+            <a
+              href="../units/gen-z"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gen Z"
@@ -349,7 +388,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/dio[oh]" class="data-link">
+            <a
+              href="../units/gio-over-heaven"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gio [Over Heaven]"
@@ -367,7 +409,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/saitamaevo" class="data-link">
+            <a
+              href="../units/kaillou-(serious)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kaillou (Serious)"
@@ -385,7 +430,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/meruem" class="data-link">
+            <a
+              href="../units/merem"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Merem"
@@ -403,7 +451,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/nagumo" class="data-link">
+            <a
+              href="../units/nagu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Nagu"
@@ -421,7 +472,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/netero" class="data-link">
+            <a
+              href="../units/nero"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Nero"
@@ -439,7 +493,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/cid" class="data-link">
+            <a
+              href="../units/shadow"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Shadow"
@@ -457,7 +514,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/shin" class="data-link">
+            <a
+              href="../units/shine"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Shine"
@@ -475,7 +535,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/lelouch" class="data-link">
+            <a
+              href="../units/the-mastermind"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="The Mastermind"
@@ -493,7 +556,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/toji" class="data-link">
+            <a
+              href="../units/tochi"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Tochi"
@@ -511,7 +577,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/tengen" class="data-link">
+            <a
+              href="../units/uzi"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Uzi"
@@ -529,7 +598,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/funnyvalentine" class="data-link">
+            <a
+              href="../units/valentine-delight"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Valentine Delight"
@@ -547,7 +619,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/shino" class="data-link">
+            <a
+              href="../units/virtual-sniper"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Virtual Sniper"
@@ -565,7 +640,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-secret">
-            <a href="../units/yato" class="data-link">
+            <a
+              href="../units/yabo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Yabo"
@@ -583,7 +661,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/adultgohan" class="data-link">
+            <a
+              href="../units/adult-gokan"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Adult Gokan"
@@ -601,7 +682,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/akaza" class="data-link">
+            <a
+              href="../units/akatou"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Akatou"
@@ -619,7 +703,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/alice" class="data-link">
+            <a
+              href="../units/alize"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Alize"
@@ -637,7 +724,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/atomicsamurai" class="data-link">
+            <a
+              href="../units/atomic-warrior"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Atomic Warrior"
@@ -655,7 +745,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/igris" class="data-link">
+            <a
+              href="../units/aura-farmer"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Aura Farmer"
@@ -673,7 +766,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sunjinwoo" class="data-link">
+            <a
+              href="../units/aura-king"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Aura King"
@@ -691,7 +787,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sunjinwooevo" class="data-link">
+            <a
+              href="../units/aura-king-shadow"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Aura King [Shadow]"
@@ -709,7 +808,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/bang" class="data-link">
+            <a
+              href="../units/bean"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Bean"
@@ -727,7 +829,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/baek" class="data-link">
+            <a
+              href="../units/beast-hunter"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Beast Hunter"
@@ -745,7 +850,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/baekevo" class="data-link">
+            <a
+              href="../units/beast-hunter-wrath"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Beast Hunter [Wrath]"
@@ -763,7 +871,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/metalbat" class="data-link">
+            <a
+              href="../units/bonkstick"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Bonkstick"
@@ -781,7 +892,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/borosdoubleevo" class="data-link">
+            <a
+              href="../units/boru-100%-released"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Boru [100% Released]"
@@ -799,7 +913,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/borosevo" class="data-link">
+            <a
+              href="../units/boru-released"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Boru [Released]"
@@ -817,7 +934,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/yamamoto" class="data-link">
+            <a
+              href="../units/captain-yama"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Captain Yama"
@@ -835,7 +955,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/hisoka" class="data-link">
+            <a
+              href="../units/card-magician"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Card Magician"
@@ -853,7 +976,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/chika" class="data-link">
+            <a
+              href="../units/chick"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Chick"
@@ -871,7 +997,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/daki" class="data-link">
+            <a
+              href="../units/dako"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Dako"
@@ -889,7 +1018,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/diavolo" class="data-link">
+            <a
+              href="../units/diablo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Diablo"
@@ -907,7 +1039,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/madong" class="data-link">
+            <a
+              href="../units/donkey"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Donkey"
@@ -925,7 +1060,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/alucard" class="data-link">
+            <a
+              href="../units/dracula"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Dracula"
@@ -943,7 +1081,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/emilia" class="data-link">
+            <a
+              href="../units/emily"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Emily"
@@ -961,7 +1102,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/esdeath" class="data-link">
+            <a
+              href="../units/eslife"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Eslife"
@@ -979,7 +1123,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/fran" class="data-link">
+            <a
+              href="../units/fanny"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Fanny"
@@ -997,7 +1144,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/rengoku" class="data-link">
+            <a
+              href="../units/flame-master"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Flame Master"
@@ -1015,7 +1165,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/rengokuevo" class="data-link">
+            <a
+              href="../units/flame-master-ablaze"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Flame Master [Ablaze]"
@@ -1033,7 +1186,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/frieza" class="data-link">
+            <a
+              href="../units/freeze-final"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Freeze [Final]"
@@ -1051,7 +1207,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/fubuki" class="data-link">
+            <a
+              href="../units/fubuu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Fubuu"
@@ -1069,7 +1228,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/heathcliff" class="data-link">
+            <a
+              href="../units/game-master"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Game Master"
@@ -1087,7 +1249,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/heathcliff [serious]" class="data-link">
+            <a
+              href="../units/game-master-serious"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Game Master [Serious]"
@@ -1105,7 +1270,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/rin tohsaka" class="data-link">
+            <a
+              href="../units/gems-master"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gems Master"
@@ -1123,7 +1291,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/geto" class="data-link">
+            <a
+              href="../units/getho"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Getho"
@@ -1141,7 +1312,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/getoevo" class="data-link">
+            <a
+              href="../units/getho-zero"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Getho [Zero]"
@@ -1159,7 +1333,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gotenks" class="data-link">
+            <a
+              href="../units/gobanks"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gobanks"
@@ -1177,7 +1354,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gogeta" class="data-link">
+            <a
+              href="../units/gogetable-(angel)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gogetable (Angel)"
@@ -1195,7 +1375,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gokuzend" class="data-link">
+            <a
+              href="../units/goko-(end)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Goko (End)"
@@ -1213,7 +1396,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/goku (ssj3)" class="data-link">
+            <a
+              href="../units/goko-the-3rd"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Goko The 3rd"
@@ -1231,7 +1417,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/goku [ssj]" class="data-link">
+            <a
+              href="../units/goko-ssj"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Goko [SSJ]"
@@ -1249,7 +1438,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gyomei" class="data-link">
+            <a
+              href="../units/gomu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gomu"
@@ -1267,7 +1459,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gojo" class="data-link">
+            <a
+              href="../units/gotho"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gotho"
@@ -1285,7 +1480,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gojoevo" class="data-link">
+            <a
+              href="../units/gotho-honored"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gotho [Honored]"
@@ -1303,7 +1501,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gregorevo" class="data-link">
+            <a
+              href="../units/greg-kurokumo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Greg [Kurokumo]"
@@ -1321,7 +1522,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/giyu" class="data-link">
+            <a
+              href="../units/gui"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gui"
@@ -1339,7 +1543,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gyutaro" class="data-link">
+            <a
+              href="../units/guitar"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Guitar"
@@ -1357,7 +1564,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gon" class="data-link">
+            <a
+              href="../units/gun"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gun"
@@ -1375,7 +1585,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gonevo" class="data-link">
+            <a
+              href="../units/gun-pact"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gun [Pact]"
@@ -1393,7 +1606,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/hashirama" class="data-link">
+            <a
+              href="../units/hashino"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Hashino"
@@ -1411,7 +1627,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/heisuke" class="data-link">
+            <a
+              href="../units/haze"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Haze"
@@ -1429,7 +1648,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/goto" class="data-link">
+            <a
+              href="../units/headless-swordsman"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Headless Swordsman"
@@ -1447,7 +1669,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/rin" class="data-link">
+            <a
+              href="../units/hellborn"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Hellborn"
@@ -1465,7 +1690,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/ichigo" class="data-link">
+            <a
+              href="../units/ichiko"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ichiko"
@@ -1483,7 +1711,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/ichigobankai" class="data-link">
+            <a
+              href="../units/ichiko-awakened"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ichiko [Awakened]"
@@ -1501,7 +1732,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/mugetsu" class="data-link">
+            <a
+              href="../units/ichiko-gumetsu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ichiko [Gumetsu]"
@@ -1519,7 +1753,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/janemba" class="data-link">
+            <a
+              href="../units/jamba"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Jamba"
@@ -1537,7 +1774,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/esdeathbundle" class="data-link">
+            <a
+              href="../units/jolly-eslife"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Jolly Eslife"
@@ -1555,7 +1795,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/jotaro" class="data-link">
+            <a
+              href="../units/jotero"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Jotero"
@@ -1573,7 +1816,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/kaiju" class="data-link">
+            <a
+              href="../units/kaiju"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kaiju"
@@ -1591,7 +1837,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/saitama" class="data-link">
+            <a
+              href="../units/kaillou"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kaillou"
@@ -1609,7 +1858,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/kaneki" class="data-link">
+            <a
+              href="../units/keneki"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Keneki"
@@ -1627,7 +1879,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/kenpachi" class="data-link">
+            <a
+              href="../units/kenny"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kenny"
@@ -1645,7 +1900,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/kidbuu" class="data-link">
+            <a
+              href="../units/kid-boog"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kid Boog"
@@ -1663,7 +1921,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/killuaevo" class="data-link">
+            <a
+              href="../units/kill-angered"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kill [Angered]"
@@ -1681,7 +1942,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/killua" class="data-link">
+            <a
+              href="../units/killa"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Killa"
@@ -1699,7 +1963,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/kuzan" class="data-link">
+            <a
+              href="../units/kuzo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kuzo"
@@ -1717,7 +1984,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/leafa" class="data-link">
+            <a
+              href="../units/leafy"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Leafy"
@@ -1735,7 +2005,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/leafa [serious]" class="data-link">
+            <a
+              href="../units/leafy-fairy"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Leafy [Fairy]"
@@ -1753,7 +2026,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/chae" class="data-link">
+            <a
+              href="../units/light-bearer"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Light Bearer"
@@ -1771,7 +2047,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/chaeevo" class="data-link">
+            <a
+              href="../units/light-bearer-blessed"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Light Bearer [Blessed]"
@@ -1789,7 +2068,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/rolandevo" class="data-link">
+            <a
+              href="../units/lollang-(black-silence)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Lollang (Black Silence)"
@@ -1807,7 +2089,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/lu" class="data-link">
+            <a
+              href="../units/loop"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Loop"
@@ -1825,7 +2110,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/madoka" class="data-link">
+            <a
+              href="../units/mahoka"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Mahoka"
@@ -1843,7 +2131,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/bocchi" class="data-link">
+            <a
+              href="../units/maiko"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Maiko"
@@ -1861,7 +2152,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/madara" class="data-link">
+            <a
+              href="../units/manara"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Manara"
@@ -1879,7 +2173,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/mimosa" class="data-link">
+            <a
+              href="../units/mims"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Mims"
@@ -1897,7 +2194,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/mirajane" class="data-link">
+            <a
+              href="../units/mira-demon"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Mira [Demon]"
@@ -1915,7 +2215,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/mikasa" class="data-link">
+            <a
+              href="../units/misaka"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Misaka"
@@ -1933,7 +2236,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/mitsuri" class="data-link">
+            <a
+              href="../units/mitsu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Mitsu"
@@ -1951,7 +2257,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/kokushibo" class="data-link">
+            <a
+              href="../units/moon-demon"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Moon Demon"
@@ -1969,7 +2278,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sailormoon" class="data-link">
+            <a
+              href="../units/moon-princess"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Moon Princess"
@@ -1987,7 +2299,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sakamoto" class="data-link">
+            <a
+              href="../units/motomoto"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Motomoto"
@@ -2005,7 +2320,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sakamotobundle" class="data-link">
+            <a
+              href="../units/motomoto-bunny"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Motomoto Bunny"
@@ -2023,7 +2341,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sakamotoevobundle" class="data-link">
+            <a
+              href="../units/motomoto-bunny-thin"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Motomoto Bunny [Thin]"
@@ -2041,7 +2362,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sakamotoevo" class="data-link">
+            <a
+              href="../units/motomoto-thin"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Motomoto [Thin]"
@@ -2059,7 +2383,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/nazuna" class="data-link">
+            <a
+              href="../units/nakuma"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Nakuma"
@@ -2077,7 +2404,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/neferpitou" class="data-link">
+            <a
+              href="../units/neko"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Neko"
@@ -2095,7 +2425,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/nezuko" class="data-link">
+            <a
+              href="../units/nezu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Nezu"
@@ -2113,7 +2446,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/nezukoevo" class="data-link">
+            <a
+              href="../units/nezu-demon"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Nezu [Demon]"
@@ -2131,7 +2467,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/death13" class="data-link">
+            <a
+              href="../units/nightmare-xiii"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Nightmare XIII"
@@ -2149,7 +2488,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/okuyasu" class="data-link">
+            <a
+              href="../units/okuno"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Okuno"
@@ -2167,7 +2509,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/origami" class="data-link">
+            <a
+              href="../units/origiri"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Origiri"
@@ -2185,7 +2530,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/orihime" class="data-link">
+            <a
+              href="../units/orihamis"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Orihamis"
@@ -2203,7 +2551,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/okarun" class="data-link">
+            <a
+              href="../units/otakurun"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Otakurun"
@@ -2221,7 +2572,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/okarunbundle" class="data-link">
+            <a
+              href="../units/otakurun-venomous"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Otakurun [Venomous]"
@@ -2239,7 +2593,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/cellevo2" class="data-link">
+            <a
+              href="../units/perfect-konchu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Perfect Konchu"
@@ -2257,7 +2614,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/rikka" class="data-link">
+            <a
+              href="../units/ria"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ria"
@@ -2275,7 +2635,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/riruka" class="data-link">
+            <a
+              href="../units/rumika"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Rumika"
@@ -2293,7 +2656,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/choi" class="data-link">
+            <a
+              href="../units/s-rank-bomber"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="S-Rank Bomber"
@@ -2311,7 +2677,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/cellevo" class="data-link">
+            <a
+              href="../units/semi-perfect-konchu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Semi-Perfect Konchu"
@@ -2329,7 +2698,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/liu" class="data-link">
+            <a
+              href="../units/seven-star-hunter"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Seven Star Hunter"
@@ -2347,7 +2719,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/polnareff" class="data-link">
+            <a
+              href="../units/silver-knight"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Silver Knight"
@@ -2365,7 +2740,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/song" class="data-link">
+            <a
+              href="../units/song"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Song"
@@ -2383,7 +2761,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/shanks" class="data-link">
+            <a
+              href="../units/stabs"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Stabs"
@@ -2401,7 +2782,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/boiled" class="data-link">
+            <a
+              href="../units/steamed"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Steamed"
@@ -2419,7 +2803,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/suntanjiro" class="data-link">
+            <a
+              href="../units/sun-tojiro"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Sun Tojiro"
@@ -2437,7 +2824,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/shunsui" class="data-link">
+            <a
+              href="../units/sunny"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Sunny"
@@ -2455,7 +2845,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/shunsuievo" class="data-link">
+            <a
+              href="../units/sunny-(release)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Sunny (Release)"
@@ -2473,7 +2866,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/superbuu" class="data-link">
+            <a
+              href="../units/super-boog"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Super Boog"
@@ -2491,7 +2887,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/buuhan" class="data-link">
+            <a
+              href="../units/super-booghan"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Super Booghan"
@@ -2509,7 +2908,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/buutenks" class="data-link">
+            <a
+              href="../units/super-boogtenks"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Super Boogtenks"
@@ -2527,7 +2929,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/tatsumaki" class="data-link">
+            <a
+              href="../units/tatsu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Tatsu"
@@ -2545,7 +2950,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/teengohan" class="data-link">
+            <a
+              href="../units/teen-gokan"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Teen Gokan"
@@ -2563,7 +2971,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/gohanteenssj2" class="data-link">
+            <a
+              href="../units/teen-gokan-(awakened)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Teen Gokan (Awakened)"
@@ -2581,7 +2992,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/futuretrunks" class="data-link">
+            <a
+              href="../units/the-drink"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="The Drink"
@@ -2599,7 +3013,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/majinvegeta" class="data-link">
+            <a
+              href="../units/the-evil-cup"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="The Evil Cup"
@@ -2617,7 +3034,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/touma" class="data-link">
+            <a
+              href="../units/the-weakest-esper"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="The Weakest Esper"
@@ -2635,7 +3055,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/thomas" class="data-link">
+            <a
+              href="../units/thompson-anderson"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Thompson Anderson"
@@ -2653,7 +3076,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sukuna" class="data-link">
+            <a
+              href="../units/thukuna"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Thukuna"
@@ -2671,7 +3097,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/sukunaevo" class="data-link">
+            <a
+              href="../units/thukuna-king"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Thukuna [King]"
@@ -2689,7 +3118,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/toshiro" class="data-link">
+            <a
+              href="../units/tochito"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Tochito"
@@ -2707,7 +3139,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/tohka" class="data-link">
+            <a
+              href="../units/toka"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Toka"
@@ -2725,7 +3160,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/ulquiorra (segunda)" class="data-link">
+            <a
+              href="../units/ulquioro-(second)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ulquioro (Second)"
@@ -2743,7 +3181,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/uryu" class="data-link">
+            <a
+              href="../units/urwu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Urwu"
@@ -2761,7 +3202,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/uryuevo" class="data-link">
+            <a
+              href="../units/urwu-(kwency)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Urwu (Kwency)"
@@ -2779,7 +3223,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/vegito" class="data-link">
+            <a
+              href="../units/vegitu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Vegitu"
@@ -2797,7 +3244,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/levi" class="data-link">
+            <a
+              href="../units/vile"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Vile"
@@ -2815,7 +3265,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/kiritooa" class="data-link">
+            <a
+              href="../units/virtual-swordmaster-awakened"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Virtual Swordmaster [Awakened]"
@@ -2833,7 +3286,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/kiritooaevo" class="data-link">
+            <a
+              href="../units/virtual-swordmaster-ultimate"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Virtual Swordmaster [Ultimate]"
@@ -2851,7 +3307,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/asunaoa" class="data-link">
+            <a
+              href="../units/virtual-swordwoman"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Virtual Swordwoman"
@@ -2869,7 +3328,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/weatherreport" class="data-link">
+            <a
+              href="../units/weather"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Weather"
@@ -2887,7 +3349,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/yuno" class="data-link">
+            <a
+              href="../units/wind-mage"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Wind Mage"
@@ -2905,7 +3370,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/yunoevo" class="data-link">
+            <a
+              href="../units/wind-mage-spirit-ascension"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Wind Mage [Spirit Ascension]"
@@ -2923,7 +3391,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/zeke" class="data-link">
+            <a
+              href="../units/xeke"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Xeke"
@@ -2941,7 +3412,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/eren" class="data-link">
+            <a
+              href="../units/yeagar"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Yeagar"
@@ -2959,7 +3433,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/yoruichi" class="data-link">
+            <a
+              href="../units/yoru"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Yoru"
@@ -2977,7 +3454,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/yoruichievo" class="data-link">
+            <a
+              href="../units/yoru-raging-raijin"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Yoru [Raging Raijin]"
@@ -2995,7 +3475,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/yukari" class="data-link">
+            <a
+              href="../units/yuka"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Yuka"
@@ -3013,7 +3496,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/yuta" class="data-link">
+            <a
+              href="../units/yutha"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Yutha"
@@ -3031,7 +3517,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-mythic">
-            <a href="../units/eoszenitsu" class="data-link">
+            <a
+              href="../units/zonitsu-awakened"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Zonitsu [Awakened]"
@@ -3049,7 +3538,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/ayase" class="data-link">
+            <a
+              href="../units/aya"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Aya"
@@ -3067,7 +3559,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/boros" class="data-link">
+            <a
+              href="../units/boru"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Boru"
@@ -3085,7 +3580,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/dongsoo" class="data-link">
+            <a
+              href="../units/dungpoo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Dungpoo"
@@ -3103,7 +3601,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/frieza 1st form" class="data-link">
+            <a
+              href="../units/freeze"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Freeze"
@@ -3121,7 +3622,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/eugeo" class="data-link">
+            <a
+              href="../units/geo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Geo"
@@ -3139,7 +3643,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/dio" class="data-link">
+            <a
+              href="../units/gio"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Gio"
@@ -3157,7 +3664,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/goten" class="data-link">
+            <a
+              href="../units/goden"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Goden"
@@ -3175,7 +3685,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/goku black" class="data-link">
+            <a
+              href="../units/goko-dark"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Goko Dark"
@@ -3193,7 +3706,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/hanami" class="data-link">
+            <a
+              href="../units/hana"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Hana"
@@ -3211,7 +3727,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/himmel" class="data-link">
+            <a
+              href="../units/himothy"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Himothy"
@@ -3229,7 +3748,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/cell" class="data-link">
+            <a
+              href="../units/imperfect-konchu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Imperfect Konchu"
@@ -3247,7 +3769,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/itachi" class="data-link">
+            <a
+              href="../units/itchy"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Itchy"
@@ -3265,7 +3790,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/jogo" class="data-link">
+            <a
+              href="../units/jogoat"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Jogoat"
@@ -3283,7 +3811,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/joohee" class="data-link">
+            <a
+              href="../units/juno"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Juno"
@@ -3301,7 +3832,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/kite" class="data-link">
+            <a
+              href="../units/kaito"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kaito"
@@ -3319,7 +3853,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/kenshin" class="data-link">
+            <a
+              href="../units/kendo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kendo"
@@ -3337,7 +3874,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/kisuke" class="data-link">
+            <a
+              href="../units/kisu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kisu"
@@ -3355,7 +3895,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/kurapika" class="data-link">
+            <a
+              href="../units/kuropi"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kuropi"
@@ -3373,7 +3916,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/l lawliet" class="data-link">
+            <a
+              href="../units/lawlight"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Lawlight"
@@ -3391,7 +3937,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/lyon" class="data-link">
+            <a
+              href="../units/lion"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Lion"
@@ -3409,7 +3958,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/roland" class="data-link">
+            <a
+              href="../units/lollang"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Lollang"
@@ -3427,7 +3979,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/mahito" class="data-link">
+            <a
+              href="../units/mahi"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Mahi"
@@ -3445,7 +4000,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/megumi" class="data-link">
+            <a
+              href="../units/megu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Megu"
@@ -3463,7 +4021,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/mihawk" class="data-link">
+            <a
+              href="../units/microw"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Microw"
@@ -3481,7 +4042,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/natsu" class="data-link">
+            <a
+              href="../units/netsu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Netsu"
@@ -3499,7 +4063,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/nobara" class="data-link">
+            <a
+              href="../units/nobaro"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Nobaro"
@@ -3517,7 +4084,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/deathkid" class="data-link">
+            <a
+              href="../units/reaper-child"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Reaper Child"
@@ -3535,7 +4105,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/kang" class="data-link">
+            <a
+              href="../units/rookie-assassin"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Rookie Assassin"
@@ -3553,7 +4126,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/rukia" class="data-link">
+            <a
+              href="../units/ruka"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ruka"
@@ -3571,7 +4147,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/sasuke[kirin]" class="data-link">
+            <a
+              href="../units/sosoke-(kirin)"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Sosoke (Kirin)"
@@ -3589,7 +4168,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/sonic" class="data-link">
+            <a
+              href="../units/speedy-sonic"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Speedy Sonic"
@@ -3607,7 +4189,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/kid trunks" class="data-link">
+            <a
+              href="../units/the-juicebox"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="The Juicebox"
@@ -3625,7 +4210,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/ulquiorra" class="data-link">
+            <a
+              href="../units/ulquorio"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ulquorio"
@@ -3643,7 +4231,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/zangetsu" class="data-link">
+            <a
+              href="../units/zangu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Zangu"
@@ -3661,7 +4252,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-legendary">
-            <a href="../units/zenitsu" class="data-link">
+            <a
+              href="../units/zonitsu"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Zonitsu"
@@ -3679,7 +4273,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/crocodile" class="data-link">
+            <a
+              href="../units/aligator"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Aligator"
@@ -3697,7 +4294,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/mosquitogirl" class="data-link">
+            <a
+              href="../units/bug-queen"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Bug Queen"
@@ -3715,7 +4315,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/gregor" class="data-link">
+            <a
+              href="../units/greg"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Greg"
@@ -3733,7 +4336,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/inosuke" class="data-link">
+            <a
+              href="../units/inusuke"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Inusuke"
@@ -3751,7 +4357,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/kakashi" class="data-link">
+            <a
+              href="../units/kekeshi"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kekeshi"
@@ -3769,7 +4378,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/klein" class="data-link">
+            <a
+              href="../units/klai"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Klai"
@@ -3787,7 +4399,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/kakyoin" class="data-link">
+            <a
+              href="../units/kokoin"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Kokoin"
@@ -3805,7 +4420,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/piccolo" class="data-link">
+            <a
+              href="../units/pickle"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Pickle"
@@ -3823,7 +4441,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-epic">
-            <a href="../units/yamcha" class="data-link">
+            <a
+              href="../units/yamba"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Yamba"
@@ -3841,7 +4462,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/sanji" class="data-link">
+            <a
+              href="../units/fire-leg"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Fire Leg"
@@ -3859,7 +4483,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/goku" class="data-link">
+            <a
+              href="../units/goko"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Goko"
@@ -3877,7 +4504,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/nami" class="data-link">
+            <a
+              href="../units/nemo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Nemo"
@@ -3895,7 +4525,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/naruto" class="data-link">
+            <a
+              href="../units/noroto"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Noroto"
@@ -3913,7 +4546,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/zoro" class="data-link">
+            <a
+              href="../units/roro"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Roro"
@@ -3931,7 +4567,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/ryuko" class="data-link">
+            <a
+              href="../units/ryko"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Ryko"
@@ -3949,7 +4588,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/sasuke" class="data-link">
+            <a
+              href="../units/sosoke"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Sosoke"
@@ -3967,7 +4609,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/tanjiro" class="data-link">
+            <a
+              href="../units/tojiro"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Tojiro"
@@ -3985,7 +4630,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/vegeta" class="data-link">
+            <a
+              href="../units/vegetable"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Vegetable"
@@ -4003,7 +4651,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/asuna" class="data-link">
+            <a
+              href="../units/virtual-swordgirl"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Virtual Swordgirl"
@@ -4021,7 +4672,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-rare">
-            <a href="../units/kirito" class="data-link">
+            <a
+              href="../units/virtual-swordman"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="Virtual Swordman"
@@ -4039,7 +4693,10 @@
       >
         <div class="data-card">
           <div class="data-img-container bg-royale">
-            <a href="../units/testunitforvolo" class="data-link">
+            <a
+              href="../units/testunitforvolo"
+              class="data-link"
+            >
               <img
                 src="http://placehold.co/120x120"
                 alt="TestUnitForVolo"

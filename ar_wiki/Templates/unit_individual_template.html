@@ -1,3 +1,4 @@
+<!-- Unit Introduction -->
 <div class="db-container glow-{{ unit.Rarity|lower }}">
   <div class="db-title"><span>{{unit.Name}}</span></div>
   <div class="db-content">
@@ -27,88 +28,95 @@
         {% if unit.Description %}
         <div class="unit-description">Description: {{unit.Description}}</div>
         {% endif %}
-        <div class="unit-passives">
-          {% if unit.Passives %} {% for passive in unit.Passives %}
-          <div class="unit-passive">
-            <div class="unit-passive-title">{{passive.Title}}</div>
-            <div class="unit-passive-description">{{passive.Description}}</div>
-          </div>
-          {% endfor %} {% endif %}
-        </div>
-
-        {% if unit.EvolutionRequirements %}
-        <div class="unit-evolution db-container glow-unit-description">
-          <div class="db-title">Unit Evolution</div>
-          <div class="unit-evolution-next">
-            <span>
-              Unit Evolves into
-              <a
-                href="../{{ unit.EvolutionRequirements.EvolutionName|lower|replace(' ', '-')|replace('[', '')|replace(']', '') }}"
-              >
-                {{ unit.EvolutionRequirements.EvolutionName }}
-              </a>
-            </span>
-          </div>
-          <div class="data-grid">
-            {% for requirement in unit.EvolutionRequirements.Requirements %}
-            <div class="data-item">
-              <div class="data-card">
-                <div class="data-img-container">
-                  <img
-                    src="{{ requirement.Image if requirement.Image else 'http://placehold.co/60x60' }}"
-                    alt="{{ requirement.Item }}"
-                    loading="lazy"
-                  />
-                </div>
-                <span class="data-name"
-                  >{{ requirement.Item }} - {{ requirement.Amount }}</span
-                >
-              </div>
-            </div>
-            {% endfor %}
-          </div>
-        </div>
-        {% endif %}
-        <div class="db-container glow-unit-description">
-          <div class="db-title">Upgrades</div>
-          <div class="unit-upgrades">
-            {% if unit.Upgrades %} {% for upgrade in unit.Upgrades %}
-            <div class="unit-upgrade-container">
-              <div>
-                <span class="unit-upgrade-title">Level:</span>
-                {{upgrade['Level']}}
-              </div>
-              <div>
-                <span class="unit-upgrade-title">Cost:</span>
-                {{upgrade['Cost']}}
-              </div>
-              <div>
-                <span class="unit-upgrade-title">Damage:</span>
-                {{upgrade['Damage']}}
-              </div>
-              <div>
-                <span class="unit-upgrade-title">Range:</span>
-                {{upgrade['Range']}}
-              </div>
-              <div>
-                <span class="unit-upgrade-title">SPA:</span>
-                {{upgrade['SPA']}}
-              </div>
-              {% if upgrade['Status'] %}
-              <div class="col-span-2 md:col-span-1">
-                <span class="unit-upgrade-title">Status Effect:</span>
-                {% for status in upgrade['Status'] %}
-                <span class="status-chip status-{{ status|lower }}"
-                  >{{status}}</span
-                >
-                {% endfor %}
-              </div>
-              {% endif %}
-            </div>
-            {% endfor %} {% endif %}
-          </div>
-        </div>
       </div>
     </div>
   </div>
 </div>
+<!-- Unit Evolution Requirements -->
+{% if unit.EvolutionRequirements %}
+<div class="db-container glow-unit-description">
+  <div class="db-title">Unit Evolution</div>
+  <div class="unit-evolution-next">
+    <span>
+      Unit Evolves into
+      <a
+        href="../{{ unit.EvolutionRequirements.EvolutionName|lower|replace(' ', '-')|replace('[', '')|replace(']', '') }}"
+      >
+        {{ unit.EvolutionRequirements.EvolutionName }}
+      </a>
+    </span>
+  </div>
+  <div class="data-grid">
+    {% for requirement in unit.EvolutionRequirements.Requirements %}
+    <div class="data-item">
+      <div class="data-card">
+        <div class="data-img-container">
+          <img
+            src="{{ requirement.Image if requirement.Image else 'http://placehold.co/60x60' }}"
+            alt="{{ requirement.Item }}"
+            loading="lazy"
+          />
+        </div>
+        <span class="data-name"
+          >{{ requirement.Item }} - {{ requirement.Amount }}</span
+        >
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+<!-- Unit Passives -->
+{% if unit.Passives %}
+<div class="db-container">
+  <div class="db-title">Passives</div>
+  <div class="unit-passives">
+    {% for passive in unit.Passives %}
+    <div class="unit-passive">
+      <div class="unit-passive-title">{{passive.Title}}</div>
+      <div class="unit-passive-description">{{passive.Description}}</div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+<!-- Unit Upgrades -->
+{% if unit.Upgrades %}
+<div class="db-container glow-unit-description">
+  <div class="db-title">Upgrades</div>
+  <div class="unit-upgrades">
+    {% for upgrade in unit.Upgrades %}
+    <div class="unit-upgrade-container">
+      <div>
+        <span class="unit-upgrade-title">Level:</span>
+        {{upgrade['Level']}}
+      </div>
+      <div>
+        <span class="unit-upgrade-title">Cost:</span>
+        {{upgrade['Cost']}}
+      </div>
+      <div>
+        <span class="unit-upgrade-title">Damage:</span>
+        {{upgrade['Damage']}}
+      </div>
+      <div>
+        <span class="unit-upgrade-title">Range:</span>
+        {{upgrade['Range']}}
+      </div>
+      <div>
+        <span class="unit-upgrade-title">SPA:</span>
+        {{upgrade['SPA']}}
+      </div>
+      {% if upgrade['Status'] %}
+      <div class="col-span-2 md:col-span-1">
+        <span class="unit-upgrade-title">Status Effect:</span>
+        {% for status in upgrade['Status'] %}
+        <span class="status-chip status-{{ status|lower }}">{{status}}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
