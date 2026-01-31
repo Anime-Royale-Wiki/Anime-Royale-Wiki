@@ -12,7 +12,7 @@
             <div class="unit-name">TestUnitForVolo</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Royale</span>
+              <span class="text-royale"> Royale</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

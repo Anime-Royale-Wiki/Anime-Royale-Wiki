@@ -12,7 +12,7 @@
             <div class="unit-name">Gio [Over Heaven]</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Secret</span>
+              <span class="text-secret"> Secret</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

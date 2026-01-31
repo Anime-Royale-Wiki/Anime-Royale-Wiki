@@ -12,7 +12,7 @@
             <div class="unit-name">Yutha</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Mythic</span>
+              <span class="text-mythic"> Mythic</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

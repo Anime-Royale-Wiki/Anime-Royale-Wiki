@@ -12,7 +12,7 @@
             <div class="unit-name">Nemo</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Rare</span>
+              <span class="text-rare"> Rare</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

@@ -12,7 +12,7 @@
             <div class="unit-name">Demon Blade</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Secret</span>
+              <span class="text-secret"> Secret</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

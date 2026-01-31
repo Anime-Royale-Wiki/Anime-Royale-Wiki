@@ -12,7 +12,7 @@
             <div class="unit-name">Klai</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Epic</span>
+              <span class="text-epic"> Epic</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

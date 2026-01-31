@@ -12,7 +12,7 @@
             <div class="unit-name">Reaper Child</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Legendary</span>
+              <span class="text-legendary"> Legendary</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

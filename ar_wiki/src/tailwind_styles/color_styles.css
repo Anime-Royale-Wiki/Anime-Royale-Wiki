@@ -9,36 +9,36 @@
     .glow-white { --glow-color: rgba(255, 255, 255, 0.05); }
     .glow-items { --glow-color: rgba(62, 255, 171, 0.4); }
     .glow-unit-description { 
-        --glow-color: rgba(230, 57, 70, 0.6);
-        border-color: rgba(230, 57, 70, 0.3);
-        box-shadow: 0 0 8px rgba(230, 57, 70, 0.15), inset 0 0 4px rgba(230, 57, 70, 0.1);
+        --glow-color: rgba(230, 57, 70, 0.6); 
+        border-color: rgba(230, 57, 70, 0.3); 
+        box-shadow: 0 0 8px rgba(230, 57, 70, 0.15) inset 0 0 4px rgba(230, 57, 70, 0.1) !important; 
     }
 
-    .text-royalty { color: rgba(218, 165, 32, 0.9); text-shadow: 0 0 4px rgba(218, 165, 32, 0.2); }
-    .text-secret { color: rgba(255, 0, 0, 0.9); text-shadow: 0 0 4px rgba(255, 0, 0, 0.2); }
-    .text-mythic { color: rgba(81, 234, 254, 1); text-shadow: 0 0 4px rgba(81, 234, 254, 0.3); }
-    .text-legendary { color: rgba(255, 217, 0, 1); text-shadow: 0 0 4px rgba(255, 217, 0, 0.3); }
-    .text-epic { color: rgba(168, 85, 247, 1); text-shadow: 0 0 4px rgba(168, 85, 247, 0.2); }
-    .text-rare { color: rgba(42, 98, 253, 1); text-shadow: 0 0 4px rgba(42, 98, 253, 0.2); }
+    .text-royalty { color: rgba(218, 165, 32, 0.9) !important; text-shadow: 0 0 4px rgba(218, 165, 32, 0.2) !important; }
+    .text-secret { color: rgba(255, 0, 0, 0.9) !important; text-shadow: 0 0 4px rgba(255, 0, 0, 0.2) !important; }
+    .text-mythic { color: rgba(81, 234, 254, 1) !important; text-shadow: 0 0 4px rgba(81, 234, 254, 0.3) !important; }
+    .text-legendary { color: rgba(255, 217, 0, 1) !important; text-shadow: 0 0 4px rgba(255, 217, 0, 0.3) !important; }
+    .text-epic { color: rgba(168, 85, 247, 1) !important; text-shadow: 0 0 4px rgba(168, 85, 247, 0.2) !important; }
+    .text-rare { color: rgba(42, 98, 253, 1) !important; text-shadow: 0 0 4px rgba(42, 98, 253, 0.2) !important; }
 
-    .status-bloodloss { color: rgba(220, 20, 60, 1);}
-    .status-burn { color: rgba(255, 80, 0, 1);}
-    .status-frostbite { color: rgba(135, 206, 250, 1);}
-    .status-paralysis { color: rgba(255, 255, 50, 1);}
-    .status-slow { color: rgba(169, 169, 169, 1);}
-    .status-stun { color: rgba(255, 165, 0, 1);}
-    .status-overgrowth { color: rgba(50, 205, 50, 1);}
-    .status-poison { color: rgb(29, 182, 9);}
-    .status-blackflame { color: rgba(75, 0, 130, 1);}
-    .status-tremor { color: rgba(119, 136, 153, 1);}
-    .status-sleep { color: rgba(100, 149, 237, 1);}
-    .status-tether { color: rgba(255, 20, 147, 1);}
-    .status-timestop { color: rgba(255, 255, 255, 1);}
+    .status-bloodloss { color: rgba(220, 20, 60, 1) !important; }
+    .status-burn { color: rgba(255, 80, 0, 1) !important; }
+    .status-frostbite { color: rgba(135, 206, 250, 1) !important; }
+    .status-paralysis { color: rgba(255, 255, 50, 1) !important; }
+    .status-slow { color: rgba(169, 169, 169, 1) !important; }
+    .status-stun { color: rgba(255, 165, 0, 1) !important; }
+    .status-overgrowth { color: rgba(50, 205, 50, 1) !important; }
+    .status-poison { color: rgb(29, 182, 9) !important; }
+    .status-blackflame { color: rgba(75, 0, 130, 1) !important; }
+    .status-tremor { color: rgba(119, 136, 153, 1) !important; }
+    .status-sleep { color: rgba(100, 149, 237, 1) !important; }
+    .status-tether { color: rgba(255, 20, 147, 1) !important; }
+    .status-timestop { color: rgba(255, 255, 255, 1) !important; }
 
-    .unit-level { color: rgba(230, 230, 230, 0.637); text-shadow: 0 0 4px rgba(200, 200, 200, 0.3); }
-    .unit-cost { color: rgba(255, 215, 0, 1); text-shadow: 0 0 4px rgba(255, 215, 0, 0.3); }
-    .unit-damage { color: rgba(255, 50, 50, 1); text-shadow: 0 0 4px rgba(255, 50, 50, 0.3); }
-    .unit-range { color: rgba(184, 134, 11, 1); text-shadow: 0 0 4px rgba(184, 134, 11, 0.3); }
-    .unit-spa { color: rgba(70, 130, 180, 1); text-shadow: 0 0 4px rgba(70, 130, 180, 0.3); }
-    .unit-aoe { color: rgba(255, 255, 255, 1); text-shadow: 0 0 4px rgba(255, 255, 255, 0.3); }
+    .unit-level { color: rgba(230, 230, 230, 0.637) !important; text-shadow: 0 0 4px rgba(200, 200, 200, 0.3) !important; }
+    .unit-cost { color: rgba(255, 215, 0, 1) !important; text-shadow: 0 0 4px rgba(255, 215, 0, 0.3) !important; }
+    .unit-damage { color: rgba(255, 50, 50, 1) !important; text-shadow: 0 0 4px rgba(255, 50, 50, 0.3) !important; }
+    .unit-range { color: rgba(184, 134, 11, 1) !important; text-shadow: 0 0 4px rgba(184, 134, 11, 0.3) !important; }
+    .unit-spa { color: rgba(70, 130, 180, 1) !important; text-shadow: 0 0 4px rgba(70, 130, 180, 0.3) !important; }
+    .unit-aoe { color: rgba(255, 255, 255, 1) !important; text-shadow: 0 0 4px rgba(255, 255, 255, 0.3) !important; }
 }

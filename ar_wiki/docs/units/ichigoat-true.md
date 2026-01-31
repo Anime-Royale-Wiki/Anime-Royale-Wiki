@@ -12,7 +12,7 @@
             <div class="unit-name">Ichigoat [True]</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Royalty</span>
+              <span class="text-royalty"> Royalty</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

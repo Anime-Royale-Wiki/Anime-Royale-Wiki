@@ -12,7 +12,7 @@
             <div class="unit-name">Seven Star Hunter</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Mythic</span>
+              <span class="text-mythic"> Mythic</span>
             </div>
             <div class="unit-placement">
               Placement Limit:

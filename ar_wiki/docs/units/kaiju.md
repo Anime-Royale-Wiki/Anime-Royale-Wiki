@@ -12,7 +12,7 @@
             <div class="unit-name">Kaiju</div>
             <div class="unit-rarity">
               Rarity:
-              <span> Mythic</span>
+              <span class="text-mythic"> Mythic</span>
             </div>
             <div class="unit-placement">
               Placement Limit:
