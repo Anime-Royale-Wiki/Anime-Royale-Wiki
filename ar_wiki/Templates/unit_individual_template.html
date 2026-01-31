@@ -45,7 +45,7 @@
     <span>
       Unit Evolves from
       <a
-        href="../{{ unit.EvolutionRequirements.EvolvesFrom|lower|replace(' ', '-')|replace('[', '')|replace(']', '') }}"
+        href="../{{ unit.EvolutionRequirements.EvolvesFrom|lower|replace(' ', '-')|replace('[', '')|replace(']', '') | replace('%', '') }}"
         >{{ unit.EvolutionRequirements.EvolvesFrom }}</a
       >
     </span>
@@ -56,7 +56,7 @@
     <span>
       Unit Evolves into
       <a
-        href="../{{ unit.EvolutionRequirements.EvolutionName|lower|replace(' ', '-')|replace('[', '')|replace(']', '') }}"
+        href="../{{ unit.EvolutionRequirements.EvolutionName | lower | replace(' ', '-') | replace('[', '') | replace(']', '') | replace('%', '') }}"
       >
         {{ unit.EvolutionRequirements.EvolutionName }}
       </a>

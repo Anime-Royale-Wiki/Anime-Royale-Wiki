@@ -893,7 +893,7 @@
         <div class="data-card">
           <div class="data-img-container bg-mythic">
             <a
-              href="../units/boru-100%-released"
+              href="../units/boru-100-released"
               class="data-link"
             >
               <img

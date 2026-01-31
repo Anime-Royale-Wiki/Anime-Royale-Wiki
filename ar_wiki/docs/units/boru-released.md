@@ -46,7 +46,7 @@
     <span>
       Unit Evolves into
       <a
-        href="../boru-100%-released"
+        href="../boru-100-released"
       >
         Boru [100% Released]
       </a>

@@ -13,7 +13,7 @@ def update_unit_grid():
         final_output = template.render(unit=unit_info)
 
         clean_name = unit_info["Name"].lower().replace(" ", "-")
-        clean_name = re.sub(r'[^a-z0-9%\-]', '', clean_name)
+        clean_name = re.sub(r'[^a-z0-9\-]', '', clean_name)
         filename = f"{clean_name}.md"
 
         output_path = PROJECT_ROOT / "docs" / "units" / filename

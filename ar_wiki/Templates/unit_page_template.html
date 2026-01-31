@@ -116,7 +116,7 @@
         <div class="data-card">
           <div class="data-img-container bg-{{ unit.Rarity|lower }}">
             <a
-              href="../units/{{ unit.Name|lower|replace(' ', '-')|replace('[', '')|replace(']', '') }}"
+              href="../units/{{ unit.Name|lower|replace(' ', '-')|replace('[', '')|replace(']', '')|replace('%', '') }}"
               class="data-link"
             >
               <img
