@@ -357,7 +357,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Aura Farmer"
+        }
     },
     "SunJinWooEvo2": {
         "Name": "Aura King [Monarch]",
@@ -479,7 +481,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Aura King [Shadow]"
+        }
     },
     "ZBroly": {
         "Name": "Broccoli",
@@ -1373,7 +1377,9 @@
                 "AOESize": 14
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Kaillou"
+        }
     },
     "Meruem": {
         "Name": "Merem",
@@ -2818,7 +2824,8 @@
                 }
             ],
             "Rewards": [],
-            "EvolutionName": "Aura King [Monarch]"
+            "EvolutionName": "Aura King [Monarch]",
+            "EvolvesFrom": "Aura King"
         }
     },
     "Bang": {
@@ -3117,7 +3124,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Beast Hunter"
+        }
     },
     "MetalBat": {
         "Name": "Bonkstick",
@@ -3274,7 +3283,9 @@
                 "AOESize": 80
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Boru [Released]"
+        }
     },
     "BorosEvo": {
         "Name": "Boru [Released]",
@@ -3379,7 +3390,8 @@
                 }
             ],
             "Rewards": [],
-            "EvolutionName": "Boru [100% Released]"
+            "EvolutionName": "Boru [100% Released]",
+            "EvolvesFrom": "Boru"
         }
     },
     "Yamamoto": {
@@ -4371,7 +4383,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Flame Master"
+        }
     },
     "Frieza": {
         "Name": "Freeze [Final]",
@@ -4447,7 +4461,9 @@
                 "AOESize": 10
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Freeze"
+        }
     },
     "Fubuki": {
         "Name": "Fubuu",
@@ -4730,7 +4746,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Game Master"
+        }
     },
     "Rin Tohsaka": {
         "Name": "Gems Master",
@@ -4970,7 +4988,9 @@
                 "AOESize": 14
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Getho"
+        }
     },
     "Gotenks": {
         "Name": "Gobanks",
@@ -5304,7 +5324,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Goko [SSJ]"
+        }
     },
     "Goku [SSJ]": {
         "Name": "Goko [SSJ]",
@@ -5408,7 +5430,8 @@
                 }
             ],
             "Rewards": [],
-            "EvolutionName": "Goko The 3rd"
+            "EvolutionName": "Goko The 3rd",
+            "EvolvesFrom": "Goko"
         }
     },
     "Gyomei": {
@@ -5667,7 +5690,9 @@
                 "AOESize": 12
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Gotho"
+        }
     },
     "GregorEvo": {
         "Name": "Greg [Kurokumo]",
@@ -6134,7 +6159,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Gun"
+        }
     },
     "Hashirama": {
         "Name": "Hashino",
@@ -6607,7 +6634,9 @@
                 "AOESize": 8
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Ichiko"
+        }
     },
     "Mugetsu": {
         "Name": "Ichiko [Gumetsu]",
@@ -7360,7 +7389,9 @@
                 "AOESize": 45
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Super Boog"
+        }
     },
     "KilluaEvo": {
         "Name": "Kill [Angered]",
@@ -7462,7 +7493,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Killa"
+        }
     },
     "Killua": {
         "Name": "Killa",
@@ -7843,7 +7876,9 @@
                 "AOESize": 80
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Leafy"
+        }
     },
     "Chae": {
         "Name": "Light Bearer",
@@ -8038,7 +8073,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Light Bearer"
+        }
     },
     "RolandEvo": {
         "Name": "Lollang (Black Silence)",
@@ -9125,7 +9162,9 @@
                 "AOESize": 20
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Motomoto Bunny"
+        }
     },
     "SakamotoEvo": {
         "Name": "Motomoto [Thin]",
@@ -9206,7 +9245,9 @@
                 "AOESize": 20
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Motomoto"
+        }
     },
     "Nazuna": {
         "Name": "Nakuma",
@@ -9562,7 +9603,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Nezu"
+        }
     },
     "Death13": {
         "Name": "Nightmare XIII",
@@ -10887,7 +10930,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Tojiro"
+        }
     },
     "Shunsui": {
         "Name": "Sunny",
@@ -11069,7 +11114,9 @@
                 "AOESize": 25
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Sunny"
+        }
     },
     "SuperBuu": {
         "Name": "Super Boog",
@@ -11606,7 +11653,9 @@
                 "AOESize": 23
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Teen Gokan"
+        }
     },
     "FutureTrunks": {
         "Name": "The Drink",
@@ -11746,7 +11795,9 @@
                 "AOESize": 12
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Vegetable"
+        }
     },
     "Touma": {
         "Name": "The Weakest Esper",
@@ -12097,7 +12148,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Thukuna"
+        }
     },
     "Toshiro": {
         "Name": "Tochito",
@@ -12325,7 +12378,9 @@
                 "AOESize": 16
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Ulquorio"
+        }
     },
     "Uryu": {
         "Name": "Urwu",
@@ -12502,7 +12557,9 @@
                 "AOESize": 14
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Urwu"
+        }
     },
     "Vegito": {
         "Name": "Vegitu",
@@ -12763,7 +12820,8 @@
                 }
             ],
             "Rewards": [],
-            "EvolutionName": "Virtual Swordmaster [Ultimate]"
+            "EvolutionName": "Virtual Swordmaster [Ultimate]",
+            "EvolvesFrom": "Virtual Swordman"
         }
     },
     "KiritoOAEvo": {
@@ -12840,7 +12898,9 @@
                 "AOESize": 30
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Virtual Swordmaster [Awakened]"
+        }
     },
     "AsunaOA": {
         "Name": "Virtual Swordwoman",
@@ -12907,7 +12967,9 @@
                 "AOESize": 25
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Virtual Swordgirl"
+        }
     },
     "WeatherReport": {
         "Name": "Weather",
@@ -13157,7 +13219,9 @@
                 "AOESize": 17
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Wind Mage"
+        }
     },
     "Zeke": {
         "Name": "Xeke",
@@ -13520,7 +13584,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Yoru"
+        }
     },
     "Yukari": {
         "Name": "Yuka",
@@ -13756,7 +13822,9 @@
                 ]
             }
         ],
-        "EvolutionRequirements": {}
+        "EvolutionRequirements": {
+            "EvolvesFrom": "Zonitsu"
+        }
     },
     "Ayase": {
         "Name": "Aya",

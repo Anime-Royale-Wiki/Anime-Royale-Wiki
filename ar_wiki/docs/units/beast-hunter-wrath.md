@@ -28,6 +28,22 @@
 </div>
 <!-- Unit Evolution Requirements -->
 
+<div class="db-container glow-mythic">
+  <div class="db-title">Unit Evolution</div>
+  
+  <div class="unit-evolution-next">
+    <span>
+      Unit Evolves from
+      <a
+        href="../beast-hunter"
+        >Beast Hunter</a
+      >
+    </span>
+    <hr />
+  </div>
+    
+</div>
+
 <!-- Unit Passives -->
 
 <div class="db-container glow-mythic">

@@ -28,6 +28,22 @@
 </div>
 <!-- Unit Evolution Requirements -->
 
+<div class="db-container glow-secret">
+  <div class="db-title">Unit Evolution</div>
+  
+  <div class="unit-evolution-next">
+    <span>
+      Unit Evolves from
+      <a
+        href="../aura-farmer"
+        >Aura Farmer</a
+      >
+    </span>
+    <hr />
+  </div>
+    
+</div>
+
 <!-- Unit Passives -->
 
 <div class="db-container glow-secret">

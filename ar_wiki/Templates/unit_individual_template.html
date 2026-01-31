@@ -40,6 +40,18 @@
 {% if unit.EvolutionRequirements %}
 <div class="db-container glow-{{ unit.Rarity|lower }}">
   <div class="db-title">Unit Evolution</div>
+  {% if unit.EvolutionRequirements.EvolvesFrom %}
+  <div class="unit-evolution-next">
+    <span>
+      Unit Evolves from
+      <a
+        href="../{{ unit.EvolutionRequirements.EvolvesFrom|lower|replace(' ', '-')|replace('[', '')|replace(']', '') }}"
+        >{{ unit.EvolutionRequirements.EvolvesFrom }}</a
+      >
+    </span>
+    <hr />
+  </div>
+  {% endif %} {% if unit.EvolutionRequirements.EvolutionName %}
   <div class="unit-evolution-next">
     <span>
       Unit Evolves into
@@ -50,6 +62,7 @@
       </a>
     </span>
   </div>
+  {% endif %} {% if unit.EvolutionRequirements.Requirements %}
   <div class="data-grid">
     {% for requirement in unit.EvolutionRequirements.Requirements %}
     <div class="data-item">
@@ -68,6 +81,7 @@
     </div>
     {% endfor %}
   </div>
+  {% endif %}
 </div>
 {% endif %}
 <!-- Unit Passives -->
