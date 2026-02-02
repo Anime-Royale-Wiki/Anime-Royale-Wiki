@@ -3,972 +3,1585 @@
         "Name": "Aura Sword",
         "Class": "Evo",
         "Rarity": "Secret",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Aura Room"
+        ]
     },
     "Aura Sword [Purple]": {
         "Name": "Aura Sword [Purple]",
         "Class": "Evo",
         "Rarity": "Secret",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Bankai Sword": {
         "Name": "Bankai Sword",
         "Class": "Evo",
         "Rarity": "Secret",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Christmas Capsule": {
         "Name": "Christmas Capsule",
         "Class": "Capsule",
         "Rarity": "Secret",
-        "Description": "Unlock festive units!"
+        "Description": "Unlock festive units!",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Deer": {
         "Name": "Deer",
         "Class": "Evo",
         "Rarity": "Secret",
-        "Description": "DEEEEEEER."
+        "Description": "DEEEEEEER.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Gen Z Core": {
         "Name": "Gen Z Core",
         "Class": "Evo",
         "Rarity": "Secret",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Strongest's City Act 1-6"
+        ]
     },
     "Halloween Capsule": {
         "Name": "Halloween Capsule",
         "Class": "Capsule",
         "Rarity": "Secret",
-        "Description": "Unlock spooky units!"
+        "Description": "Unlock spooky units!",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Shiny Stone": {
         "Name": "Shiny Stone",
         "Class": "Evo",
         "Rarity": "Secret",
-        "Description": "Can be used to turn an Unit into its Shiny version. (Doesn't work on Secret and above Units)"
+        "Description": "Can be used to turn an Unit into its Shiny version. (Doesn't work on Secret and above Units)",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Spring Capsule": {
         "Name": "Spring Capsule",
         "Class": "Capsule",
         "Rarity": "Secret",
-        "Description": "Unlock festive units!"
+        "Description": "Unlock festive units!",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Beast Belt": {
         "Name": "Beast Belt",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Beast Claws": {
         "Name": "Beast Claws",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "God Statue"
+        ]
     },
     "Boru Torso": {
         "Name": "Boru Torso",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Boru's Room"
+        ]
     },
     "Candy": {
         "Name": "Candy",
         "Class": "Food",
         "Rarity": "Mythic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Candy Cane": {
         "Name": "Candy Cane",
         "Class": "Food",
         "Rarity": "Mythic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Cape": {
         "Name": "Cape",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Strongest's City Act 1-6"
+        ]
     },
     "Cracked Power Core": {
         "Name": "Cracked Power Core",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Boru's Room"
+        ]
     },
     "Crystal Ball 1": {
         "Name": "Crystal Ball 1",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to wish to the dragon (requires all the crystal balls)"
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "Obtainment": [
+            "Green Planet Act 6"
+        ]
     },
     "Crystal Ball 2": {
         "Name": "Crystal Ball 2",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to wish to the dragon (requires all the crystal balls)"
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "Obtainment": [
+            "Fairy Town Act 6"
+        ]
     },
     "Crystal Ball 3": {
         "Name": "Crystal Ball 3",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to wish to the dragon (requires all the crystal balls)"
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "Obtainment": [
+            "Corp City Act 6"
+        ]
     },
     "Crystal Ball 4": {
         "Name": "Crystal Ball 4",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to wish to the dragon (requires all the crystal balls)"
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "Obtainment": [
+            "Green Planet Destroyed",
+            "Green Planet Rift"
+        ]
     },
     "Crystal Ball 5": {
         "Name": "Crystal Ball 5",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to wish to the dragon (requires all the crystal balls)"
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "Obtainment": [
+            "Ghoul City Rift",
+            "Hidden Village Rift",
+            "Red Palace"
+        ]
     },
     "Crystal Ball 6": {
         "Name": "Crystal Ball 6",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to wish to the dragon (requires all the crystal balls)"
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "Obtainment": [
+            "Fairy Town Rift",
+            "Lookout",
+            "Sharkman Island Rift"
+        ]
     },
     "Crystal Ball 7": {
         "Name": "Crystal Ball 7",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to wish to the dragon (requires all the crystal balls)"
+        "Description": "Used to wish to the dragon (requires all the crystal balls)",
+        "Obtainment": [
+            "Hell"
+        ]
     },
     "Cupcake": {
         "Name": "Cupcake",
         "Class": "Food",
         "Rarity": "Mythic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Ant Island",
+            "Fairy Town Rift",
+            "Ghoul City Rift",
+            "God Statue",
+            "Green Planet Rift",
+            "Hidden Village Rift",
+            "Lookout",
+            "Orc Dungeon",
+            "Sharkman Island Rift",
+            "Slayers District",
+            "The Underground Tomb"
+        ]
     },
     "Cursed Finger": {
         "Name": "Cursed Finger",
         "Class": "Stats",
         "Rarity": "Mythic",
-        "Description": "Used to give a curse to your units."
+        "Description": "Used to give a curse to your units.",
+        "Obtainment": [
+            "Cursed Town Act 1-6",
+            "Fairy Town Rift",
+            "Ghoul City Rift",
+            "Green Planet Rift",
+            "Hidden Village Rift",
+            "Sharkman Island Rift",
+            "Sorcery Academy"
+        ]
     },
     "Dark Elixir": {
         "Name": "Dark Elixir",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used for smithing."
+        "Description": "Used for smithing.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Deaftone": {
         "Name": "Deaftone",
         "Class": "Card",
         "Rarity": "Mythic",
-        "Description": "+40% Damage, -20% Range"
+        "Description": "+40% Damage, -20% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Dice": {
         "Name": "Dice",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Nagumo."
+        "Description": "Used to evolve Nagumo.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Divine Earing": {
         "Name": "Divine Earing",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to fuse Vegetable (Evil) and Goko (End)."
+        "Description": "Used to fuse Vegetable (Evil) and Goko (End).",
+        "Obtainment": [
+            "Hell"
+        ]
     },
     "Ecoro": {
         "Name": "Ecoro",
         "Class": "Card",
         "Rarity": "Mythic",
-        "Description": "-6% Cost"
+        "Description": "-6% Cost",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Elixir Of Life": {
         "Name": "Elixir Of Life",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used for smithing."
+        "Description": "Used for smithing.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Ember": {
         "Name": "Ember",
         "Class": "Card",
         "Rarity": "Mythic",
-        "Description": "-12% SPA, +4% Cost"
+        "Description": "-12% SPA, +4% Cost",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Evil Orb": {
         "Name": "Evil Orb",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Boo."
+        "Description": "Used to evolve Boo.",
+        "Obtainment": [
+            "Lookout"
+        ]
     },
     "Fire Haori": {
         "Name": "Fire Haori",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Slayers District"
+        ]
     },
     "Fire Katana": {
         "Name": "Fire Katana",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Slayers District"
+        ]
     },
     "Four Leaf Grimoire": {
         "Name": "Four Leaf Grimoire",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "You can hear its power, like winds in a forest."
+        "Description": "You can hear its power, like winds in a forest.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Getho Outfit": {
         "Name": "Getho Outfit",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Getho."
+        "Description": "Used to evolve Getho.",
+        "Obtainment": [
+            "Cursed Town Act 1-6"
+        ]
     },
     "Glass Bow": {
         "Name": "Glass Bow",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 1-6"
+        ]
     },
     "Glass Sword": {
         "Name": "Glass Sword",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 1-6"
+        ]
     },
     "Glasses": {
         "Name": "Glasses",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 1-6"
+        ]
     },
     "Gobanks Jacket": {
         "Name": "Gobanks Jacket",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to fuse Goden and The Juicebox."
+        "Description": "Used to fuse Goden and The Juicebox.",
+        "Obtainment": [
+            "Hell"
+        ]
     },
     "Gogetable Jacket": {
         "Name": "Gogetable Jacket",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to fuse Goko (End) and Vegetable (Evil)."
+        "Description": "Used to fuse Goko (End) and Vegetable (Evil).",
+        "Obtainment": [
+            "Hell"
+        ]
     },
     "Goko Outfit": {
         "Name": "Goko Outfit",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Goko SSJ."
+        "Description": "Used to evolve Goko SSJ.",
+        "Obtainment": [
+            "Lookout"
+        ]
     },
     "Grocery Bag": {
         "Name": "Grocery Bag",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Strongest's City Act 1-6"
+        ]
     },
     "Hair Gel": {
         "Name": "Hair Gel",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "The Underground Tomb"
+        ]
     },
     "Holy Cross": {
         "Name": "Holy Cross",
         "Class": "Food",
         "Rarity": "Mythic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Juice": {
         "Name": "Juice",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Nagumo."
+        "Description": "Used to evolve Nagumo.",
+        "Obtainment": [
+            "Candy Park"
+        ]
     },
     "Knight Killer": {
         "Name": "Knight Killer",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Light Crown": {
         "Name": "Light Crown",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Ant Island"
+        ]
     },
     "Light Pickaxe": {
         "Name": "Light Pickaxe",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Orc Dungeon"
+        ]
     },
     "Light Sword": {
         "Name": "Light Sword",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Love Cake": {
         "Name": "Love Cake",
         "Class": "Food",
         "Rarity": "Mythic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "LuKey": {
         "Name": "LuKey",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Sakamoto."
+        "Description": "Used to evolve Sakamoto.",
+        "Obtainment": [
+            "Candy Park"
+        ]
     },
     "LuStaff": {
         "Name": "LuStaff",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some Unit."
+        "Description": "Used to evolve some Unit.",
+        "Obtainment": [
+            "Candy Park"
+        ]
     },
     "Nezu Bamboo": {
         "Name": "Nezu Bamboo",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Slayers District"
+        ]
     },
     "Nezu Box": {
         "Name": "Nezu Box",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Slayers District"
+        ]
     },
     "Nezu Outfit": {
         "Name": "Nezu Outfit",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Slayers District"
+        ]
     },
     "Overme": {
         "Name": "Overme",
         "Class": "Card",
         "Rarity": "Mythic",
-        "Description": "Every 10 attacks, this unit gains +55% Damage for 15 seconds."
+        "Description": "Every 10 attacks, this unit gains +55% Damage for 15 seconds.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Oversized Shins": {
         "Name": "Oversized Shins",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Ant Island"
+        ]
     },
     "Pickle Cape": {
         "Name": "Pickle Cape",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Teen Gokan."
+        "Description": "Used to evolve Teen Gokan.",
+        "Obtainment": [
+            "Lookout"
+        ]
     },
     "Pink Kimono": {
         "Name": "Pink Kimono",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Hollow Desert"
+        ]
     },
     "Power Core": {
         "Name": "Power Core",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Boru's Room"
+        ]
     },
     "Purification Powder": {
         "Name": "Purification Powder",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to remove curse of an unit."
+        "Description": "Used to remove curse of an unit.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Quincy Cross": {
         "Name": "Quincy Cross",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 1-6"
+        ]
     },
     "Raid Ticket": {
         "Name": "Raid Ticket",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to enter Raids."
+        "Description": "Used to enter Raids.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Red Knight's Helmet": {
         "Name": "Red Knight's Helmet",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Aura Room"
+        ]
     },
     "Rerolls": {
         "Name": "Rerolls",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Used to reroll the trait of your units."
+        "Description": "Used to reroll the trait of your units.",
+        "Obtainment": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "Ant Island",
+            "Aura Room",
+            "Boru's Room",
+            "Candy Park",
+            "Corp City Act 1-6",
+            "Cursed Town Act 1-6",
+            "Fairy Town Act 1-6",
+            "Fairy Town Rift",
+            "Ghoul City Act 1-6",
+            "Ghoul City Rift",
+            "God Statue",
+            "Green Planet Act 1-6",
+            "Green Planet Destroyed",
+            "Green Planet Rift",
+            "Hidden Village Act 1-6",
+            "Hidden Village Rift",
+            "Hollow Desert",
+            "Lookout",
+            "Orc Dungeon",
+            "Red Palace",
+            "Sharkman Island Rift",
+            "Slayers District",
+            "Sorcery Academy",
+            "The Underground Tomb",
+            "Valentine Castle"
+        ]
     },
     "Ripped Bandages": {
         "Name": "Ripped Bandages",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Sandwich": {
         "Name": "Sandwich",
         "Class": "Food",
         "Rarity": "Mythic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Sheathe": {
         "Name": "Sheathe",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Shintin": {
         "Name": "Shintin",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 1-6"
+        ]
     },
     "Six Eyes": {
         "Name": "Six Eyes",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Gotho."
+        "Description": "Used to evolve Gotho.",
+        "Obtainment": [
+            "Sorcery Academy"
+        ]
     },
     "Soul Cutter": {
         "Name": "Soul Cutter",
         "Class": "Food",
         "Rarity": "Mythic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Starpath": {
         "Name": "Starpath",
         "Class": "Card",
         "Rarity": "Mythic",
-        "Description": "+25% Range"
+        "Description": "+25% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Stat Crystal": {
         "Name": "Stat Crystal",
         "Class": "Stat",
         "Rarity": "Mythic",
-        "Description": "Used to reroll all stats of your unit."
+        "Description": "Used to reroll all stats of your unit.",
+        "Obtainment": [
+            "Sorcery Academy"
+        ]
     },
     "Stat Shard": {
         "Name": "Stat Shard",
         "Class": "Stat",
         "Rarity": "Mythic",
-        "Description": "Used to reroll a stat of your unit."
+        "Description": "Used to reroll a stat of your unit.",
+        "Obtainment": [
+            "Sorcery Academy"
+        ]
     },
     "Super Lucky": {
         "Name": "Super Lucky",
         "Class": "Misc",
         "Rarity": "Mythic",
-        "Description": "Gives 3x Luck for 1 hour in the summon banner."
+        "Description": "Gives 3x Luck for 1 hour in the summon banner.",
+        "Obtainment": [
+            "Fairy Town Rift",
+            "Ghoul City Rift",
+            "Hidden Village Rift",
+            "Sharkman Island Rift"
+        ]
     },
     "Thukuna Outfit": {
         "Name": "Thukuna Outfit",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve Thukuna."
+        "Description": "Used to evolve Thukuna.",
+        "Obtainment": [
+            "Sorcery Academy"
+        ]
     },
     "Thunder Haori": {
         "Name": "Thunder Haori",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Slayers District"
+        ]
     },
     "Thunder Katana": {
         "Name": "Thunder Katana",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Slayers District"
+        ]
     },
     "Transformation Paper": {
         "Name": "Transformation Paper",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Hollow Desert"
+        ]
     },
     "Video Game": {
         "Name": "Video Game",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Strongest's City Act 1-6"
+        ]
     },
     "Wind Spirit Crown": {
         "Name": "Wind Spirit Crown",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "You can hear wispers from it... Sylph."
+        "Description": "You can hear wispers from it... Sylph.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Yoyo": {
         "Name": "Yoyo",
         "Class": "Evo",
         "Rarity": "Mythic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "The Underground Tomb"
+        ]
     },
     "Assassin's Double Daggers": {
         "Name": "Assassin's Double Daggers",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Baruka's Dagger": {
         "Name": "Baruka's Dagger",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Black Sword": {
         "Name": "Black Sword",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Virtual Swordman [Awakened]."
+        "Description": "Used to evolve Virtual Swordman [Awakened].",
+        "Obtainment": [
+            "Red Palace"
+        ]
     },
     "Blindfold": {
         "Name": "Blindfold",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Gotho."
+        "Description": "Used to evolve Gotho.",
+        "Obtainment": [
+            "Sorcery Academy"
+        ]
     },
     "Cloud Cloak": {
         "Name": "Cloud Cloak",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "The cloak of the tsuki members."
+        "Description": "The cloak of the tsuki members.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Cursed Energy": {
         "Name": "Cursed Energy",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Cursed Town Act 1-6"
+        ]
     },
     "Cursed Orb": {
         "Name": "Cursed Orb",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Getho."
+        "Description": "Used to evolve Getho.",
+        "Obtainment": [
+            "Cursed Town Act 1-6"
+        ]
     },
     "Cyan Sword": {
         "Name": "Cyan Sword",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Virtual Swordman [Awakened]."
+        "Description": "Used to evolve Virtual Swordman [Awakened].",
+        "Obtainment": [
+            "Red Palace"
+        ]
     },
     "Deafbone": {
         "Name": "Deafbone",
         "Class": "Card",
         "Rarity": "Legendary",
-        "Description": "+24% Damage, -12% Range"
+        "Description": "+24% Damage, -12% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Demon Horn": {
         "Name": "Demon Horn",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Slayers District"
+        ]
     },
     "Demon King Sword": {
         "Name": "Demon King Sword",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Demon Monarch's Necklace": {
         "Name": "Demon Monarch's Necklace",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Divine Stone": {
         "Name": "Divine Stone",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Evolution Material for some units."
+        "Description": "Evolution Material for some units.",
+        "Obtainment": [
+            "Fairy Town Act 1-6"
+        ]
     },
     "Dominator's Rune (Purple)": {
         "Name": "Dominator's Rune (Purple)",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Dominator's Rune (Red)": {
         "Name": "Dominator's Rune (Red)",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Aura Room"
+        ]
     },
     "Dummy Hair": {
         "Name": "Dummy Hair",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "The Underground Tomb"
+        ]
     },
     "Dummy Hat": {
         "Name": "Dummy Hat",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "The Underground Tomb"
+        ]
     },
     "Ecolo": {
         "Name": "Ecolo",
         "Class": "Card",
         "Rarity": "Legendary",
-        "Description": "-5% Cost"
+        "Description": "-5% Cost",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Emtan": {
         "Name": "Emtan",
         "Class": "Card",
         "Rarity": "Legendary",
-        "Description": "-6% SPA, +3% Cost"
+        "Description": "-6% SPA, +3% Cost",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Exchange Ring": {
         "Name": "Exchange Ring",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Ant Island"
+        ]
     },
     "Eye Patch": {
         "Name": "Eye Patch",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 2"
+        ]
     },
     "Fairy Sword": {
         "Name": "Fairy Sword",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Leafy."
+        "Description": "Used to evolve Leafy.",
+        "Obtainment": [
+            "Red Palace"
+        ]
     },
     "Fairy Wings": {
         "Name": "Fairy Wings",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Leafy."
+        "Description": "Used to evolve Leafy.",
+        "Obtainment": [
+            "Red Palace"
+        ]
     },
     "Flask": {
         "Name": "Flask",
         "Class": "Food",
         "Rarity": "Legendary",
-        "Description": "Used to give exp to Units."
+        "Description": "Used to give exp to Units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Flip Book": {
         "Name": "Flip Book",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 1"
+        ]
     },
     "Game Shield": {
         "Name": "Game Shield",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Game Master."
+        "Description": "Used to evolve Game Master.",
+        "Obtainment": [
+            "Red Palace"
+        ]
     },
     "Game Sword": {
         "Name": "Game Sword",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Game Master."
+        "Description": "Used to evolve Game Master.",
+        "Obtainment": [
+            "Red Palace"
+        ]
     },
     "Gokon": {
         "Name": "Gokon",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 1-6"
+        ]
     },
     "Gun": {
         "Name": "Gun",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Nagumo and Shin."
+        "Description": "Used to evolve Nagumo and Shin.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Gun's Top": {
         "Name": "Gun's Top",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "The Underground Tomb"
+        ]
     },
     "Hollow Spear": {
         "Name": "Hollow Spear",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Ulquiorro."
+        "Description": "Used to evolve Ulquiorro.",
+        "Obtainment": [
+            "Hollow Desert"
+        ]
     },
     "Kill's Shirt": {
         "Name": "Kill's Shirt",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "The Underground Tomb"
+        ]
     },
     "Kill's Shoe": {
         "Name": "Kill's Shoe",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "The Underground Tomb"
+        ]
     },
     "Kill's Shorts": {
         "Name": "Kill's Shorts",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "The Underground Tomb"
+        ]
     },
     "Kisu Hat": {
         "Name": "Kisu Hat",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 3"
+        ]
     },
     "LuHat": {
         "Name": "LuHat",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Sakamoto."
+        "Description": "Used to evolve Sakamoto.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Lucky": {
         "Name": "Lucky",
         "Class": "Misc",
         "Rarity": "Legendary",
-        "Description": "Gives 2x Luck for 1 hour in the summon banner."
+        "Description": "Gives 2x Luck for 1 hour in the summon banner.",
+        "Obtainment": [
+            "Fairy Town Rift",
+            "Ghoul City Rift",
+            "Green Planet Rift",
+            "Hidden Village Rift",
+            "Sharkman Island Rift"
+        ]
     },
     "Mana Crystal": {
         "Name": "Mana Crystal",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Ant Island",
+            "God Statue",
+            "Orc Dungeon"
+        ]
     },
     "Overyou": {
         "Name": "Overyou",
         "Class": "Card",
         "Rarity": "Legendary",
-        "Description": "Every 10 attacks, this unit gains +35% Damage for 15 seconds."
+        "Description": "Every 10 attacks, this unit gains +35% Damage for 15 seconds.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Ramen": {
         "Name": "Ramen",
         "Class": "Food",
         "Rarity": "Legendary",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Hidden Village Act 1-6"
+        ]
     },
     "Reaper Badge": {
         "Name": "Reaper Badge",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 1-6"
+        ]
     },
     "Ruby": {
         "Name": "Ruby",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "A gem used for evolutions."
+        "Description": "A gem used for evolutions.",
+        "Obtainment": [
+            "Ant Island",
+            "Corp City Act 1-6",
+            "Fairy Town Act 1-6",
+            "Ghoul City Act 1-6",
+            "Ghoul City Rift",
+            "God Statue",
+            "Hidden Village Act 1-6",
+            "Hollow Desert",
+            "Midas",
+            "Orc Dungeon",
+            "Slayers District",
+            "Sorcery Academy",
+            "Strongest's City Act 1-6"
+        ]
     },
     "Sapphire": {
         "Name": "Sapphire",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "A gem used for evolutions."
+        "Description": "A gem used for evolutions.",
+        "Obtainment": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "Ant Island",
+            "Fairy Town Rift",
+            "Ghoul City Act 1-6",
+            "God Statue",
+            "Orc Dungeon",
+            "Sharkman Island Rift",
+            "Sorcery Academy",
+            "The Underground Tomb"
+        ]
     },
     "Starkindle": {
         "Name": "Starkindle",
         "Class": "Card",
         "Rarity": "Legendary",
-        "Description": "+15% Range"
+        "Description": "+15% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Straw Hat": {
         "Name": "Straw Hat",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 2"
+        ]
     },
     "Strawberry Cake": {
         "Name": "Strawberry Cake",
         "Class": "Food",
         "Rarity": "Legendary",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Fairy Town Act 1-6"
+        ]
     },
     "Taser": {
         "Name": "Taser",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve Sakamoto."
+        "Description": "Used to evolve Sakamoto.",
+        "Obtainment": [
+            "Candy Park"
+        ]
     },
     "Teleportation Stone": {
         "Name": "Teleportation Stone",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Orc Dungeon"
+        ]
     },
     "Topaz": {
         "Name": "Topaz",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "A gem used for evolutions."
+        "Description": "A gem used for evolutions.",
+        "Obtainment": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "Ant Island",
+            "Cursed Town Act 1-6",
+            "God Statue",
+            "Green Planet Act 1-6",
+            "Green Planet Destroyed",
+            "Green Planet Rift",
+            "Hidden Village Act 1-6",
+            "Hidden Village Rift",
+            "Lookout",
+            "Midas",
+            "Orc Dungeon",
+            "Strongest's City Act 1-6"
+        ]
     },
     "Toy Windmill": {
         "Name": "Toy Windmill",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Soul World Act 3"
+        ]
     },
     "Wish Ball": {
         "Name": "Wish Ball",
         "Class": "Evo",
         "Rarity": "Legendary",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Green Planet Destroyed"
+        ]
     },
     "Burger": {
         "Name": "Burger",
         "Class": "Food",
         "Rarity": "Epic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Ghoul City Act 1-6",
+            "Test Act 1-6"
+        ]
     },
     "CupNoodle": {
         "Name": "CupNoodle",
         "Class": "Food",
         "Rarity": "Epic",
-        "Description": "Used to give exp to Units."
+        "Description": "Used to give exp to Units.",
+        "Obtainment": [
+            "Candy Park"
+        ]
     },
     "Cursed Head Band": {
         "Name": "Cursed Head Band",
         "Class": "Evo",
         "Rarity": "Epic",
-        "Description": "Head Band of the hidden village traitors."
+        "Description": "Head Band of the hidden village traitors.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Deaffone": {
         "Name": "Deaffone",
         "Class": "Card",
         "Rarity": "Epic",
-        "Description": "+16% Damage, -8% Range"
+        "Description": "+16% Damage, -8% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Ecolist": {
         "Name": "Ecolist",
         "Class": "Card",
         "Rarity": "Epic",
-        "Description": "-3% Cost"
+        "Description": "-3% Cost",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Embrew": {
         "Name": "Embrew",
         "Class": "Card",
         "Rarity": "Epic",
-        "Description": "-3% SPA, +2% Cost"
+        "Description": "-3% SPA, +2% Cost",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Fish": {
         "Name": "Fish",
         "Class": "Food",
         "Rarity": "Epic",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
     },
     "Hollow Leader Mask": {
         "Name": "Hollow Leader Mask",
         "Class": "Evo",
         "Rarity": "Epic",
-        "Description": "Used to evolve Ulquiorro."
+        "Description": "Used to evolve Ulquiorro.",
+        "Obtainment": [
+            "Hollow Desert"
+        ]
     },
     "Multiweapon": {
         "Name": "Multiweapon",
         "Class": "Evo",
         "Rarity": "Epic",
-        "Description": "Used to evolve Nagumo."
+        "Description": "Used to evolve Nagumo.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Overit": {
         "Name": "Overit",
         "Class": "Card",
         "Rarity": "Epic",
-        "Description": "Every 10 attacks, this unit gains +25% Damage for 15 seconds."
+        "Description": "Every 10 attacks, this unit gains +25% Damage for 15 seconds.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Radar": {
         "Name": "Radar",
         "Class": "Evo",
         "Rarity": "Epic",
-        "Description": "Used to evolve Freeze."
+        "Description": "Used to evolve Freeze.",
+        "Obtainment": [
+            "Corp City Act 1-6",
+            "Green Planet Act 1-6",
+            "Green Planet Destroyed"
+        ]
     },
     "Soul Candy": {
         "Name": "Soul Candy",
         "Class": "Evo",
         "Rarity": "Epic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Hollow Desert",
+            "Soul World Act 1-6"
+        ]
     },
     "Starheart": {
         "Name": "Starheart",
         "Class": "Card",
         "Rarity": "Epic",
-        "Description": "+10% Range"
+        "Description": "+10% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Virtual Food": {
         "Name": "Virtual Food",
         "Class": "Evo",
         "Rarity": "Epic",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Red Palace"
+        ]
     },
     "Apple": {
         "Name": "Apple",
         "Class": "Food",
         "Rarity": "Rare",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "Corp City Act 1-6",
+            "Fairy Town Act 1-6",
+            "Ghoul City Act 1-6",
+            "Green Planet Act 1-6",
+            "Green Planet Rift",
+            "Hidden Village Act 1-6",
+            "Test Act 1-6"
+        ]
     },
     "Apron": {
         "Name": "Apron",
         "Class": "Evo",
         "Rarity": "Rare",
-        "Description": "Used to evo Shin."
+        "Description": "Used to evo Shin.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Bean": {
         "Name": "Bean",
         "Class": "Food",
         "Rarity": "Rare",
-        "Description": "Used to give exp to units."
+        "Description": "Used to give exp to units.",
+        "Obtainment": [
+            "Corp City Act 1-6",
+            "Green Planet Act 1-6",
+            "Green Planet Destroyed"
+        ]
     },
     "Deafone": {
         "Name": "Deafone",
         "Class": "Card",
         "Rarity": "Rare",
-        "Description": "+8% Damage, -4% Range"
+        "Description": "+8% Damage, -4% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Demon Monarch Earings": {
         "Name": "Demon Monarch Earings",
         "Class": "Evo",
         "Rarity": "Rare",
-        "Description": "Used to evolve some units."
+        "Description": "Used to evolve some units.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Drawnup": {
         "Name": "Drawnup",
         "Class": "Card",
         "Rarity": "Rare",
-        "Description": "For every unit not recieving a damage buff in this unit's range, this unit gains +50% Damage."
+        "Description": "For every unit not recieving a damage buff in this unit's range, this unit gains +50% Damage.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Ecoist": {
         "Name": "Ecoist",
         "Class": "Card",
         "Rarity": "Rare",
-        "Description": "-2% Cost"
+        "Description": "-2% Cost",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Emburish": {
         "Name": "Emburish",
         "Class": "Card",
         "Rarity": "Rare",
-        "Description": "-1% SPA, +1% Cost"
+        "Description": "-1% SPA, +1% Cost",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Hollow Warrior Mask": {
         "Name": "Hollow Warrior Mask",
         "Class": "Evo",
         "Rarity": "Rare",
-        "Description": "Used to evolve Ulquiorro."
+        "Description": "Used to evolve Ulquiorro.",
+        "Obtainment": [
+            "Hollow Desert"
+        ]
     },
     "Overnow": {
         "Name": "Overnow",
         "Class": "Card",
         "Rarity": "Rare",
-        "Description": "Every 10 attacks, this unit gains +20% Damage for 15 seconds."
+        "Description": "Every 10 attacks, this unit gains +20% Damage for 15 seconds.",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "Scouter": {
         "Name": "Scouter",
         "Class": "Evo",
         "Rarity": "Rare",
-        "Description": "Used to evolve Freeze."
+        "Description": "Used to evolve Freeze.",
+        "Obtainment": [
+            "Corp City Act 1-6",
+            "Green Planet Act 1-6",
+            "Green Planet Destroyed"
+        ]
     },
     "Starlight": {
         "Name": "Starlight",
         "Class": "Card",
         "Rarity": "Rare",
-        "Description": "+4% Range"
+        "Description": "+4% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     },
     "TestCard": {
         "Name": "TestCard",
         "Class": "Card",
         "Rarity": "Rare",
-        "Description": "+5% Damage, +3% Range"
+        "Description": "+5% Damage, +3% Range",
+        "Obtainment": [
+            "Not currently dropped"
+        ]
     }
 }
