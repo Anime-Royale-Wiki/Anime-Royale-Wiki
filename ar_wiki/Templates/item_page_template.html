@@ -1,4 +1,8 @@
 <div x-data="itemFilterSystem" class="db-container glow-items">
+  <script>
+    window.itemData = {{ items | tojson | safe }};
+  </script>
+
   <div class="db-title">Items</div>
   <div class="db-content">
     <div class="data-menu">
@@ -93,7 +97,6 @@
                 </li>
               </template>
             </ul>
-
             <button
               type="button"
               @click="clear_filters()"
@@ -111,19 +114,73 @@
       <div
         class="data-item {{ item.Rarity }} {{ item.Class }}"
         data-name="{{ item.Name|lower }}"
+        data-id="{{ id }}"
+        @click="openItem(window.itemData[$el.dataset.id])"
       >
-        <div class="data-card">
+        <div class="data-card cursor-pointer">
           <div class="data-img-container bg-{{ item.Rarity|lower }}">
             <img
               src="{{ item.Image if item.Image else 'http://placehold.co/120x120' }}"
               alt="{{ item.Name }}"
-              loading="lazy"
             />
           </div>
           <span class="data-name">{{ item.Name }}</span>
         </div>
       </div>
       {% endfor %}
+    </div>
+  </div>
+
+  <div
+    class="item-modal-overlay"
+    x-show="selected_item"
+    x-transition.opacity
+    x-cloak
+    @click.self="closeItem()"
+  >
+    <div
+      class="item-modal-container"
+      :class="'glow-' + selected_item?.Rarity?.toLowerCase()"
+      x-show="selected_item"
+      x-transition.scale
+    >
+      <div class="item-modal-header">
+        <div class="item-modal-img-wrapper">
+          <img
+            :src="selected_item?.Image"
+            :alt="selected_item?.Name"
+            class="item-modal-img"
+          />
+        </div>
+        <h2
+          class="item-modal-title"
+          :class="'text-' + selected_item?.Rarity?.toLowerCase()"
+          x-text="selected_item?.Name"
+        ></h2>
+        <span
+          class="item-modal-rarity-label text-white"
+          x-text="selected_item?.Rarity"
+        ></span>
+      </div>
+
+      <div class="item-modal-body">
+        <div>
+          <h4 class="item-modal-section-title">Description</h4>
+          <p
+            class="item-modal-description"
+            x-text="selected_item?.Description"
+          ></p>
+        </div>
+        <div>
+          <h4 class="item-modal-section-title">Obtainment Locations</h4>
+          <div class="item-modal-obtainment-grid">
+            <template x-for="loc in selected_item?.Obtainment" :key="loc">
+              <span class="item-modal-tag" x-text="loc"></span>
+            </template>
+          </div>
+        </div>
+        <button @click="closeItem()" class="item-modal-close-btn">Close</button>
+      </div>
     </div>
   </div>
 </div>

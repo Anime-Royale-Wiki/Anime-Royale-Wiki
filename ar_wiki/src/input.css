@@ -3,26 +3,27 @@
 @import "./tailwind_styles/filter_layout.css";
 @import "./tailwind_styles/unit_individual.css";
 @import "./tailwind_styles/color_styles.css";
+@import "./tailwind_styles/item_layout.css";
 
 @layer components {
-    .db-container {
-        @apply relative flex flex-col items-stretch w-full max-w-7xl mx-auto p-8;
-        @apply bg-white/[0.02] border border-white/10 rounded-2xl mb-10;
-        box-shadow: 0 0 8px var(--glow-color);
-    }
+  .db-container {
+    @apply relative flex flex-col items-stretch w-full max-w-7xl mx-auto p-8;
+    @apply bg-white/[0.02] border border-white/10 rounded-2xl mb-10;
+    box-shadow: 0 0 8px var(--glow-color);
+  }
 
-    .db-title {
-        @apply absolute -top-4 left-1/2 -translate-x-1/2;
-        @apply px-6 py-1 bg-[#0f0f0f];
-        @apply text-sm font-bold uppercase tracking-widest;
-        @apply rounded-full whitespace-nowrap;
-        color: var(--glow-color);
-        border: 1px solid var(--glow-color);
-        box-shadow: 0 0 15px var(--glow-color);
-        text-shadow: 0 0 8px var(--glow-color);
-    }
+  .db-title {
+    @apply absolute -top-4 left-1/2 -translate-x-1/2;
+    @apply px-6 py-1 bg-[#0f0f0f];
+    @apply text-sm font-bold uppercase tracking-widest;
+    @apply rounded-full whitespace-nowrap;
+    color: var(--glow-color);
+    border: 1px solid var(--glow-color);
+    box-shadow: 0 0 15px var(--glow-color);
+    text-shadow: 0 0 8px var(--glow-color);
+  }
 
-    .db-content {
-        @apply w-full;
-    }
+  .db-content {
+    @apply w-full;
+  }
 }

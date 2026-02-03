@@ -29,7 +29,9 @@
     @apply bg-white/5 border border-white/15 text-white/80;
     @apply text-xs font-bold uppercase tracking-wider transition-all duration-200;
     @apply hover:bg-white/10 hover:border-[#e63946]/50 hover:text-white;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    box-shadow:
+      0 2px 10px rgba(0, 0, 0, 0.3),
+      inset 0 1px 0 rgba(255, 255, 255, 0.05);
   }
 
   .filter-toggle-btn:active {
@@ -44,8 +46,14 @@
   }
 
   @keyframes filterSlideIn {
-    from { opacity: 0; transform: translateY(-8px); }
-    to { opacity: 1; transform: translateY(0); }
+    from {
+      opacity: 0;
+      transform: translateY(-8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
 
   .filter-category {
@@ -86,10 +94,10 @@
     @apply mt-6 w-full py-3 text-center text-[10px] font-bold uppercase tracking-widest text-[#f87171]/40;
     @apply border-t border-white/5 hover:text-[#e63946] transition-colors cursor-pointer;
   }
-  
+
   .data-grid {
     @apply flex flex-wrap justify-start w-auto mt-6;
-    margin-right: -8px; 
+    margin-right: -8px;
     margin-left: -8px;
   }
 
@@ -128,10 +136,42 @@
     @apply w-full h-full object-cover block;
   }
 
+  @media (max-width: 767px) {
+    .data-grid {
+      margin-right: -6px;
+      margin-left: -6px;
+    }
+    .data-item {
+      width: 84px;
+      margin-left: 6px;
+      margin-right: 6px;
+    }
+    .data-img-container {
+      width: 84px;
+      height: 84px;
+      border-width: 1.5px;
+      border-radius: 10px;
+    }
+    .data-name {
+      font-size: 10px;
+      margin-top: 4px;
+    }
+  }
+
   /* Rarities */
-  .bg-royalty   { @apply border-yellow-400/50 shadow-[inset_0_0_15px_rgba(250,204,21,0.2)]; }
-  .bg-secret    { @apply border-rose-500/50 shadow-[inset_0_0_15px_rgba(244,63,94,0.2)]; }
-  .bg-mythic    { @apply border-purple-500/40 shadow-[inset_0_0_15px_rgba(168,85,247,0.15)]; }
-  .bg-legendary { @apply border-yellow-500/40 shadow-[inset_0_0_15px_rgba(234,179,8,0.15)]; }
-  .bg-rare      { @apply border-blue-500/40 shadow-[inset_0_0_15px_rgba(59,130,246,0.15)]; }
+  .bg-royalty {
+    @apply border-yellow-400/50 shadow-[inset_0_0_15px_rgba(250,204,21,0.2)];
+  }
+  .bg-secret {
+    @apply border-rose-500/50 shadow-[inset_0_0_15px_rgba(244,63,94,0.2)];
+  }
+  .bg-mythic {
+    @apply border-purple-500/40 shadow-[inset_0_0_15px_rgba(168,85,247,0.15)];
+  }
+  .bg-legendary {
+    @apply border-yellow-500/40 shadow-[inset_0_0_15px_rgba(234,179,8,0.15)];
+  }
+  .bg-rare {
+    @apply border-blue-500/40 shadow-[inset_0_0_15px_rgba(59,130,246,0.15)];
+  }
 }

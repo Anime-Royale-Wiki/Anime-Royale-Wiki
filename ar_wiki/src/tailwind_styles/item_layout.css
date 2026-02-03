@@ -1,0 +1,76 @@
+@layer components {
+  .item-modal-overlay {
+    @apply fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm;
+  }
+
+  .item-modal-container {
+    @apply bg-[#1a1a1a] border border-white/10 rounded-2xl w-full overflow-hidden shadow-2xl;
+    @apply flex flex-col md:flex-row max-h-[90vh] md:max-w-2xl;
+    box-shadow: 0 0 20px var(--glow-color);
+  }
+
+  .item-modal-header {
+    @apply p-8 text-center bg-white/[0.02] shrink-0;
+    @apply flex flex-col justify-center items-center border-b md:border-b-0 md:border-r border-white/5;
+    @apply md:w-64;
+  }
+
+  .item-modal-img-wrapper {
+    @apply w-32 h-32 md:w-40 md:h-40 mx-auto mb-4 p-1 bg-black/20 rounded-xl;
+  }
+
+  .item-modal-img {
+    @apply w-full h-full object-contain rounded-lg shadow-lg;
+  }
+
+  .item-modal-title {
+    @apply text-2xl md:text-3xl font-black italic tracking-tighter uppercase;
+  }
+
+  .item-modal-rarity-label {
+    @apply text-[10px] font-bold uppercase tracking-[0.2em] opacity-80 mt-1;
+  }
+
+  .item-modal-body {
+    @apply p-6 md:p-8 space-y-6 overflow-y-auto flex-1;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.1) transparent;
+  }
+
+  .item-modal-body::-webkit-scrollbar {
+    @apply w-1;
+  }
+
+  .item-modal-body::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+
+  .item-modal-body::-webkit-scrollbar-thumb {
+    @apply bg-white/10 rounded-full;
+  }
+
+  .item-modal-section-title {
+    @apply text-[10px] uppercase text-slate-500 font-black tracking-widest mb-2 flex items-center gap-2;
+  }
+
+  .item-modal-section-title::after {
+    content: "";
+    @apply h-[1px] bg-white/5 flex-1;
+  }
+
+  .item-modal-description {
+    @apply text-slate-300 text-sm leading-relaxed italic;
+  }
+
+  .item-modal-obtainment-grid {
+    @apply flex flex-wrap gap-2;
+  }
+
+  .item-modal-tag {
+    @apply px-3 py-1.5 bg-white/5 border border-white/10 rounded-lg text-xs font-bold text-white/80;
+  }
+
+  .item-modal-close-btn {
+    @apply w-full py-3 bg-white/5 hover:bg-white/10 text-white font-bold rounded-xl transition-colors text-sm uppercase tracking-widest cursor-pointer mt-8;
+  }
+}
